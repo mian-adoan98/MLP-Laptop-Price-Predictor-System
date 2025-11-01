@@ -24,6 +24,7 @@ class DataLoader(DataCollector):
     # Initialise datafields 
     def __init__(self, filename: str, folder: str):
         self.project_path = "C:\Development\Projects\MachineLearning\Laptop-Price-Predictor-System"
+        self.filename = filename
         self.folder_path = os.path.join(self.project_path, folder)
         self.file = os.path.join(self.folder_path, filename)
 
@@ -37,10 +38,10 @@ class DataLoader(DataCollector):
         if self.file.endswith(".csv"):
             print("File accepted")
         else:
-            raise FileNotFoundError(f"File is not accepted. {self.file} is not a csv file")
+            raise FileNotFoundError(f"File is not accepted/missing an extension. File {self.filename} is not a csv file")
 
         # Load the dataset
-        dataset = pd.read_csv(self.file)
+        dataset = pd.read_csv(self.file, index_col=0)
         return dataset
     
 ## Implement DataSaver class
@@ -51,8 +52,8 @@ class DataSaver:
         self.folder_path = os.path.join(self.project_path, folder)
         
 
-    # Method: saving datasets into a folder 
-    def save(self, data_dict: dict):
+    # Method 1: saving multiple datasets into a folder 
+    def save_multiple_ds(self, data_dict: dict):
         # Check if folder exists
         if not os.path.exists(self.folder_path):
             os.makedirs(self.folder_path)
@@ -71,7 +72,20 @@ class DataSaver:
             file_idx += 1
             print(f"File {file_idx}: dataset as {filename}.csv --> {self.folder_path} (Saving is successful")
 
-    
+    # Method 2: saving one single dataset into a folder 
+    def save_one_ds(self, dataset: pd.DataFrame, filename: str):
+        # Check if folder exists
+        if not os.path.exists(self.folder_path):
+            os.makedirs(self.folder_path)
+
+        # Save dataset to selected folder 
+        # Filename as csv-files
+        csv_filename = f"{filename}.csv"
+
+        # Create a file path
+        self.file = os.path.join(self.folder_path, csv_filename) 
+        dataset.to_csv(self.file)
+
 # Main space: Example code
 if __name__ == "__main__":
     # Initialise variables to select a file from a folder 
