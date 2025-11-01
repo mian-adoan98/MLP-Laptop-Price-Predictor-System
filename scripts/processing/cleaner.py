@@ -53,13 +53,27 @@ class NullRemover(DataCleaner):
 
 # Implement class to remove inconsistencies
 class InconRemover(DataCleaner):
+    # Intialise dataset 
+    def __init__(self, dataset: pd.DataFrame):
+        self.dataset = dataset
+
     # Initialise dataset
     """ For analysing inconsistent data there are several case scenario's to make a distinguish: 
         - scenario 1: features that contains one unique categorical value                   --> inconsistent : detect_duplicates(self)
         - scenario 2: features that supposed to be numeric, but it has special characters   --> inconsistent: detect_incons(self)
         - scenario 3: features that are categorical, but contain data that are not familiar --> inconsistent: ? """
     
-    # Method 1: detect inconsistent data based on given scenario's
+    # Methode 1: remove inconsistent data after detection 
+    def clean(self, feature: str):
+        # Retrieve inconsistent data from detection
+        incons_data = self.detect_incon(feature)
+
+        # Iteration: Replace all inconsistent values 
+        for incons in incons_data:
+            # Replace inconsistent by zero
+            self.dataset[feature] = self.dataset[feature].str.replace(incons, "0")
+
+    # Method 2: detect inconsistent data based on given scenario's
     def detect_incon(self, feature: str) -> list:
         # Convert the dataframe to numpy array
         feature_array = self.dataset[feature].to_numpy()
@@ -81,16 +95,6 @@ class InconRemover(DataCleaner):
         print(f"Feature {feature}: {num_incons} inconsistent data has been detected.")
         
         return incons_list
-    
-    # Methode 2: remove inconsistent data after detection 
-    def remove_incons(self, feature: str):
-        # Retrieve inconsistent data from detection
-        incons_data = self.detect_incon(feature)
-
-        # Iteration: Replace all inconsistent values 
-        for incons in incons_data:
-            # Replace inconsistent by zero
-            self.dataset[feature] = self.dataset[feature].str.replace(incons, "0")
 
 
 # Example code 
