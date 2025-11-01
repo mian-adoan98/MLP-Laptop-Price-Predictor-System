@@ -20,14 +20,15 @@ build a sophisticated machine learning system that perfectly performs in predict
 
 Phases that follows the machine learning Pipeline: 
 
-**1. Data Ingestion
-  2. Data Preparation
-  3. Exploratory Data Analysis
-  4. Feature Engineering
-  5. Model Development (Building & Training) 
-  6. Model Validation (Evaluation & Tuning)
-  7. Model Deployment
-  8. Model Monitoring & Optimization
-  9. Frontend Development**
+  **1. Data Ingestion**
+  **2. Data Preparation**
+  **3. Exploratory Data Analysis**
+  **4. Feature Engineering**
+  **5. Model Development (Building & Training)**
+  **6. Model Validation (Evaluation & Tuning)**
+  **7. Model Deployment**
+  **8. Model Monitoring & Optimization**
+  **9. Frontend Development**
 
   
+
