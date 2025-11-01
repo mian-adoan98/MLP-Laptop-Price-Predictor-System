@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Containers Side by Side</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        /* Parent wrapper for both containers */
+        .container-wrapper {
+            display: flex;
+            justify-content: space-between; /* space between them */
+            gap: 20px; /* adds space between the boxes */
+        }
+
+        .container {
+            flex: 1; /* make them equal width */
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        /* Optional: make container1 smaller */
+        .container1 {
+            flex: 1;
+        }
+
+        .container2 {
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Side-by-Side Containers</h1>
+
+    <div class="container-wrapper">
+        <div class="container container1">
+            <h2>Container 1</h2>
+            <p>This could hold your form inputs or anything else.</p>
+        </div>
+
+        <div class="container container2">
+            <h2>Container 2</h2>
+            <p>This could hold your results, charts, or predictions.</p>
+        </div>
+    </div>
+
+</body>
+</html>

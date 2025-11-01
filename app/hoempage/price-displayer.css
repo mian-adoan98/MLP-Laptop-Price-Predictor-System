@@ -1,0 +1,13 @@
+/*Price Displayer - Stylesheet*/
+
+.price-displayer {
+    font-size: 30px;
+    /* float: right; */
+    margin-left: 450px;
+
+}
+
+#price-counter {
+    font-size: 50;   
+    
+}

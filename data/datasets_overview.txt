@@ -1,0 +1,22 @@
+# Datasets Overview
+
+## Original dataset: 
+ebay_laptop_ds.csv
+
+## Datasets: considered as raw data 
+Laptop_categorical_data.csv
+Laptop_complex_data.csv 
+Laptop_numerical_data.csv 
+
+loc. : processed
+
+## Target datasets for further process
+visual_property_data.csv -> visual_dataset
+network_property_data.csv -> network_dataset
+hardware_property_data.csv -> hardware_dataset
+descriptive_property_data.csv -> descriptive_dataset
+
+loc. : external
+
+
+
