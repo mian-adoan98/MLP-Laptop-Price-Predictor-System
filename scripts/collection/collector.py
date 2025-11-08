@@ -85,6 +85,7 @@ class DataSaver:
         # Create a file path
         self.file = os.path.join(self.folder_path, csv_filename) 
         dataset.to_csv(self.file)
+        print(f"File {csv_filename} has been stored successfully")
 
 # Main space: Example code
 if __name__ == "__main__":
