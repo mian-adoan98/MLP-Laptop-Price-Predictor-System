@@ -1,6 +1,0 @@
-## Code Implemented for System Configuration
-
-import os 
-import sys 
-
-sys.path.append(os.path.abspath(".."))
