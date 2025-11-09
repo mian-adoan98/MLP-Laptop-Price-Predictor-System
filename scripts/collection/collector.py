@@ -54,6 +54,9 @@ class DataSaver:
 
     # Method 1: saving multiple datasets into a folder 
     def save_multiple_ds(self, data_dict: dict):
+        """data_dict: 
+            - Key: filename assinging to the dataset
+            - Value: dataset that will be stored"""
         # Check if folder exists
         if not os.path.exists(self.folder_path):
             os.makedirs(self.folder_path)
