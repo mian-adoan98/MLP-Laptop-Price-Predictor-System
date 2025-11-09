@@ -61,10 +61,16 @@ class InconRemover(DataCleaner):
     """ For analysing inconsistent data there are several case scenario's to make a distinguish: 
         - scenario 1: features that contains one unique categorical value                   --> inconsistent : detect_duplicates(self)
         - scenario 2: features that supposed to be numeric, but it has special characters   --> inconsistent: detect_incons(self)
-        - scenario 3: features that are categorical, but contain data that are not familiar --> inconsistent: ? """
+        - scenario 3: features that are categorical, but contain data that are not familiar --> inconsistent: ? 
+    """
     
     # Methode 1: remove inconsistent data after detection 
-    def clean(self, feature: str):
+    def clean(self, feature: str) -> pd.DataFrame:
+        """
+        Removes or replaces null values in the specified feature column.
+        - For categorical data: replaces nulls with "unknown data".
+        - For numeric data: replaces nulls with mean/median depending on unique values.
+        """
         # Retrieve inconsistent data from detection
         incons_data = self.detect_incon(feature)
 
@@ -72,19 +78,31 @@ class InconRemover(DataCleaner):
         for incons in incons_data:
             # Replace inconsistent by zero
             self.dataset[feature] = self.dataset[feature].str.replace(incons, "0")
+        
+        # Check type of numeric
+        if pd.api.types.is_integer(self.dataset[feature]):
+            # Take median & Replace zero to it
+            median = self.dataset[feature].median()
+            self.dataset[feature] = self.dataset[feature].replace("0", median)
+        
+        elif pd.api.types.is_float_dtype(self.dataset[feature]):
+            # Take mean & Replace zero to it
+            mean = self.dataset[feature].median()
+            self.dataset[feature] = self.dataset[feature].replace("0", mean)
 
+        return self.dataset[feature]
     # Method 2: detect inconsistent data based on given scenario's
     def detect_incon(self, feature: str) -> list:
         # Convert the dataframe to numpy array
         feature_array = self.dataset[feature].to_numpy()
+        
         # Detect inconsistent data
         incons_list = []
         real_list = []
-
         for feature_value in feature_array:
             try:
                 # Check if value is numeric
-                checked_value = float()
+                checked_value = float(feature_value)
                 real_list.append(checked_value)
             except ValueError:
                 # Store inconsistencies into list 
