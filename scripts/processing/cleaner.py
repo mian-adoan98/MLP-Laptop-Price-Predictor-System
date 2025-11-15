@@ -19,6 +19,10 @@ class DataCleaner(ABC):
 
 # Implement Cleaner 
 class NullRemover(DataCleaner): 
+    """
+    NullRemover: a class that build remover objects for only removing all null values throughout the dataset
+    Methods:    clean(): removing all possible null values in a feature data 
+    """
     # Intialise dataset 
     def __init__(self, dataset: pd.DataFrame):
         self.dataset = dataset
@@ -65,7 +69,7 @@ class InconRemover(DataCleaner):
     """
     
     # Methode 1: remove inconsistent data after detection 
-    def clean(self, feature: str) -> pd.DataFrame:
+    def clean(self, feature: str):
         """
         Removes or replaces null values in the specified feature column.
         - For categorical data: replaces nulls with "unknown data".
@@ -76,21 +80,27 @@ class InconRemover(DataCleaner):
 
         # Iteration: Replace all inconsistent values 
         for incons in incons_data:
-            # Replace inconsistent by zero
-            self.dataset[feature] = self.dataset[feature].str.replace(incons, "0")
-        
-        # Check type of numeric
-        if pd.api.types.is_integer(self.dataset[feature]):
-            # Take median & Replace zero to it
-            median = self.dataset[feature].median()
-            self.dataset[feature] = self.dataset[feature].replace("0", median)
-        
-        elif pd.api.types.is_float_dtype(self.dataset[feature]):
-            # Take mean & Replace zero to it
-            mean = self.dataset[feature].median()
-            self.dataset[feature] = self.dataset[feature].replace("0", mean)
+            
+            # Check type of numeric
+            if pd.api.types.is_integer(self.dataset[feature]):
+                # Take median & Replace zero to it
+                median = self.dataset[feature].median()
 
-        return self.dataset[feature]
+                # Replace inconsistent by zero
+                self.dataset[feature] = self.dataset[feature].str.replace(incons, "0")
+                self.dataset[feature] = self.dataset[feature].replace("0", median)
+            
+            elif pd.api.types.is_float_dtype(self.dataset[feature]):
+                # Take mean & Replace zero to it
+                mean = self.dataset[feature].median()
+                self.dataset[feature] = self.dataset[feature].replace("0", mean)
+            
+            elif pd.api.types.is_object_dtype(self.dataset[feature]): # and incons in r'[^a-zA-Z0-9\s]'
+                regex = (r'(\d{1,2}(?:\.\d{1,2})?)')
+                self.dataset[feature] = self.dataset[feature].str.replace(",", ".")
+                self.dataset[feature] = self.dataset[feature].str.extract(regex)
+
+    
     # Method 2: detect inconsistent data based on given scenario's
     def detect_incon(self, feature: str) -> list:
         # Convert the dataframe to numpy array

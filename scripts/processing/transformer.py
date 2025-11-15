@@ -22,9 +22,8 @@ This script contains 3 à 4 transformation functionalities that eases the proces
 # Implement abstract class DataTransformer
 class DataTransformer(ABC):
     # Initialise datasets
-    def __init__(self, dataset1: pd.DataFrame, dataset2: pd.DataFrame):
-        self.dataset1 = dataset1
-        self.dataset2 = dataset2
+    def __init__(self, dataset: pd.DataFrame):
+        self.dataset = dataset
 
     # Abstract Tranform Method: combingin different dataset
     @abstractmethod
@@ -44,9 +43,8 @@ class DataTransformer(ABC):
 # Implement class StatTransformer
 class StatTransformer(DataTransformer):
     # Initialise datasets
-    def __init__(self, dataset1: pd.DataFrame, dataset2: pd.DataFrame):
-        self.dataset1 = dataset1
-        self.dataset2 = dataset2
+    def __init__(self, dataset: pd.DataFrame):
+        self.dataset = dataset
 
     # Transformer method: combine maximum 2 features
     def combine(self, feature1: str, feature2:str) -> pd.DataFrame:
@@ -74,17 +72,16 @@ class StatTransformer(DataTransformer):
 # Implement class ColumnTransformer (combining multiple dataframes)
 class ColumnTransformer(DataTransformer):
     # Initialise datasets
-    def __init__(self, dataset1: pd.DataFrame, dataset2: pd.DataFrame):
-        self.dataset1 = dataset1
-        self.dataset2 = dataset2
+    def __init__(self, dataset: pd.DataFrame):
+        self.dataset = dataset
 
     # Method 1: combine datasets
-    def combine(self) -> pd.DataFrame:
+    def combine(self, sel_dataset: pd.DataFrame) -> pd.DataFrame:
         # Initialise new dataframe
         # combined_df = pd.DataFrame()
 
         # Combine prepared dataframes into one single dataframe
-        container = [self.dataset1, self.dataset2]
+        container = [self.dataset, sel_dataset]
         combined_df = pd.concat(container, axis=1)
 
         return combined_df

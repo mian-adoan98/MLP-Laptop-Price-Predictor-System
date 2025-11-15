@@ -1,0 +1,6 @@
+# Script structure 
+
+processing
+- cleaner.py: complete
+- processor.py: empty
+- transformer.py: incomplete            need algorithms to be implemented for StatTransformer, ColumnTransformer
