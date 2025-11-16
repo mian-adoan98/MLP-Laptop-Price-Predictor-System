@@ -1,7 +1,9 @@
-# Data Processing
-from abc import ABC, abstractmethod
+# Processor: file for building data pipeline
 
-# Import libraries for data cleaning
-import numpy as np 
-import pandas as pd 
-import os 
+# Implement class LaptopPriceProcessor
+class LaptopPriceProcessor:
+    # Method: running a pipeline
+    def run_pipeline(self):
+        pass 
+
+    
