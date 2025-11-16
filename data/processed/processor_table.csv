@@ -1,0 +1,4183 @@
+,PROCESSOR_ID,PROCESSOR,PROCESSOR_SPEED,PROCESSOR_SPEED_UNIT
+0,P0,quad core,3.8,GHz
+1,P1,intel core i5-6300u,2.4,GHz
+2,P2,intel celeron n,2.4,GHz
+3,P3,intel core i5 6th generation,1.4,GHz
+4,P4,intel celeron,1.6,GHz
+5,P5,intel celeron,1.6,GHz
+6,P6,intel celeron dual-core,1.0,GHz
+7,P7,i7 7th,2.8,GHz
+8,P8,intel core i3 10th generation,2.1,GHz
+9,P9,"8350u,  core i5",1.7,GHz
+10,P10,intel core i5 12th generation,0.0,unknown
+11,P11,intel celeron n,1.1,GHz
+12,P12,intel celeron processor n4100,2.8,GHz
+13,P13,intel core i5-8259u,3.8,GHz
+14,P14,intel core i5 7th generation,0.0,unknown
+15,P15,intel core i5 8th generation,1.6,GHz
+16,P16,intel celeron,1.1,GHz
+17,P17,intel celeron n,1.6,GHz
+18,P18,intel core i7 8th generation,4.2,GHz
+19,P19,intel core i7 13th generation,4.4,GHz
+20,P20,amd ryzen 5,2.3,GHz
+21,P21,intel core i5 6th generation,2.6,GHz
+22,P22,undefined,0.0,unknown
+23,P23,i5-8365u,1.6,GHz
+24,P24,intel core i5 4th generation,1.9,GHz
+25,P25,intel celeron n,1.1,GHz
+26,P26,intel core i5-1135g7,0.0,GHz
+27,P27,undefined,0.0,unknown
+28,P28,intel core i5 7th generation,3.1,GHz
+29,P29,quad core,0.0,GHz
+30,P30,intel core i7 8th generation,4.2,GHz
+31,P31,intel celeron n3160,1.6,GHz
+32,P32,i5-7200u,2.5,GHz
+33,P33,intel celeron n4100,0.0,GHz
+34,P34,intel core i7 12th generation,3.5,GHz
+35,P35,intel core i5-4300u,1.9,GHz
+36,P36,i7-7820hq,0.0,GHz
+37,P37,intel core i5-4200u,1.6,GHz
+38,P38,intel celeron n5100,2.8,GHz
+39,P39,intel core i5-8250u,0.0,unknown
+40,P40,amd ryzen 5,0.0,GHz
+41,P41,intel core i5 6th generation,2.4,GHz
+42,P42,intel core i7 13th gen,0.0,unknown
+43,P43,intel celeron,2.16,GHz
+44,P44,intel core i3 6th generation,2.3,GHz
+45,P45,intel i5,2.3,GHz
+46,P46,intel celeron,0.0,unknown
+47,P47,intel core i5,0.0,unknown
+48,P48,intel celeron n,1.6,GHz
+49,P49,amd a4 dual-core,1.6,GHz
+50,P50,intel core i7 6th generation,2.6,GHz
+51,P51,not applicable,0.0,unknown
+52,P52,intel core i5 2nd generation,2.5,GHz
+53,P53,nvidia tegra 3,2.6,GHz
+54,P54,i5-7300hq,2.5,GHz
+55,P55,core i7,2.8,GHz
+56,P56,intel core i5 6th generation,2.6,GHz
+57,P57,intel celeron,1.6,GHz
+58,P58,intel core i3-6100u,2.3,GHz
+59,P59,intel core i5-1135g7,4.2,GHz
+60,P60,intel i7-q740 1.73ghz,1.73,GHz
+61,P61,intel core i5 6th generation,2.4,GHz
+62,P62,intel core i7 6th generation,2.7,GHz
+63,P63,intel core i7 8th generation,1.8,GHz
+64,P64,intel core i5 8th generation,2.6,GHz
+65,P65,intel core i7,0.0,unknown
+66,P66,intel core i5-3320m,2.6,GHz
+67,P67,intel core i5 11th generation,2.4,GHz
+68,P68,intel core i5 6th generation,2.4,GHz
+69,P69,mediatek mt8183,2.0,GHz
+70,P70,intel celeron,2.8,GHz
+71,P71,intel core i5 13th generation,2.1,GHz
+72,P72,intel core i5 10th generation,1.7,GHz
+73,P73,intel core i7 6th generation,0.0,unknown
+74,P74,intel core i7 6th generation,2.6,GHz
+75,P75,intel core i5 6th generation,2.4,GHz
+76,P76,intel core i5 6th gen,2.4,GHz
+77,P77,intel celeron,2.2,GHz
+78,P78,undefined,0.0,unknown
+79,P79,intel core i5-8265u,1.6,GHz
+80,P80,intel core i5 8th generation,1.7,GHz
+81,P81,intel core i3 11th generation,1.8,GHz
+82,P82,intel core i5-10310u,1.7,GHz
+83,P83,intel core i7 4th generation,2.1,GHz
+84,P84,undefined,0.0,unknown
+85,P85,intel celeron n,2.48,GHz
+86,P86,intel celeron,1.1,GHz
+87,P87,amd ryzen 3pro,0.0,unknown
+88,P88,intel celeron n,1.1,GHz
+89,P89,undefined,0.0,unknown
+90,P90,intel celeron n,1.1,GHz
+91,P91,intel core i5 8th generation,0.0,unknown
+92,P92,celeron n2930,0.0,unknown
+93,P93,intel core i7 7th generation,2.6,GHz
+94,P94,intel core i7 8th generation,1.9,GHz
+95,P95,undefined,0.0,unknown
+96,P96,undefined,0.0,unknown
+97,P97,not applicable,0.0,unknown
+98,P98,intel core i5 4th generation,0.0,unknown
+99,P99,undefined,0.0,unknown
+100,P100,undefined,0.0,unknown
+101,P101,intel core i5 4th generation,2.0,GHz
+102,P102,intel core 2 duo,2.0,GHz
+103,P103,8250u,1.6,GHz
+104,P104,undefined,0.0,unknown
+105,P105,intel core i5 10th generation,1.6,GHz
+106,P106,intel core i3 12th generation,1.2,GHz
+107,P107,undefined,0.0,unknown
+108,P108,undefined,0.0,unknown
+109,P109,not applicable,0.0,unknown
+110,P110,undefined,0.0,unknown
+111,P111,intel core i5 4th generation,2.6,GHz
+112,P112,undefined,0.0,unknown
+113,P113,"ntel,",0.0,unknown
+114,P114,intel core i5 6th generation,2.8,GHz
+115,P115,intel celeron n,1.1,GHz
+116,P116,intel celeron,0.0,unknown
+117,P117,undefined,0.0,unknown
+118,P118,intel core m-5y71,1.2,GHz
+119,P119,intel core i7 7th generation,2.5,GHz
+120,P120,intel core i5 11th generation,2.4,GHz
+121,P121,undefined,0.0,unknown
+122,P122,undefined,0.0,unknown
+123,P123,intel core i5 6th generation,3.0,GHz
+124,P124,undefined,0.0,unknown
+125,P125,undefined,0.0,unknown
+126,P126,intel core i3 2330m,0.0,unknown
+127,P127,intel core 2 duo,2.0,GHz
+128,P128,undefined,0.0,unknown
+129,P129,undefined,0.0,unknown
+130,P130,undefined,0.0,unknown
+131,P131,amd ryzen 5,2.1,GHz
+132,P132,undefined,0.0,unknown
+133,P133,intel core i5 6th generation,3.0,GHz
+134,P134,intel pentium,1.1,GHz
+135,P135,undefined,0.0,unknown
+136,P136,intel core i7 13th generation,1.7,GHz
+137,P137,intel,0.0,unknown
+138,P138,undefined,0.0,unknown
+139,P139,undefined,0.0,unknown
+140,P140,undefined,0.0,unknown
+141,P141,intel core i5 3rd generation,3.0,GHz
+142,P142,undefined,0.0,unknown
+143,P143,intel core i5 6th generation,2.8,GHz
+144,P144,undefined,0.0,unknown
+145,P145,undefined,0.0,unknown
+146,P146,undefined,0.0,unknown
+147,P147,undefined,0.0,unknown
+148,P148,undefined,0.0,unknown
+149,P149,undefined,0.0,unknown
+150,P150,undefined,0.0,unknown
+151,P151,not applicable,0.0,unknown
+152,P152,undefined,0.0,unknown
+153,P153,intel i5,2.5,GHz
+154,P154,undefined,0.0,unknown
+155,P155,undefined,0.0,unknown
+156,P156,undefined,0.0,unknown
+157,P157,intel core i3 4th generation,3.0,GHz
+158,P158,intel core i5-2520m,2.5,GHz
+159,P159,intel core i5 6th generation,2.8,GHz
+160,P160,undefined,0.0,unknown
+161,P161,undefined,0.0,unknown
+162,P162,intel core i5 4th generation,2.6,GHz
+163,P163,undefined,0.0,unknown
+164,P164,undefined,0.0,unknown
+165,P165,undefined,0.0,unknown
+166,P166,undefined,0.0,unknown
+167,P167,undefined,0.0,unknown
+168,P168,intel core i5 6th generation,2.3,GHz
+169,P169,undefined,0.0,unknown
+170,P170,undefined,0.0,unknown
+171,P171,undefined,0.0,unknown
+172,P172,undefined,0.0,unknown
+173,P173,undefined,0.0,unknown
+174,P174,undefined,0.0,unknown
+175,P175,undefined,0.0,unknown
+176,P176,not applicable,0.0,unknown
+177,P177,undefined,0.0,unknown
+178,P178,undefined,0.0,unknown
+179,P179,undefined,0.0,unknown
+180,P180,undefined,0.0,unknown
+181,P181,undefined,0.0,unknown
+182,P182,undefined,0.0,unknown
+183,P183,undefined,0.0,unknown
+184,P184,undefined,0.0,unknown
+185,P185,undefined,0.0,unknown
+186,P186,not applicable,0.0,unknown
+187,P187,undefined,0.0,unknown
+188,P188,not applicable,0.0,unknown
+189,P189,undefined,0.0,unknown
+190,P190,undefined,0.0,unknown
+191,P191,intel core i5 4th generation,2.7,GHz
+192,P192,undefined,0.0,unknown
+193,P193,intel core i3 7th generation,3.0,GHz
+194,P194,undefined,0.0,unknown
+195,P195,undefined,0.0,unknown
+196,P196,intel core i5 4th generation,2.6,GHz
+197,P197,intel i5-5300u,2.3,GHz
+198,P198,8365u,1.6,GHz
+199,P199,intel core i5 6th generation,3.0,GHz
+200,P200,undefined,0.0,unknown
+201,P201,intel core i3 6th generation,3.0,GHz
+202,P202,undefined,0.0,unknown
+203,P203,undefined,0.0,unknown
+204,P204,undefined,0.0,unknown
+205,P205,not applicable,0.0,unknown
+206,P206,undefined,0.0,unknown
+207,P207,undefined,0.0,unknown
+208,P208,undefined,0.0,unknown
+209,P209,undefined,0.0,unknown
+210,P210,undefined,0.0,unknown
+211,P211,undefined,0.0,unknown
+212,P212,undefined,0.0,unknown
+213,P213,undefined,0.0,unknown
+214,P214,undefined,0.0,unknown
+215,P215,undefined,0.0,unknown
+216,P216,undefined,0.0,unknown
+217,P217,undefined,0.0,unknown
+218,P218,undefined,0.0,unknown
+219,P219,undefined,0.0,unknown
+220,P220,undefined,0.0,unknown
+221,P221,undefined,0.0,unknown
+222,P222,undefined,0.0,unknown
+223,P223,intel core i5 4th generation,0.0,unknown
+224,P224,undefined,0.0,unknown
+225,P225,undefined,0.0,unknown
+226,P226,undefined,0.0,unknown
+227,P227,undefined,0.0,unknown
+228,P228,intel core i5 6th generation,0.0,unknown
+229,P229,undefined,0.0,unknown
+230,P230,intel core i3 7th generation,2.4,GHz
+231,P231,not applicable,0.0,unknown
+232,P232,undefined,0.0,unknown
+233,P233,undefined,0.0,unknown
+234,P234,intel core i5 4th generation,2.6,GHz
+235,P235,undefined,0.0,unknown
+236,P236,undefined,0.0,unknown
+237,P237,undefined,0.0,unknown
+238,P238,undefined,0.0,unknown
+239,P239,undefined,0.0,unknown
+240,P240,undefined,0.0,unknown
+241,P241,undefined,0.0,unknown
+242,P242,undefined,0.0,unknown
+243,P243,undefined,0.0,unknown
+244,P244,intel celeron,0.0,unknown
+245,P245,undefined,0.0,unknown
+246,P246,undefined,0.0,unknown
+247,P247,undefined,0.0,unknown
+248,P248,intel core i5 5th generation,2.7,GHz
+249,P249,intel core i5 4th generation,2.6,GHz
+250,P250,undefined,0.0,unknown
+251,P251,intel core i3 7th generation,3.0,GHz
+252,P252,undefined,0.0,unknown
+253,P253,not applicable,0.0,unknown
+254,P254,undefined,0.0,unknown
+255,P255,intel celeron,0.0,unknown
+256,P256,intel core i5 6th generation,3.0,GHz
+257,P257,intel core i5 6th generation,3.0,GHz
+258,P258,intel core i5 4th generation,0.0,unknown
+259,P259,undefined,0.0,unknown
+260,P260,undefined,0.0,unknown
+261,P261,undefined,0.0,unknown
+262,P262,undefined,0.0,unknown
+263,P263,undefined,0.0,unknown
+264,P264,undefined,0.0,unknown
+265,P265,intel core i5 4th generation,2.6,GHz
+266,P266,intel core i3 4th generation,3.0,GHz
+267,P267,intel core i5 6th generation,2.3,GHz
+268,P268,intel core i5 4th generation,3.0,GHz
+269,P269,undefined,0.0,unknown
+270,P270,undefined,0.0,unknown
+271,P271,undefined,0.0,unknown
+272,P272,undefined,0.0,unknown
+273,P273,undefined,0.0,unknown
+274,P274,intel core i5 4th generation,2.6,GHz
+275,P275,undefined,0.0,unknown
+276,P276,undefined,0.0,unknown
+277,P277,undefined,0.0,unknown
+278,P278,undefined,0.0,unknown
+279,P279,undefined,0.0,unknown
+280,P280,not applicable,0.0,unknown
+281,P281,not applicable,0.0,unknown
+282,P282,intel core i5 6th generation,2.8,GHz
+283,P283,undefined,0.0,unknown
+284,P284,intel core i5 4th generation,2.6,GHz
+285,P285,undefined,0.0,unknown
+286,P286,not applicable,0.0,unknown
+287,P287,intel core i5 4th generation,2.6,GHz
+288,P288,undefined,0.0,unknown
+289,P289,undefined,0.0,unknown
+290,P290,12th gen intel core i5-12450h,4.4,GHz
+291,P291,undefined,0.0,unknown
+292,P292,undefined,0.0,unknown
+293,P293,undefined,0.0,unknown
+294,P294,undefined,0.0,unknown
+295,P295,undefined,0.0,unknown
+296,P296,undefined,0.0,unknown
+297,P297,undefined,0.0,unknown
+298,P298,intel core i3 7th generation,2.4,GHz
+299,P299,intel core i5 4th generation,2.6,GHz
+300,P300,undefined,0.0,unknown
+301,P301,undefined,0.0,unknown
+302,P302,undefined,0.0,unknown
+303,P303,undefined,0.0,unknown
+304,P304,undefined,0.0,unknown
+305,P305,undefined,0.0,unknown
+306,P306,undefined,0.0,unknown
+307,P307,pentium4,0.0,unknown
+308,P308,undefined,0.0,unknown
+309,P309,not applicable,0.0,unknown
+310,P310,undefined,0.0,unknown
+311,P311,not applicable,0.0,unknown
+312,P312,undefined,0.0,unknown
+313,P313,undefined,0.0,unknown
+314,P314,undefined,0.0,unknown
+315,P315,intel core i3 4th generation,0.0,unknown
+316,P316,undefined,0.0,unknown
+317,P317,intel core i5 4th generation,0.0,unknown
+318,P318,not applicable,0.0,unknown
+319,P319,intel core i7 11th generation,0.0,unknown
+320,P320,undefined,0.0,unknown
+321,P321,undefined,0.0,unknown
+322,P322,undefined,0.0,unknown
+323,P323,undefined,0.0,unknown
+324,P324,not applicable,0.0,unknown
+325,P325,intel core i5 6th generation,2.8,GHz
+326,P326,undefined,0.0,unknown
+327,P327,undefined,0.0,unknown
+328,P328,intel pentium,0.0,unknown
+329,P329,undefined,0.0,unknown
+330,P330,undefined,0.0,unknown
+331,P331,intel core i5 3rd generation,3.0,GHz
+332,P332,undefined,0.0,unknown
+333,P333,undefined,0.0,unknown
+334,P334,undefined,0.0,unknown
+335,P335,intel core i5 3rd generation,3.1,GHz
+336,P336,amd 3020e,0.0,unknown
+337,P337,undefined,0.0,unknown
+338,P338,intel core i5 6th generation,2.8,GHz
+339,P339,intel core i5 4th generation,0.0,unknown
+340,P340,undefined,0.0,unknown
+341,P341,undefined,0.0,unknown
+342,P342,intel core i5 6th generation,2.4,GHz
+343,P343,undefined,0.0,unknown
+344,P344,undefined,0.0,unknown
+345,P345,8265u,1.6,GHz
+346,P346,undefined,0.0,unknown
+347,P347,undefined,0.0,unknown
+348,P348,not applicable,0.0,unknown
+349,P349,undefined,0.0,unknown
+350,P350,not applicable,0.0,unknown
+351,P351,not applicable,0.0,unknown
+352,P352,not applicable,0.0,unknown
+353,P353,undefined,0.0,unknown
+354,P354,undefined,0.0,unknown
+355,P355,undefined,0.0,unknown
+356,P356,undefined,0.0,unknown
+357,P357,undefined,0.0,unknown
+358,P358,undefined,0.0,unknown
+359,P359,intel core i3 4th generation,3.0,GHz
+360,P360,undefined,0.0,unknown
+361,P361,undefined,0.0,unknown
+362,P362,undefined,0.0,unknown
+363,P363,undefined,0.0,unknown
+364,P364,intel core i5 7th generation,3.1,GHz
+365,P365,undefined,0.0,unknown
+366,P366,undefined,0.0,unknown
+367,P367,undefined,0.0,unknown
+368,P368,intel core i5 3rd generation,3.0,GHz
+369,P369,intel core i5 4th generation,2.6,GHz
+370,P370,intel core i5 4th generation,2.6,GHz
+371,P371,not applicable,0.0,unknown
+372,P372,undefined,0.0,unknown
+373,P373,undefined,0.0,unknown
+374,P374,undefined,0.0,unknown
+375,P375,undefined,0.0,unknown
+376,P376,undefined,0.0,unknown
+377,P377,undefined,0.0,unknown
+378,P378,undefined,0.0,unknown
+379,P379,undefined,0.0,unknown
+380,P380,undefined,0.0,unknown
+381,P381,undefined,0.0,unknown
+382,P382,inter core i7 8550u,1.8,GHz
+383,P383,intel core i5 4th generation,2.6,GHz
+384,P384,undefined,0.0,unknown
+385,P385,undefined,0.0,unknown
+386,P386,undefined,0.0,unknown
+387,P387,intel core i5 â€‹â€‹12th generation,4.0,GHz
+388,P388,intel core i5 5th generation,2.7,GHz
+389,P389,undefined,0.0,unknown
+390,P390,not applicable,0.0,unknown
+391,P391,undefined,0.0,unknown
+392,P392,undefined,0.0,unknown
+393,P393,not applicable,0.0,unknown
+394,P394,undefined,0.0,unknown
+395,P395,undefined,0.0,unknown
+396,P396,intel core i3 10th generation,3.4,GHz
+397,P397,intel core i5 6th generation,2.3,GHz
+398,P398,undefined,0.0,unknown
+399,P399,undefined,0.0,unknown
+400,P400,undefined,0.0,unknown
+401,P401,undefined,0.0,unknown
+402,P402,not applicable,0.0,unknown
+403,P403,intel core i5 3rd generation,3.1,GHz
+404,P404,intel core i5 4th generation,3.0,GHz
+405,P405,intel core i3 4th generation,0.0,unknown
+406,P406,not applicable,0.0,unknown
+407,P407,undefined,0.0,unknown
+408,P408,undefined,0.0,unknown
+409,P409,not applicable,0.0,unknown
+410,P410,undefined,0.0,unknown
+411,P411,not applicable,0.0,unknown
+412,P412,undefined,0.0,unknown
+413,P413,undefined,0.0,unknown
+414,P414,not applicable,0.0,unknown
+415,P415,undefined,0.0,unknown
+416,P416,undefined,0.0,unknown
+417,P417,not applicable,0.0,unknown
+418,P418,undefined,0.0,unknown
+419,P419,undefined,0.0,unknown
+420,P420,undefined,0.0,unknown
+421,P421,undefined,0.0,unknown
+422,P422,not applicable,0.0,unknown
+423,P423,undefined,0.0,unknown
+424,P424,intel core i3 4th generation,3.0,GHz
+425,P425,undefined,0.0,unknown
+426,P426,intel core i5 4th generation,0.0,unknown
+427,P427,undefined,0.0,unknown
+428,P428,not applicable,0.0,unknown
+429,P429,undefined,0.0,unknown
+430,P430,undefined,0.0,unknown
+431,P431,intel core i3 6th generation,0.0,unknown
+432,P432,not applicable,0.0,unknown
+433,P433,undefined,0.0,unknown
+434,P434,undefined,0.0,unknown
+435,P435,undefined,0.0,unknown
+436,P436,intel core i5 4th generation,2.6,GHz
+437,P437,i5-6300 2.4 ghz,2.4,GHz
+438,P438,undefined,0.0,unknown
+439,P439,undefined,0.0,unknown
+440,P440,undefined,0.0,unknown
+441,P441,undefined,0.0,unknown
+442,P442,undefined,0.0,unknown
+443,P443,not applicable,0.0,unknown
+444,P444,not applicable,0.0,unknown
+445,P445,intel celeron,1.6,GHz
+446,P446,undefined,0.0,unknown
+447,P447,intel core i5 2nd generation,0.0,unknown
+448,P448,intel core i3 4th generation,3.0,GHz
+449,P449,undefined,0.0,unknown
+450,P450,undefined,0.0,unknown
+451,P451,undefined,0.0,unknown
+452,P452,undefined,0.0,unknown
+453,P453,undefined,0.0,unknown
+454,P454,undefined,0.0,unknown
+455,P455,undefined,0.0,unknown
+456,P456,undefined,0.0,unknown
+457,P457,undefined,0.0,unknown
+458,P458,intel core i5 4th generation,3.0,GHz
+459,P459,undefined,0.0,unknown
+460,P460,undefined,0.0,unknown
+461,P461,undefined,0.0,unknown
+462,P462,undefined,0.0,unknown
+463,P463,undefined,0.0,unknown
+464,P464,undefined,0.0,unknown
+465,P465,undefined,0.0,unknown
+466,P466,undefined,0.0,unknown
+467,P467,undefined,0.0,unknown
+468,P468,intel core i3 6th generation,3.0,GHz
+469,P469,undefined,0.0,unknown
+470,P470,undefined,0.0,unknown
+471,P471,undefined,0.0,unknown
+472,P472,undefined,0.0,unknown
+473,P473,not applicable,0.0,unknown
+474,P474,not applicable,0.0,unknown
+475,P475,not applicable,0.0,unknown
+476,P476,not applicable,0.0,unknown
+477,P477,undefined,0.0,unknown
+478,P478,not applicable,0.0,unknown
+479,P479,not applicable,0.0,unknown
+480,P480,undefined,0.0,unknown
+481,P481,undefined,0.0,unknown
+482,P482,undefined,0.0,unknown
+483,P483,undefined,0.0,unknown
+484,P484,intel core i3 12th generation,1.2,GHz
+485,P485,amd ryzen 5 7000 series,2.8,GHz
+486,P486,intel celeron n,1.6,GHz
+487,P487,intel core i7 8th generation,1.9,GHz
+488,P488,intel core i5-8250u,1.6,GHz
+489,P489,intel core i5 12th generation,4.4,GHz
+490,P490,intel core i5 9th generation,2.4,GHz
+491,P491,undefined,1.8,GHz
+492,P492,intel core i3 11th generation,0.0,unknown
+493,P493,intel core 2 duo,0.0,unknown
+494,P494,intel core i5 8th generation,1.7,GHz
+495,P495,intel core i5 11th generation,2.4,GHz
+496,P496,intel core i7 13th gen,2.2,GHz
+497,P497,intel core i5 8th generation,1.6,GHz
+498,P498,i5,1.6,GHz
+499,P499,intel core i5-8265u,1.6,GHz
+500,P500,intel core i5-5300u,2.3,GHz
+501,P501,undefined,0.0,unknown
+502,P502,intel core i7 11th generation,0.0,unknown
+503,P503,intel pentium,3.5,GHz
+504,P504,intel core i7 6th generation,2.7,GHz
+505,P505,intel core i3 3rd generation,2.5,GHz
+506,P506,intel core i5 7th generation,2.6,GHz
+507,P507,a9 chip,0.0,unknown
+508,P508,intel atom quad-core,1.6,GHz
+509,P509,intel xeon,2.8,GHz
+510,P510,intel core i5 10th generation,1.5,GHz
+511,P511,intel core i7 8th generation,1.9,GHz
+512,P512,intel core i5 7th generation,2.6,GHz
+513,P513,intel core i5 8th generation,1.3,GHz
+514,P514,intel core i7 2nd generation,2.4,GHz
+515,P515,intel core i7 9th generation,0.0,unknown
+516,P516,google tensor g2,0.0,unknown
+517,P517,intel core i7 4th generation,2.9,GHz
+518,P518,intel core i7-7600u,0.0,unknown
+519,P519,intel core i3 11th generation,3.0,GHz
+520,P520,core i5-7300u,0.0,unknown
+521,P521,qualcomm msm8909,0.0,unknown
+522,P522,intel core i5 6th generation,2.4,GHz
+523,P523,intel core i5 13th generation,1.7,GHz
+524,P524,core i5 8th gen i5-8365u,0.0,unknown
+525,P525,intel core i5 12th generation,3.3,GHz
+526,P526,i7-8550u,1.8,GHz
+527,P527,intel core i5 8th generation,1.7,GHz
+528,P528,amd ryzen 7,2.6,GHz
+529,P529,intel core i7 8th generation,1.9,GHz
+530,P530,undefined,0.0,unknown
+531,P531,undefined,0.0,unknown
+532,P532,undefined,0.0,unknown
+533,P533,undefined,0.0,unknown
+534,P534,undefined,0.0,unknown
+535,P535,intel core i5 4th generation,2.6,GHz
+536,P536,undefined,0.0,unknown
+537,P537,intel core i3 7th generation,3.0,GHz
+538,P538,undefined,0.0,unknown
+539,P539,undefined,0.0,unknown
+540,P540,ntel,0.0,unknown
+541,P541,undefined,0.0,unknown
+542,P542,undefined,0.0,unknown
+543,P543,undefined,0.0,unknown
+544,P544,undefined,0.0,unknown
+545,P545,undefined,0.0,unknown
+546,P546,undefined,0.0,unknown
+547,P547,undefined,0.0,unknown
+548,P548,undefined,0.0,unknown
+549,P549,intel core i5 4th generation,0.0,unknown
+550,P550,undefined,0.0,unknown
+551,P551,intel core i5 6th generation,3.0,GHz
+552,P552,undefined,0.0,unknown
+553,P553,intel core i5 6th generation,2.3,GHz
+554,P554,intel core i5 6th generation,2.8,GHz
+555,P555,undefined,0.0,unknown
+556,P556,intel core i5 4th generation,2.6,GHz
+557,P557,not applicable,0.0,unknown
+558,P558,not applicable,0.0,unknown
+559,P559,undefined,0.0,unknown
+560,P560,undefined,0.0,unknown
+561,P561,undefined,0.0,unknown
+562,P562,not applicable,0.0,unknown
+563,P563,not applicable,0.0,unknown
+564,P564,not applicable,0.0,unknown
+565,P565,not applicable,0.0,unknown
+566,P566,undefined,0.0,unknown
+567,P567,undefined,0.0,unknown
+568,P568,not applicable,0.0,unknown
+569,P569,intel core i7 6th generation,2.6,GHz
+570,P570,not applicable,0.0,unknown
+571,P571,undefined,0.0,unknown
+572,P572,intel core i5 5th generation,0.0,unknown
+573,P573,undefined,0.0,unknown
+574,P574,not applicable,0.0,unknown
+575,P575,undefined,0.0,unknown
+576,P576,undefined,0.0,unknown
+577,P577,undefined,0.0,unknown
+578,P578,undefined,0.0,unknown
+579,P579,intel core i5 5th generation,2.7,GHz
+580,P580,not applicable,0.0,unknown
+581,P581,undefined,0.0,unknown
+582,P582,undefined,0.0,unknown
+583,P583,undefined,0.0,unknown
+584,P584,intel pentium,0.0,unknown
+585,P585,undefined,0.0,unknown
+586,P586,undefined,0.0,unknown
+587,P587,intel core i5 4th generation,0.0,unknown
+588,P588,undefined,0.0,unknown
+589,P589,intel core i5 6th generation,2.3,GHz
+590,P590,intel core i5 6th generation,0.0,unknown
+591,P591,undefined,0.0,unknown
+592,P592,intel core i5 5th generation,2.7,GHz
+593,P593,undefined,0.0,unknown
+594,P594,undefined,0.0,unknown
+595,P595,undefined,0.0,unknown
+596,P596,not applicable,0.0,unknown
+597,P597,undefined,0.0,unknown
+598,P598,undefined,0.0,unknown
+599,P599,undefined,0.0,unknown
+600,P600,undefined,0.0,unknown
+601,P601,undefined,0.0,unknown
+602,P602,intel core i5 4th generation,1.99,GHz
+603,P603,intel core i5 7th generation,3.1,GHz
+604,P604,undefined,0.0,unknown
+605,P605,undefined,0.0,unknown
+606,P606,undefined,0.0,unknown
+607,P607,undefined,0.0,unknown
+608,P608,not applicable,0.0,unknown
+609,P609,undefined,0.0,unknown
+610,P610,intel core i5 6th generation,2.8,GHz
+611,P611,intel core i5 4th generation,4.0,GHz
+612,P612,undefined,0.0,unknown
+613,P613,not applicable,0.0,unknown
+614,P614,not applicable,0.0,unknown
+615,P615,inter core i7 8550u,1.8,GHz
+616,P616,not applicable,0.0,unknown
+617,P617,undefined,0.0,unknown
+618,P618,not applicable,0.0,unknown
+619,P619,intel core i5 6th generation,2.3,GHz
+620,P620,intel celeron,0.0,unknown
+621,P621,intel core i5 7th generation,2.6,GHz
+622,P622,intel core i5 4th generation,0.0,unknown
+623,P623,not applicable,0.0,unknown
+624,P624,not applicable,0.0,unknown
+625,P625,not applicable,0.0,unknown
+626,P626,intel core m5,2.9,GHz
+627,P627,not applicable,0.0,unknown
+628,P628,undefined,0.0,unknown
+629,P629,undefined,0.0,unknown
+630,P630,not applicable,0.0,unknown
+631,P631,undefined,0.0,unknown
+632,P632,intel core i5 4th generation,2.6,GHz
+633,P633,not applicable,0.0,unknown
+634,P634,undefined,0.0,unknown
+635,P635,not applicable,0.0,unknown
+636,P636,undefined,0.0,unknown
+637,P637,undefined,0.0,unknown
+638,P638,not applicable,0.0,unknown
+639,P639,undefined,0.0,unknown
+640,P640,not applicable,0.0,unknown
+641,P641,intel celeron n,0.0,unknown
+642,P642,not applicable,0.0,unknown
+643,P643,undefined,0.0,unknown
+644,P644,intel core i5 4th generation,3.0,GHz
+645,P645,not applicable,0.0,unknown
+646,P646,undefined,0.0,unknown
+647,P647,undefined,0.0,unknown
+648,P648,undefined,0.0,unknown
+649,P649,intel pentium 4 m,0.0,unknown
+650,P650,undefined,0.0,unknown
+651,P651,undefined,0.0,unknown
+652,P652,undefined,0.0,unknown
+653,P653,intel core i5 6th generation,2.3,GHz
+654,P654,intel celeron,1.6,GHz
+655,P655,intel core i5 6th generation,2.8,GHz
+656,P656,undefined,0.0,unknown
+657,P657,undefined,0.0,unknown
+658,P658,not applicable,0.0,unknown
+659,P659,undefined,0.0,unknown
+660,P660,undefined,0.0,unknown
+661,P661,undefined,0.0,unknown
+662,P662,undefined,0.0,unknown
+663,P663,undefined,0.0,unknown
+664,P664,intel core i5 4th generation,1.99,GHz
+665,P665,intel core i5 6th generation,0.0,unknown
+666,P666,undefined,0.0,unknown
+667,P667,undefined,0.0,unknown
+668,P668,undefined,0.0,unknown
+669,P669,undefined,0.0,unknown
+670,P670,undefined,0.0,unknown
+671,P671,undefined,0.0,unknown
+672,P672,intel core i5 4th generation,2.6,GHz
+673,P673,intel core i5 3rd generation,3.1,GHz
+674,P674,undefined,0.0,unknown
+675,P675,intel core i5 4th generation,2.6,GHz
+676,P676,not applicable,0.0,unknown
+677,P677,intel core i5 2nd generation,3.0,GHz
+678,P678,undefined,0.0,unknown
+679,P679,undefined,0.0,unknown
+680,P680,undefined,0.0,unknown
+681,P681,not applicable,0.0,unknown
+682,P682,undefined,0.0,unknown
+683,P683,undefined,0.0,unknown
+684,P684,not applicable,0.0,unknown
+685,P685,undefined,0.0,unknown
+686,P686,not applicable,0.0,unknown
+687,P687,undefined,0.0,unknown
+688,P688,undefined,0.0,unknown
+689,P689,undefined,0.0,unknown
+690,P690,not applicable,0.0,unknown
+691,P691,intel core i7 7th gen,2.8,GHz
+692,P692,intel core i5 â€‹â€‹12th generation,4.0,GHz
+693,P693,undefined,0.0,unknown
+694,P694,not applicable,0.0,unknown
+695,P695,inter core i7 8550u,1.8,GHz
+696,P696,not applicable,0.0,unknown
+697,P697,undefined,0.0,unknown
+698,P698,undefined,0.0,unknown
+699,P699,intel core i5 3rd generation,0.0,unknown
+700,P700,undefined,0.0,unknown
+701,P701,intel core i3 6th generation,3.0,GHz
+702,P702,undefined,0.0,unknown
+703,P703,core i5 5300u 2.30 ghz,2.3,GHz
+704,P704,undefined,0.0,unknown
+705,P705,intel core i3 7th generation,2.4,GHz
+706,P706,intel core i5 5th generation,0.0,unknown
+707,P707,undefined,0.0,unknown
+708,P708,undefined,0.0,unknown
+709,P709,not applicable,0.0,unknown
+710,P710,intel core i5 4th generation,2.6,GHz
+711,P711,intel core i3 7th generation,2.4,GHz
+712,P712,intel core i3 8th generation,2.2,GHz
+713,P713,undefined,0.0,unknown
+714,P714,intel core i5 4th generation,2.6,GHz
+715,P715,undefined,0.0,unknown
+716,P716,undefined,0.0,unknown
+717,P717,not applicable,2.26,MHz
+718,P718,intel core i5 4th generation,2.6,GHz
+719,P719,undefined,0.0,unknown
+720,P720,undefined,0.0,unknown
+721,P721,undefined,0.0,unknown
+722,P722,intel core i3 4th generation,3.0,GHz
+723,P723,undefined,0.0,unknown
+724,P724,intel core i5 3rd generation,3.1,GHz
+725,P725,intel core i5 3rd generation,3.1,GHz
+726,P726,not applicable,0.0,unknown
+727,P727,undefined,0.0,unknown
+728,P728,undefined,0.0,unknown
+729,P729,not applicable,0.0,unknown
+730,P730,undefined,0.0,unknown
+731,P731,not applicable,0.0,unknown
+732,P732,intel core i5 4th generation,1.99,GHz
+733,P733,undefined,0.0,unknown
+734,P734,undefined,0.0,unknown
+735,P735,intel core 2 duo,0.0,unknown
+736,P736,undefined,0.0,unknown
+737,P737,undefined,0.0,unknown
+738,P738,undefined,0.0,unknown
+739,P739,intel core i5 3rd generation,0.0,unknown
+740,P740,undefined,0.0,unknown
+741,P741,undefined,0.0,unknown
+742,P742,not applicable,0.0,unknown
+743,P743,intel core i5 6th generation,2.8,GHz
+744,P744,undefined,0.0,unknown
+745,P745,undefined,0.0,unknown
+746,P746,intel core i5 4th generation,2.6,GHz
+747,P747,not applicable,0.0,unknown
+748,P748,intel core i5 4th generation,2.6,GHz
+749,P749,undefined,0.0,unknown
+750,P750,intel core i5 4th generation,2.6,GHz
+751,P751,undefined,0.0,unknown
+752,P752,intel core i5 6th generation,0.0,unknown
+753,P753,undefined,0.0,unknown
+754,P754,undefined,0.0,unknown
+755,P755,intel core i5 4th generation,3.0,GHz
+756,P756,undefined,0.0,unknown
+757,P757,intel core i5 6th generation,3.0,GHz
+758,P758,not applicable,0.0,unknown
+759,P759,not applicable,0.0,unknown
+760,P760,intel core i5 4th generation,0.0,unknown
+761,P761,not applicable,0.0,unknown
+762,P762,undefined,0.0,unknown
+763,P763,undefined,0.0,unknown
+764,P764,undefined,0.0,unknown
+765,P765,undefined,0.0,unknown
+766,P766,intel core i3 6th generation,3.0,GHz
+767,P767,not applicable,0.0,unknown
+768,P768,undefined,0.0,unknown
+769,P769,intel core i5 4th generation,0.0,unknown
+770,P770,not applicable,0.0,unknown
+771,P771,intel core i5 6th generation,3.0,GHz
+772,P772,undefined,0.0,unknown
+773,P773,undefined,0.0,unknown
+774,P774,not applicable,0.0,unknown
+775,P775,intel core i5 2nd generation,0.0,unknown
+776,P776,not applicable,0.0,unknown
+777,P777,not applicable,0.0,unknown
+778,P778,undefined,0.0,unknown
+779,P779,intel core i5 4th generation,2.6,GHz
+780,P780,undefined,0.0,unknown
+781,P781,intel core i5 3rd generation,3.0,GHz
+782,P782,undefined,0.0,unknown
+783,P783,intel core i7 7th generation,0.0,unknown
+784,P784,intel core i7 6th generation,2.7,GHz
+785,P785,intel celeron,1.6,GHz
+786,P786,intel core i7 10th generation,1.8,GHz
+787,P787,i9-13900hx,0.0,unknown
+788,P788,intel core i5 8th generation,1.6,GHz
+789,P789,intel core i9 13th generation,0.0,unknown
+790,P790,intel core i3 11th generation,3.0,GHz
+791,P791,intel xeon,2.8,GHz
+792,P792,intel core i7 4th generation,0.0,unknown
+793,P793,intel core i5 10th generation,0.0,unknown
+794,P794,intel core i5 6th generation,2.4,GHz
+795,P795,intel core i7 9th generation,2.6,GHz
+796,P796,intel core i5-7200u,2.5,GHz
+797,P797,intel celeron,2.16,GHz
+798,P798,intel core 2 duo,2.26,GHz
+799,P799,intel core i5 8th generation,0.0,unknown
+800,P800,intel core i5-1135g7,2.4,GHz
+801,P801,intel core i5 3rd generation,0.0,unknown
+802,P802,intel core i5 11th generation,0.0,unknown
+803,P803,intel celeron n,1.1,GHz
+804,P804,intel core i5,2.5,GHz
+805,P805,intel celeron,2.0,GHz
+806,P806,intel core i7 8th generation,2.6,GHz
+807,P807,intel celeron,1.1,GHz
+808,P808,intel core i5 6th generation,2.4,GHz
+809,P809,intel core i7 12th generation,2.9,GHz
+810,P810,intel core i5 12th generation,2.4,GHz
+811,P811,intel core i5,0.0,unknown
+812,P812,intel core i5-8365u,1.6,GHz
+813,P813,undefined,0.0,unknown
+814,P814,amd ryzen 5,2.1,GHz
+815,P815,intel celeron,1.6,GHz
+816,P816,undefined,0.0,unknown
+817,P817,intel core i7 13th generation,2.4,GHz
+818,P818,intel celeron,1.5,GHz
+819,P819,intel core i5 6th generation,3.0,GHz
+820,P820,intel celeron,1.1,GHz
+821,P821,undefined,0.0,unknown
+822,P822,undefined,0.0,unknown
+823,P823,undefined,0.0,unknown
+824,P824,undefined,0.0,unknown
+825,P825,intel core i3 7th generation,2.4,GHz
+826,P826,undefined,0.0,unknown
+827,P827,intel core i5 3rd generation,3.0,GHz
+828,P828,undefined,0.0,unknown
+829,P829,intel core i5 5th generation,2.7,GHz
+830,P830,not applicable,0.0,unknown
+831,P831,intel core i5 4th generation,3.0,GHz
+832,P832,intel core i5 6th generation,2.8,GHz
+833,P833,intel core i5 6th generation,2.4,GHz
+834,P834,not applicable,0.0,unknown
+835,P835,undefined,0.0,unknown
+836,P836,undefined,0.0,unknown
+837,P837,intel core i5 4th generation,0.0,unknown
+838,P838,undefined,0.0,unknown
+839,P839,undefined,0.0,unknown
+840,P840,intel core i5 5th generation,2.3,GHz
+841,P841,undefined,0.0,unknown
+842,P842,undefined,0.0,unknown
+843,P843,not applicable,0.0,unknown
+844,P844,not applicable,2.26,MHz
+845,P845,intel core i5 4th generation,0.0,unknown
+846,P846,not applicable,0.0,unknown
+847,P847,intel core i5 7th generation,3.0,GHz
+848,P848,intel core i3 7th generation,3.0,GHz
+849,P849,not applicable,0.0,unknown
+850,P850,undefined,0.0,unknown
+851,P851,undefined,0.0,unknown
+852,P852,intel core i3 6th generation,3.0,GHz
+853,P853,undefined,0.0,unknown
+854,P854,not applicable,0.0,unknown
+855,P855,undefined,0.0,unknown
+856,P856,intel core i5 4th generation,3.0,GHz
+857,P857,undefined,0.0,unknown
+858,P858,undefined,0.0,unknown
+859,P859,undefined,0.0,unknown
+860,P860,intel core i5 4th generation,1.9,GHz
+861,P861,intel core i5 6th generation,2.3,GHz
+862,P862,intel core i5 6th generation,2.3,GHz
+863,P863,intel core i7 8th generation,3.0,GHz
+864,P864,undefined,0.0,unknown
+865,P865,undefined,0.0,unknown
+866,P866,undefined,0.0,unknown
+867,P867,undefined,0.0,unknown
+868,P868,not applicable,0.0,unknown
+869,P869,undefined,0.0,unknown
+870,P870,undefined,0.0,unknown
+871,P871,undefined,0.0,unknown
+872,P872,not applicable,0.0,unknown
+873,P873,not applicable,0.0,unknown
+874,P874,not applicable,0.0,unknown
+875,P875,intel core i5 5th generation,2.7,GHz
+876,P876,undefined,0.0,unknown
+877,P877,not applicable,0.0,unknown
+878,P878,undefined,0.0,unknown
+879,P879,undefined,0.0,unknown
+880,P880,undefined,0.0,unknown
+881,P881,intel core i5 3rd generation,3.1,GHz
+882,P882,intel core i5 6th generation,3.0,GHz
+883,P883,intel celeron,1.6,GHz
+884,P884,not applicable,0.0,unknown
+885,P885,undefined,0.0,unknown
+886,P886,intel core i5 4th generation,0.0,unknown
+887,P887,undefined,0.0,unknown
+888,P888,intel core i5 4th generation,0.0,unknown
+889,P889,intel core i7 11th generation,2.4,GHz
+890,P890,undefined,0.0,unknown
+891,P891,undefined,0.0,unknown
+892,P892,undefined,0.0,unknown
+893,P893,inter core i7 8550u,1.99,GHz
+894,P894,not applicable,0.0,unknown
+895,P895,not applicable,0.0,unknown
+896,P896,intel core i7 11th generation,2.4,GHz
+897,P897,not applicable,0.0,unknown
+898,P898,undefined,0.0,unknown
+899,P899,intel core m5,0.0,unknown
+900,P900,undefined,0.0,unknown
+901,P901,undefined,0.0,unknown
+902,P902,undefined,0.0,unknown
+903,P903,undefined,0.0,unknown
+904,P904,undefined,0.0,unknown
+905,P905,undefined,0.0,unknown
+906,P906,undefined,0.0,unknown
+907,P907,undefined,0.0,unknown
+908,P908,undefined,0.0,unknown
+909,P909,undefined,0.0,unknown
+910,P910,intel pentium,0.0,unknown
+911,P911,undefined,0.0,unknown
+912,P912,undefined,0.0,unknown
+913,P913,intel core i5 6th generation,2.3,GHz
+914,P914,undefined,0.0,unknown
+915,P915,not applicable,0.0,unknown
+916,P916,intel core i5 4th generation,2.6,GHz
+917,P917,undefined,0.0,unknown
+918,P918,not applicable,0.0,unknown
+919,P919,not applicable,0.0,unknown
+920,P920,undefined,0.0,unknown
+921,P921,undefined,0.0,unknown
+922,P922,undefined,0.0,unknown
+923,P923,not applicable,0.0,unknown
+924,P924,not applicable,0.0,unknown
+925,P925,undefined,0.0,unknown
+926,P926,intel core i5 4th generation,2.6,GHz
+927,P927,undefined,0.0,unknown
+928,P928,intel core i5 4th generation,0.0,unknown
+929,P929,not applicable,0.0,unknown
+930,P930,not applicable,0.0,unknown
+931,P931,undefined,0.0,unknown
+932,P932,intel core i5 5th generation,2.7,GHz
+933,P933,undefined,0.0,unknown
+934,P934,undefined,0.0,unknown
+935,P935,undefined,0.0,unknown
+936,P936,undefined,0.0,unknown
+937,P937,intel core i5 2nd generation,3.0,GHz
+938,P938,intel core i5 3rd generation,3.0,GHz
+939,P939,not applicable,0.0,unknown
+940,P940,undefined,0.0,unknown
+941,P941,intel core i3 6th generation,3.0,GHz
+942,P942,intel core i3 7th generation,0.0,unknown
+943,P943,not applicable,0.0,unknown
+944,P944,intel core i5 4th generation,0.0,unknown
+945,P945,undefined,0.0,unknown
+946,P946,intel core i3 4th generation,0.0,unknown
+947,P947,undefined,0.0,unknown
+948,P948,intel core m5,2.9,GHz
+949,P949,undefined,0.0,unknown
+950,P950,intel core i5 6th generation,2.8,GHz
+951,P951,undefined,0.0,unknown
+952,P952,intel core i5 4th generation,2.6,GHz
+953,P953,undefined,0.0,unknown
+954,P954,undefined,0.0,unknown
+955,P955,undefined,0.0,unknown
+956,P956,undefined,0.0,unknown
+957,P957,undefined,0.0,unknown
+958,P958,intel core i5 4th generation,0.0,unknown
+959,P959,intel core i5 6th generation,0.0,unknown
+960,P960,undefined,0.0,unknown
+961,P961,intel core i5 7th generation,3.0,GHz
+962,P962,undefined,0.0,unknown
+963,P963,undefined,0.0,unknown
+964,P964,not applicable,0.0,unknown
+965,P965,undefined,0.0,unknown
+966,P966,undefined,0.0,unknown
+967,P967,undefined,0.0,unknown
+968,P968,not applicable,0.0,unknown
+969,P969,not applicable,0.0,unknown
+970,P970,intel core i5 4th generation,2.6,GHz
+971,P971,not applicable,0.0,unknown
+972,P972,inter core i7 8550u,1.99,GHz
+973,P973,undefined,0.0,unknown
+974,P974,intel,0.0,unknown
+975,P975,intel core i5 6th generation,2.4,GHz
+976,P976,undefined,0.0,unknown
+977,P977,intel core i5 5th generation,0.0,unknown
+978,P978,undefined,0.0,unknown
+979,P979,undefined,0.0,unknown
+980,P980,intel core i5 4th generation,2.6,GHz
+981,P981,undefined,0.0,unknown
+982,P982,not applicable,0.0,unknown
+983,P983,not applicable,0.0,unknown
+984,P984,intel core i5 6th generation,2.8,GHz
+985,P985,not applicable,0.0,unknown
+986,P986,intel core i5 6th generation,2.8,GHz
+987,P987,undefined,0.0,unknown
+988,P988,undefined,0.0,unknown
+989,P989,undefined,0.0,unknown
+990,P990,intel core i5 6th generation,0.0,unknown
+991,P991,intel core i5 4th generation,3.0,GHz
+992,P992,intel core i5 6th generation,0.0,unknown
+993,P993,intel core i5 4th generation,2.6,GHz
+994,P994,undefined,0.0,unknown
+995,P995,intel core i5 6th generation,2.3,GHz
+996,P996,undefined,0.0,unknown
+997,P997,not applicable,0.0,unknown
+998,P998,not applicable,0.0,unknown
+999,P999,not applicable,0.0,unknown
+1000,P1000,not applicable,0.0,unknown
+1001,P1001,intel core i5 4th generation,3.0,GHz
+1002,P1002,intel core i5 2nd generation,0.0,unknown
+1003,P1003,v19,0.0,unknown
+1004,P1004,not applicable,0.0,unknown
+1005,P1005,intel core i5 6th generation,2.3,GHz
+1006,P1006,not applicable,0.0,unknown
+1007,P1007,undefined,0.0,unknown
+1008,P1008,undefined,0.0,unknown
+1009,P1009,undefined,0.0,unknown
+1010,P1010,undefined,0.0,unknown
+1011,P1011,undefined,0.0,unknown
+1012,P1012,undefined,0.0,unknown
+1013,P1013,undefined,0.0,unknown
+1014,P1014,not applicable,0.0,unknown
+1015,P1015,i5-4250u,0.0,unknown
+1016,P1016,undefined,0.0,unknown
+1017,P1017,intel core i5 4th generation,3.0,GHz
+1018,P1018,undefined,0.0,unknown
+1019,P1019,undefined,0.0,unknown
+1020,P1020,undefined,0.0,unknown
+1021,P1021,not applicable,0.0,unknown
+1022,P1022,not applicable,0.0,unknown
+1023,P1023,undefined,0.0,unknown
+1024,P1024,intel core i5 4th generation,1.99,GHz
+1025,P1025,inter core i7 8550u,1.8,GHz
+1026,P1026,intel core i5 5th generation,2.3,GHz
+1027,P1027,not applicable,0.0,unknown
+1028,P1028,not applicable,0.0,unknown
+1029,P1029,i5,0.0,unknown
+1030,P1030,not applicable,0.0,unknown
+1031,P1031,not applicable,0.0,unknown
+1032,P1032,intel pentium,0.0,unknown
+1033,P1033,undefined,0.0,unknown
+1034,P1034,intel core i5 6th generation,2.8,GHz
+1035,P1035,not applicable,0.0,unknown
+1036,P1036,undefined,0.0,unknown
+1037,P1037,undefined,0.0,unknown
+1038,P1038,undefined,0.0,unknown
+1039,P1039,intel core i5 5th generation,2.7,GHz
+1040,P1040,not applicable,0.0,unknown
+1041,P1041,intel core i5 5th generation,0.0,unknown
+1042,P1042,undefined,0.0,unknown
+1043,P1043,not applicable,0.0,unknown
+1044,P1044,not applicable,0.0,unknown
+1045,P1045,not applicable,0.0,unknown
+1046,P1046,undefined,0.0,unknown
+1047,P1047,undefined,0.0,unknown
+1048,P1048,undefined,0.0,unknown
+1049,P1049,undefined,0.0,unknown
+1050,P1050,not applicable,0.0,unknown
+1051,P1051,undefined,0.0,unknown
+1052,P1052,undefined,0.0,unknown
+1053,P1053,not applicable,0.0,unknown
+1054,P1054,intel core i5 6th generation,2.8,GHz
+1055,P1055,intel core i5 3rd generation,3.0,GHz
+1056,P1056,undefined,0.0,unknown
+1057,P1057,intel core i3 10th generation,1.49,GHz
+1058,P1058,undefined,0.0,unknown
+1059,P1059,undefined,0.0,unknown
+1060,P1060,undefined,0.0,unknown
+1061,P1061,intel core i5 4th generation,2.6,GHz
+1062,P1062,undefined,0.0,unknown
+1063,P1063,undefined,0.0,unknown
+1064,P1064,undefined,0.0,unknown
+1065,P1065,undefined,0.0,unknown
+1066,P1066,not applicable,0.0,unknown
+1067,P1067,undefined,0.0,unknown
+1068,P1068,undefined,0.0,unknown
+1069,P1069,undefined,0.0,unknown
+1070,P1070,intel core i3 6th generation,3.0,GHz
+1071,P1071,intel core i5 4th generation,2.6,GHz
+1072,P1072,undefined,0.0,unknown
+1073,P1073,undefined,0.0,unknown
+1074,P1074,intel core i5 6th generation,0.0,unknown
+1075,P1075,intel i5,2.5,GHz
+1076,P1076,undefined,0.0,unknown
+1077,P1077,undefined,0.0,unknown
+1078,P1078,undefined,0.0,unknown
+1079,P1079,undefined,0.0,unknown
+1080,P1080,undefined,0.0,unknown
+1081,P1081,undefined,0.0,unknown
+1082,P1082,intel core i3 10th generation,0.0,unknown
+1083,P1083,undefined,0.0,unknown
+1084,P1084,not applicable,0.0,unknown
+1085,P1085,undefined,0.0,unknown
+1086,P1086,undefined,0.0,unknown
+1087,P1087,undefined,0.0,unknown
+1088,P1088,undefined,0.0,unknown
+1089,P1089,undefined,0.0,unknown
+1090,P1090,not applicable,0.0,unknown
+1091,P1091,intel core i5 5th generation,2.7,GHz
+1092,P1092,inter core i5 8250u,1.6,GHz
+1093,P1093,intel core m5,0.0,unknown
+1094,P1094,intel core i5 6th generation,0.0,unknown
+1095,P1095,undefined,0.0,unknown
+1096,P1096,not applicable,0.0,unknown
+1097,P1097,not applicable,0.0,unknown
+1098,P1098,undefined,0.0,unknown
+1099,P1099,undefined,0.0,unknown
+1100,P1100,intel core i5 6th generation,0.0,unknown
+1101,P1101,undefined,0.0,unknown
+1102,P1102,undefined,0.0,unknown
+1103,P1103,undefined,0.0,unknown
+1104,P1104,intel core i5 4th generation,1.99,GHz
+1105,P1105,intel core i5 6th generation,0.0,unknown
+1106,P1106,undefined,0.0,unknown
+1107,P1107,intel core i5 4th generation,2.6,GHz
+1108,P1108,undefined,0.0,unknown
+1109,P1109,undefined,0.0,unknown
+1110,P1110,undefined,0.0,unknown
+1111,P1111,intel core i5 6th generation,2.8,GHz
+1112,P1112,intel core i5 4th generation,1.99,GHz
+1113,P1113,undefined,0.0,unknown
+1114,P1114,undefined,0.0,unknown
+1115,P1115,not applicable,0.0,unknown
+1116,P1116,not applicable,0.0,unknown
+1117,P1117,not applicable,0.0,unknown
+1118,P1118,intel core i5 6th generation,2.8,GHz
+1119,P1119,not applicable,0.0,unknown
+1120,P1120,intel core i5 6th generation,2.8,GHz
+1121,P1121,undefined,0.0,unknown
+1122,P1122,undefined,0.0,unknown
+1123,P1123,undefined,0.0,unknown
+1124,P1124,intel core i5 6th generation,2.3,GHz
+1125,P1125,undefined,0.0,unknown
+1126,P1126,intel core i5 6th generation,2.4,GHz
+1127,P1127,undefined,0.0,unknown
+1128,P1128,intel core i5 5th generation,0.0,unknown
+1129,P1129,not applicable,0.0,unknown
+1130,P1130,intel core i5 4th generation,0.0,unknown
+1131,P1131,intel core i5 3rd generation,3.0,GHz
+1132,P1132,not applicable,0.0,unknown
+1133,P1133,intel pentium 4 m,0.0,unknown
+1134,P1134,not applicable,0.0,unknown
+1135,P1135,intel core i5 4th generation,2.6,GHz
+1136,P1136,undefined,0.0,unknown
+1137,P1137,not applicable,0.0,unknown
+1138,P1138,undefined,0.0,unknown
+1139,P1139,not applicable,0.0,unknown
+1140,P1140,intel core i5 6th generation,2.3,GHz
+1141,P1141,not applicable,0.0,unknown
+1142,P1142,intel core i5 4th generation,1.99,GHz
+1143,P1143,not applicable,0.0,unknown
+1144,P1144,undefined,0.0,unknown
+1145,P1145,not applicable,0.0,unknown
+1146,P1146,undefined,0.0,unknown
+1147,P1147,not applicable,0.0,unknown
+1148,P1148,intel core i5 6th generation,2.8,GHz
+1149,P1149,intel core i5 4th generation,0.0,unknown
+1150,P1150,intel celeron,0.0,unknown
+1151,P1151,undefined,0.0,unknown
+1152,P1152,intel core i5 3rd generation,3.1,GHz
+1153,P1153,undefined,0.0,unknown
+1154,P1154,undefined,0.0,unknown
+1155,P1155,intel core i5 6th generation,2.8,GHz
+1156,P1156,intel core i5 6th generation,3.0,GHz
+1157,P1157,undefined,0.0,unknown
+1158,P1158,undefined,0.0,unknown
+1159,P1159,undefined,0.0,unknown
+1160,P1160,undefined,0.0,unknown
+1161,P1161,undefined,0.0,unknown
+1162,P1162,undefined,0.0,unknown
+1163,P1163,undefined,0.0,unknown
+1164,P1164,not applicable,0.0,unknown
+1165,P1165,undefined,0.0,unknown
+1166,P1166,intel core i3 7th generation,0.0,unknown
+1167,P1167,intel core i5 4th generation,2.6,GHz
+1168,P1168,undefined,0.0,unknown
+1169,P1169,intel core i3 4th generation,3.0,GHz
+1170,P1170,undefined,0.0,unknown
+1171,P1171,not applicable,0.0,unknown
+1172,P1172,undefined,0.0,unknown
+1173,P1173,undefined,0.0,unknown
+1174,P1174,undefined,0.0,unknown
+1175,P1175,intel core i5 4th generation,1.99,GHz
+1176,P1176,intel core i5 3rd generation,3.0,GHz
+1177,P1177,intel core i5 6th generation,2.8,GHz
+1178,P1178,not applicable,0.0,unknown
+1179,P1179,intel core i5 6th generation,2.8,GHz
+1180,P1180,undefined,0.0,unknown
+1181,P1181,not applicable,0.0,unknown
+1182,P1182,not applicable,0.0,unknown
+1183,P1183,not applicable,0.0,unknown
+1184,P1184,intel core i3 7th generation,3.0,GHz
+1185,P1185,not applicable,0.0,unknown
+1186,P1186,not applicable,0.0,unknown
+1187,P1187,not applicable,0.0,unknown
+1188,P1188,intel core i5 2nd generation,3.0,GHz
+1189,P1189,undefined,0.0,unknown
+1190,P1190,intel core i5 4th generation,3.0,GHz
+1191,P1191,undefined,0.0,unknown
+1192,P1192,undefined,0.0,unknown
+1193,P1193,intel core i3 6th generation,3.0,GHz
+1194,P1194,not applicable,0.0,unknown
+1195,P1195,not applicable,0.0,unknown
+1196,P1196,intel core i5 5th generation,2.7,GHz
+1197,P1197,intel core i5 6th generation,2.8,GHz
+1198,P1198,not applicable,0.0,unknown
+1199,P1199,undefined,0.0,unknown
+1200,P1200,undefined,0.0,unknown
+1201,P1201,undefined,0.0,unknown
+1202,P1202,undefined,0.0,unknown
+1203,P1203,not applicable,0.0,unknown
+1204,P1204,undefined,0.0,unknown
+1205,P1205,intel core i3 7th generation,3.0,GHz
+1206,P1206,undefined,0.0,unknown
+1207,P1207,undefined,0.0,unknown
+1208,P1208,undefined,0.0,unknown
+1209,P1209,intel core i5 6th generation,2.3,GHz
+1210,P1210,undefined,0.0,unknown
+1211,P1211,intel core i5 4th generation,1.99,GHz
+1212,P1212,intel core i5 4th generation,2.6,GHz
+1213,P1213,undefined,0.0,unknown
+1214,P1214,intel core i5 3rd generation,3.0,GHz
+1215,P1215,intel core i7 6th generation,2.5,GHz
+1216,P1216,intel core i5 6th generation,0.0,unknown
+1217,P1217,not applicable,0.0,unknown
+1218,P1218,undefined,0.0,unknown
+1219,P1219,undefined,0.0,unknown
+1220,P1220,intel core i5 4th generation,2.6,GHz
+1221,P1221,undefined,0.0,unknown
+1222,P1222,intel core i3 10th generation,1.49,GHz
+1223,P1223,inter core i7 8550u,1.8,GHz
+1224,P1224,undefined,0.0,unknown
+1225,P1225,undefined,0.0,unknown
+1226,P1226,intel core i5 4th gen,2.1,GHz
+1227,P1227,undefined,0.0,unknown
+1228,P1228,intel core i5 3rd generation,3.0,GHz
+1229,P1229,intel core i5 5th generation,2.3,GHz
+1230,P1230,intel core i5 3rd generation,3.0,GHz
+1231,P1231,core i5 6300u 2.40ghz,2.4,GHz
+1232,P1232,not applicable,0.0,unknown
+1233,P1233,undefined,0.0,unknown
+1234,P1234,not applicable,0.0,unknown
+1235,P1235,intel core i5 6th generation,3.0,GHz
+1236,P1236,intel core i5 6th generation,3.0,GHz
+1237,P1237,undefined,0.0,unknown
+1238,P1238,undefined,0.0,unknown
+1239,P1239,undefined,0.0,unknown
+1240,P1240,intel core i5-6300u (6th gen),2.4,GHz
+1241,P1241,intel core i5 4th generation,2.6,GHz
+1242,P1242,intel core i5 4th generation,2.6,GHz
+1243,P1243,intel core i5 4th generation,3.0,GHz
+1244,P1244,intel core i5 6th generation,2.4,GHz
+1245,P1245,intel core i5 4th generation,0.0,unknown
+1246,P1246,undefined,0.0,unknown
+1247,P1247,undefined,0.0,unknown
+1248,P1248,undefined,0.0,unknown
+1249,P1249,intel core i5 4th generation,1.99,GHz
+1250,P1250,intel core i5 6th generation,0.0,unknown
+1251,P1251,not applicable,0.0,unknown
+1252,P1252,undefined,0.0,unknown
+1253,P1253,undefined,0.0,unknown
+1254,P1254,intel core i5 4th generation,2.6,GHz
+1255,P1255,not applicable,0.0,unknown
+1256,P1256,intel core i5 5th generation,2.7,GHz
+1257,P1257,intel pentium,0.0,unknown
+1258,P1258,undefined,0.0,unknown
+1259,P1259,undefined,0.0,unknown
+1260,P1260,intel core i3 10th generation,0.0,unknown
+1261,P1261,undefined,0.0,unknown
+1262,P1262,undefined,0.0,unknown
+1263,P1263,intel core i3 6th generation,0.0,unknown
+1264,P1264,intel core i5 4th generation,2.6,GHz
+1265,P1265,undefined,0.0,unknown
+1266,P1266,undefined,0.0,unknown
+1267,P1267,not applicable,0.0,unknown
+1268,P1268,intel core i3 10th generation,1.49,GHz
+1269,P1269,undefined,0.0,unknown
+1270,P1270,undefined,0.0,unknown
+1271,P1271,intel pentium,0.0,unknown
+1272,P1272,undefined,0.0,unknown
+1273,P1273,intel core i5 4th generation,0.0,unknown
+1274,P1274,undefined,0.0,unknown
+1275,P1275,undefined,0.0,unknown
+1276,P1276,intel core i5 6th generation,2.8,GHz
+1277,P1277,not applicable,0.0,unknown
+1278,P1278,intel core i5 6th generation,2.4,GHz
+1279,P1279,not applicable,0.0,unknown
+1280,P1280,undefined,0.0,unknown
+1281,P1281,undefined,0.0,unknown
+1282,P1282,undefined,0.0,unknown
+1283,P1283,undefined,0.0,unknown
+1284,P1284,undefined,0.0,unknown
+1285,P1285,undefined,0.0,unknown
+1286,P1286,undefined,0.0,unknown
+1287,P1287,undefined,0.0,unknown
+1288,P1288,intel core i3 4th generation,1.9,GHz
+1289,P1289,intel pentium,0.0,unknown
+1290,P1290,intel celeron,2.5,GHz
+1291,P1291,intel pentium gold processor 4415y,0.0,unknown
+1292,P1292,i5-4200m,2.5,GHz
+1293,P1293,i5-6300u,2.4,GHz
+1294,P1294,intel celeron,1.6,GHz
+1295,P1295,intel core i5 10th generation,1.2,GHz
+1296,P1296,intel core i7 9th generation,2.6,GHz
+1297,P1297,intel core i5 8th generation,1.6,GHz
+1298,P1298,intel core i5,0.0,unknown
+1299,P1299,intel core i7-8665u,1.9,GHz
+1300,P1300,intel core i3 2nd generation,2.3,GHz
+1301,P1301,intel pentium,0.0,unknown
+1302,P1302,intel celeron n3350,2.4,GHz
+1303,P1303,intel core i7 4th generation,2.1,GHz
+1304,P1304,intel core 2 duo,2.0,GHz
+1305,P1305,intel core i9 13th generation,0.0,unknown
+1306,P1306,i5,0.0,unknown
+1307,P1307,amd ryzen 5,2.3,GHz
+1308,P1308,intel core i5,2.5,GHz
+1309,P1309,intel core i7 11th generation,2.9,GHz
+1310,P1310,intel core i7 10th generation,1.8,GHz
+1311,P1311,intel core i5 6th generation,2.3,GHz
+1312,P1312,intel core i5 10th generation,1.0,GHz
+1313,P1313,amd a6 dual-core,0.0,unknown
+1314,P1314,intel core i5 4th generation,0.0,unknown
+1315,P1315,amd,1.6,GHz
+1316,P1316,intel core i5 6th till 12th gen select from above,1.8,GHz
+1317,P1317,intel core i7 8th generation,1.9,GHz
+1318,P1318,intel core i7 6th gen,2.7,GHz
+1319,P1319,i5-7200u,2.5,GHz
+1320,P1320,intel core i5 10th generation,1.7,GHz
+1321,P1321,intel core i5 6th generation,2.3,GHz
+1322,P1322,intel core i5 8th generation,1.7,GHz
+1323,P1323,intel core i5 7th generation,2.6,GHz
+1324,P1324,undefined,0.0,unknown
+1325,P1325,intel core i5 6th generation,2.4,GHz
+1326,P1326,intel core i7-8550u,1.6,GHz
+1327,P1327,intel core i7 10th generation,1.3,GHz
+1328,P1328,intel celeron,1.6,GHz
+1329,P1329,intel celeron n,1.6,GHz
+1330,P1330,intel core i5 8th generation,2.7,GHz
+1331,P1331,intel core i5 3rd generation,2.6,GHz
+1332,P1332,undefined,0.0,unknown
+1333,P1333,not applicable,0.0,unknown
+1334,P1334,not applicable,0.0,unknown
+1335,P1335,not applicable,0.0,unknown
+1336,P1336,undefined,0.0,unknown
+1337,P1337,not applicable,0.0,unknown
+1338,P1338,not applicable,0.0,unknown
+1339,P1339,intel pentium,0.0,unknown
+1340,P1340,undefined,0.0,unknown
+1341,P1341,undefined,0.0,unknown
+1342,P1342,intel core i5 6th generation,2.8,GHz
+1343,P1343,undefined,0.0,unknown
+1344,P1344,not applicable,0.0,unknown
+1345,P1345,intel core i5 4th generation,2.6,GHz
+1346,P1346,not applicable,0.0,unknown
+1347,P1347,undefined,0.0,unknown
+1348,P1348,undefined,0.0,unknown
+1349,P1349,intel celeron,2.9,GHz
+1350,P1350,intel core i3 7th generation,3.0,GHz
+1351,P1351,intel core i5 4th generation,2.6,GHz
+1352,P1352,not applicable,0.0,unknown
+1353,P1353,undefined,0.0,unknown
+1354,P1354,not applicable,0.0,unknown
+1355,P1355,undefined,0.0,unknown
+1356,P1356,undefined,0.0,unknown
+1357,P1357,intel core i5 4th generation,2.6,GHz
+1358,P1358,undefined,0.0,unknown
+1359,P1359,undefined,0.0,unknown
+1360,P1360,not applicable,0.0,unknown
+1361,P1361,intel core i5 4th generation,2.6,GHz
+1362,P1362,undefined,0.0,unknown
+1363,P1363,intel core i5 6th generation,2.3,GHz
+1364,P1364,undefined,0.0,unknown
+1365,P1365,intel core i5 6th generation,2.8,GHz
+1366,P1366,intel core i5 6th generation,2.8,GHz
+1367,P1367,intel core i5 5th generation,0.0,unknown
+1368,P1368,undefined,0.0,unknown
+1369,P1369,undefined,0.0,unknown
+1370,P1370,undefined,0.0,unknown
+1371,P1371,undefined,0.0,unknown
+1372,P1372,undefined,0.0,unknown
+1373,P1373,undefined,0.0,unknown
+1374,P1374,intel core i5 6th generation,2.3,GHz
+1375,P1375,undefined,0.0,unknown
+1376,P1376,undefined,0.0,unknown
+1377,P1377,intel core i3 7th generation,0.0,unknown
+1378,P1378,not applicable,0.0,unknown
+1379,P1379,undefined,0.0,unknown
+1380,P1380,undefined,0.0,unknown
+1381,P1381,undefined,0.0,unknown
+1382,P1382,intel core i5 4th generation,2.6,GHz
+1383,P1383,undefined,0.0,unknown
+1384,P1384,not applicable,0.0,unknown
+1385,P1385,intel core i5 6th generation,3.0,GHz
+1386,P1386,intel core i5 6th generation,3.0,GHz
+1387,P1387,undefined,0.0,unknown
+1388,P1388,intel core i5 4th generation,2.6,GHz
+1389,P1389,undefined,0.0,unknown
+1390,P1390,intel celeron,2.5,GHz
+1391,P1391,undefined,0.0,unknown
+1392,P1392,intel core i3 4th generation,0.0,unknown
+1393,P1393,undefined,0.0,unknown
+1394,P1394,intel pentium,0.0,unknown
+1395,P1395,undefined,0.0,unknown
+1396,P1396,intel core i3 10th generation,1.49,GHz
+1397,P1397,undefined,0.0,unknown
+1398,P1398,undefined,0.0,unknown
+1399,P1399,intel core i5 4th generation,0.0,unknown
+1400,P1400,undefined,0.0,unknown
+1401,P1401,undefined,0.0,unknown
+1402,P1402,undefined,0.0,unknown
+1403,P1403,undefined,0.0,unknown
+1404,P1404,undefined,0.0,unknown
+1405,P1405,undefined,0.0,unknown
+1406,P1406,intel core i5 5th generation,2.7,GHz
+1407,P1407,undefined,0.0,unknown
+1408,P1408,undefined,0.0,unknown
+1409,P1409,undefined,0.0,unknown
+1410,P1410,undefined,0.0,unknown
+1411,P1411,undefined,0.0,unknown
+1412,P1412,intel core i5 6th generation,0.0,unknown
+1413,P1413,intel core i5 4th generation,3.0,GHz
+1414,P1414,undefined,0.0,unknown
+1415,P1415,undefined,0.0,unknown
+1416,P1416,undefined,0.0,unknown
+1417,P1417,intel core i5 4th generation,2.6,GHz
+1418,P1418,intel core i5 6th generation,2.8,GHz
+1419,P1419,undefined,0.0,unknown
+1420,P1420,undefined,0.0,unknown
+1421,P1421,intel core i5 4th generation,3.0,GHz
+1422,P1422,intel core i3 4th generation,3.0,GHz
+1423,P1423,undefined,0.0,unknown
+1424,P1424,undefined,0.0,unknown
+1425,P1425,intel core i3 10th generation,1.49,GHz
+1426,P1426,undefined,0.0,unknown
+1427,P1427,undefined,0.0,unknown
+1428,P1428,undefined,0.0,unknown
+1429,P1429,undefined,0.0,unknown
+1430,P1430,undefined,0.0,unknown
+1431,P1431,intel core i5 6th generation,2.8,GHz
+1432,P1432,undefined,0.0,unknown
+1433,P1433,undefined,0.0,unknown
+1434,P1434,undefined,0.0,unknown
+1435,P1435,undefined,0.0,unknown
+1436,P1436,undefined,0.0,unknown
+1437,P1437,intel core i5 3rd generation,3.0,GHz
+1438,P1438,undefined,0.0,unknown
+1439,P1439,intel celeron,2.8,GHz
+1440,P1440,intel celeron,2.16,GHz
+1441,P1441,intel core i5,0.0,unknown
+1442,P1442,intel celeron,1.1,GHz
+1443,P1443,intel core i7 11th generation,0.0,unknown
+1444,P1444,intel core i7 6th generation,2.7,GHz
+1445,P1445,intel core i5 7th generation,2.6,GHz
+1446,P1446,intel celeron,1.6,GHz
+1447,P1447,undefined,0.0,unknown
+1448,P1448,intel celeron n,0.0,unknown
+1449,P1449,amd ryzen 5,2.3,GHz
+1450,P1450,intel celeron,2.5,GHz
+1451,P1451,intel core i5 2nd generation,2.66,GHz
+1452,P1452,amd a4-9120c,2.4,GHz
+1453,P1453,intel core i7 8th generation,1.9,GHz
+1454,P1454,intel core i7 2nd generation,2.4,GHz
+1455,P1455,intel core i5 10th generation,1.5,GHz
+1456,P1456,intel xeon,2.8,GHz
+1457,P1457,intel core i7 12th generation,2.3,GHz
+1458,P1458,amd ryzen 7,2.6,GHz
+1459,P1459,amd a4-9120c radeon r4 dual-core,1.6,GHz
+1460,P1460,intel pentium,1.1,GHz
+1461,P1461,undefined,0.0,unknown
+1462,P1462,intel core i5 5th generation,2.3,GHz
+1463,P1463,intel core i5 3rd generation,0.0,unknown
+1464,P1464,core i7,2.6,GHz
+1465,P1465,amd ryzen 3 4000 series,2.5,GHz
+1466,P1466,intel core i5-1135g7,0.0,unknown
+1467,P1467,intel core i5 8th generation,1.7,GHz
+1468,P1468,intel core i5 8th generation,1.7,GHz
+1469,P1469,intel core i5 3rd generation,2.5,GHz
+1470,P1470,intel core i3 10th generation,1.2,GHz
+1471,P1471,intel core i5 2nd generation,2.3,GHz
+1472,P1472,intel core i5-1135g7,2.4,GHz
+1473,P1473,intel core i5 12th generation,1.2,GHz
+1474,P1474,intel core i7 8th generation,1.8,GHz
+1475,P1475,intel core i7 11th generation,0.0,unknown
+1476,P1476,intel core i5 4th generation,1.6,GHz
+1477,P1477,intel core i5-4300y,1.6,GHz
+1478,P1478,intel core i5 1st generation,2.67,GHz
+1479,P1479,intel core i5 8th generation,1.6,GHz
+1480,P1480,intel core i7 6th generation,0.0,unknown
+1481,P1481,intel core i5 2nd generation,2.5,GHz
+1482,P1482,amd ryzen 5,3.3,GHz
+1483,P1483,intel core i7 6th generation,2.6,GHz
+1484,P1484,intel core i3 11th generation,4.1,GHz
+1485,P1485,intel celeron n,1.1,GHz
+1486,P1486,i5,1.9,GHz
+1487,P1487,amd ryzen 3,0.0,unknown
+1488,P1488,intel core i5 5th generation,2.2,GHz
+1489,P1489,intel celeron n,1.1,GHz
+1490,P1490,intel celeron,0.0,unknown
+1491,P1491,intel core i7 2nd generation,0.0,unknown
+1492,P1492,intel core i7 11th generation,1.8,GHz
+1493,P1493,intel core i3 12th generation,3.3,GHz
+1494,P1494,intel core i5 6th generation,2.4,GHz
+1495,P1495,intel celeron,1.1,GHz
+1496,P1496,intel core i5 4th generation,0.0,unknown
+1497,P1497,intel core i5 6th generation,2.3,GHz
+1498,P1498,intel core i5 8th generation,1.6,GHz
+1499,P1499,intel core i5 8th generation,1.6,GHz
+1500,P1500,intel core i5 11th generation,2.5,GHz
+1501,P1501,intel core i7-1065g7,1.3,GHz
+1502,P1502,microsoft sq2,1.8,GHz
+1503,P1503,intel core i7 8th generation,1.8,GHz
+1504,P1504,intelÂ® coreâ„¢ i5 i5-3210m,2.5,GHz
+1505,P1505,intelÂ® coreâ„¢ i5 i5-2520m,2.5,GHz
+1506,P1506,intel core i5 6th generation,2.4,GHz
+1507,P1507,intel core i5 11th generation,2.6,GHz
+1508,P1508,intel core i5 12th generation,3.3,GHz
+1509,P1509,intel core i5 11th generation,2.7,GHz
+1510,P1510,intel core i7 12th generation,0.0,unknown
+1511,P1511,intel celeron,2.16,GHz
+1512,P1512,intel core i5 11th generation,1.8,GHz
+1513,P1513,intel core i7 11th generation,3.0,GHz
+1514,P1514,intel core i5 3rd generation,0.0,unknown
+1515,P1515,qualcomm msm8909,0.0,unknown
+1516,P1516,intel core i5 7th generation,2.6,GHz
+1517,P1517,samsung exynos 5 dual,1.7,GHz
+1518,P1518,intel celeron,1.6,GHz
+1519,P1519,intel core i5 10th generation,1.7,GHz
+1520,P1520,intel core i7 8th generation,2.6,GHz
+1521,P1521,intel core i3 11th generation,0.0,unknown
+1522,P1522,intel i7-10610u,0.0,unknown
+1523,P1523,intel core i5 6th generation,2.3,GHz
+1524,P1524,intel core i5 6th generation,2.4,GHz
+1525,P1525,intel core i5 8th generation,1.7,GHz
+1526,P1526,intel core i5 11th generation,2.6,GHz
+1527,P1527,intel celeron,2.16,GHz
+1528,P1528,amd ryzen 7,0.0,unknown
+1529,P1529,intel celeron,1.4,GHz
+1530,P1530,intel core i7 9th generation,2.4,GHz
+1531,P1531,intel core m3 7th generation,1.0,GHz
+1532,P1532,intel celeron,1.83,GHz
+1533,P1533,intel celeron,2.16,GHz
+1534,P1534,intel i5-2467m,1.6,GHz
+1535,P1535,intel core i5 6th generation,2.4,GHz
+1536,P1536,intel celeron,2.16,GHz
+1537,P1537,amd ryzen 3,2.5,GHz
+1538,P1538,i7-7820hq,3.9,GHz
+1539,P1539,intel core i7 12th generation,4.7,GHz
+1540,P1540,intel core i3 8th generation,0.0,unknown
+1541,P1541,core i5 8th gen,1.9,GHz
+1542,P1542,intel core i5 6th generation,3.0,GHz
+1543,P1543,undefined,2.5,GHz
+1544,P1544,intel core i7 7th generation,3.9,GHz
+1545,P1545,intel celeron,2.16,GHz
+1546,P1546,intel core i7 13th generation,1.7,GHz
+1547,P1547,amd athlon gold 3150u 3.30ghz,3.3,GHz
+1548,P1548,intel celeron n,1.6,GHz
+1549,P1549,intel core i3 3rd generation,0.0,unknown
+1550,P1550,intel core i5 4th generation,2.1,GHz
+1551,P1551,intel core i5 3rd generation,0.0,unknown
+1552,P1552,intel core i5 10th generation,1.6,GHz
+1553,P1553,intel core i3 2nd generation,0.0,unknown
+1554,P1554,amd a4,1.6,GHz
+1555,P1555,intel core i5 6th generation,2.4,GHz
+1556,P1556,undefined,0.0,unknown
+1557,P1557,intel core i5 8th generation,0.0,unknown
+1558,P1558,amd athlon,2.8,GHz
+1559,P1559,intel core i7 4th generation,2.7,GHz
+1560,P1560,intel core i5 11th generation,2.7,GHz
+1561,P1561,intel core i3 12th generation,0.0,unknown
+1562,P1562,intel core i5 8th generation,0.0,unknown
+1563,P1563,intel core m5,1.1,GHz
+1564,P1564,intel pentium,1.1,GHz
+1565,P1565,intel core i5 7th generation,3.1,GHz
+1566,P1566,intel core i7 6th generation,2.7,GHz
+1567,P1567,intel core i7 13th generation,3.9,GHz
+1568,P1568,intel core i7 6th generation,3.8,GHz
+1569,P1569,unspecified,0.0,unknown
+1570,P1570,intel core i5 8th generation,1.7,GHz
+1571,P1571,intel core i5 4th generation,0.0,unknown
+1572,P1572,intel core i5-7300u 7th generation,2.9,GHz
+1573,P1573,amd ryzen 7 pro 3700u,2.3,GHz
+1574,P1574,intel core i7 8th generation,1.9,GHz
+1575,P1575,i5-8350u,1.7,GHz
+1576,P1576,intel core i7-6600u @ 2.6ghz,0.0,unknown
+1577,P1577,intel core i5 6th generation,2.4,GHz
+1578,P1578,intel core i7 3rd generation,2.6,GHz
+1579,P1579,intel core i5 8th generation,1.6,GHz
+1580,P1580,intel core i5-13420h,0.0,unknown
+1581,P1581,intel core i5 vpro 8th gen,1.7,GHz
+1582,P1582,intel core i7 7th generation,3.0,GHz
+1583,P1583,intel core i5 6th generation,0.0,unknown
+1584,P1584,intel core i5 11th generation,2.4,GHz
+1585,P1585,intel core i7 9th generation,2.6,GHz
+1586,P1586,intel core i5-1135g7,2.4,GHz
+1587,P1587,intel core i5 12th generation,2.0,GHz
+1588,P1588,intel celeron n,1.6,GHz
+1589,P1589,intel core m5 6th generation,1.1,GHz
+1590,P1590,intel core i7 8th generation,2.6,GHz
+1591,P1591,intel atom single-core,0.0,unknown
+1592,P1592,quad core,1.8,GHz
+1593,P1593,intel core i5 8th generation,3.8,GHz
+1594,P1594,intel celeron n,2.16,GHz
+1595,P1595,intel core i5 8th generation,1.4,GHz
+1596,P1596,intel celeron n,1.1,GHz
+1597,P1597,intel core i3 8th generation,0.0,unknown
+1598,P1598,intel core i7,2.2,GHz
+1599,P1599,intel core i5 10th generation,2.6,GHz
+1600,P1600,undefined,0.0,unknown
+1601,P1601,intel core i5 8th generation,1.7,GHz
+1602,P1602,intel core i7 6th generation,2.5,GHz
+1603,P1603,intel core i7 10th generation,1.8,GHz
+1604,P1604,intel celeron,1.1,GHz
+1605,P1605,intel core i3-1115g4,3.0,GHz
+1606,P1606,intel pentium 3825u 1.90ghz,1.9,GHz
+1607,P1607,intel core i5 8th generation,1.7,GHz
+1608,P1608,intel celeron n,1.0,GHz
+1609,P1609,amd ryzen 7 7840hs,5.1,GHz
+1610,P1610,intel core i7 8th generation,2.6,GHz
+1611,P1611,intel i7-1265u,1.8,GHz
+1612,P1612,intel core i7 8th gen,2.2,GHz
+1613,P1613,qualcomm snapdragon 7c gen 2,2.55,GHz
+1614,P1614,undefined,0.0,unknown
+1615,P1615,intel core i3-1115g4,4.1,GHz
+1616,P1616,undefined,0.0,unknown
+1617,P1617,intel quad i7-6920hq @2.90ghz,2.7,GHz
+1618,P1618,intel core i5-8350u,1.7,GHz
+1619,P1619,intel core i7 12th generation,4.7,GHz
+1620,P1620,intel n100,3.4,GHz
+1621,P1621,undefined,0.0,unknown
+1622,P1622,intel core i5-5300u cpu @ 2.30 ghz,2.3,GHz
+1623,P1623,intel core i5 11th generation,2.4,GHz
+1624,P1624,i5-4200m,2.5,GHz
+1625,P1625,i5-11500h,4.6,GHz
+1626,P1626,intel core i7 11th generation,3.0,GHz
+1627,P1627,qualcomm snapdragon 8cx gen 2,0.0,unknown
+1628,P1628,mediatek,0.0,unknown
+1629,P1629,amd a4,1.6,GHz
+1630,P1630,amd ryzen 7 7000 series,2.7,GHz
+1631,P1631,intel core i5 10th generation,1.6,GHz
+1632,P1632,intel atom dual-core,1.6,GHz
+1633,P1633,intel core i5 8th generation,3.6,GHz
+1634,P1634,intel celeron,1.1,GHz
+1635,P1635,intel core i7-8665u quad-core 1.9ghz,0.0,unknown
+1636,P1636,intel core i5 7th generation,1.2,GHz
+1637,P1637,intel core i5 8th generation,0.0,unknown
+1638,P1638,intel core i5 6th generation,2.6,GHz
+1639,P1639,intel core i5 8th generation,3.6,GHz
+1640,P1640,intel core i5 8th generation,3.6,GHz
+1641,P1641,intel core i7 7th generation,3.9,GHz
+1642,P1642,intel core i5 6th generation,2.4,GHz
+1643,P1643,intel pentium silver n6000,0.0,GHz
+1644,P1644,intel core i5 8th generation,1.7,GHz
+1645,P1645,intel core i3 7th generation,2.4,GHz
+1646,P1646,intel celeron n2840,2.16,GHz
+1647,P1647,intel core i5 8th generation,3.4,GHz
+1648,P1648,intel core i7 8th generation,1.9,GHz
+1649,P1649,intel core i7 13th generation,5.0,GHz
+1650,P1650,intel core i5 7th generation,3.1,GHz
+1651,P1651,intel celeron n4100,2.7,GHz
+1652,P1652,intel core 2 quad,2.8,GHz
+1653,P1653,intel core i5 6th generation,2.4,GHz
+1654,P1654,intel core i5 8th generation,1.6,GHz
+1655,P1655,intel core i7-13700h,2.4,GHz
+1656,P1656,undefined,1.7,GHz
+1657,P1657,intel pentium gold,1.1,GHz
+1658,P1658,amd a4-9120c,1.6,GHz
+1659,P1659,intel core i5 8th generation,3.4,GHz
+1660,P1660,intel core i5 3rd generation,2.6,GHz
+1661,P1661,amd ryzen 5 7000 series,3.3,GHz
+1662,P1662,intel core i5 7th generation,2.6,GHz
+1663,P1663,intel core i5 8th generation,1.6,GHz
+1664,P1664,intel core i5-5300u,2.3,GHz
+1665,P1665,intel celeron n,1.1,GHz
+1666,P1666,intel core i7 8th generation,1.9,GHz
+1667,P1667,intel celeron n4020,2.6,GHz
+1668,P1668,i5,1.9,GHz
+1669,P1669,intel core i7 13th generation,3.7,GHz
+1670,P1670,intel core i7 8th generation,1.5,GHz
+1671,P1671,intel core i7 12th generation,4.7,GHz
+1672,P1672,mediatek mt8173c,2.1,GHz
+1673,P1673,intel core i5 5th generation,2.3,GHz
+1674,P1674,i5 3rd gen,0.0,unknown
+1675,P1675,intel core i7 8th generation,4.2,GHz
+1676,P1676,intel celeron n,2.16,GHz
+1677,P1677,intel core i5 4th generation,1.9,GHz
+1678,P1678,intel core i7 8th generation,1.9,GHz
+1679,P1679,i5-10210u,0.0,unknown
+1680,P1680,intel core i7 12th generation,4.7,GHz
+1681,P1681,intel celeron n,1.6,GHz
+1682,P1682,intel core i5 12th generation,4.0,GHz
+1683,P1683,intel core i7 8th generation,1.8,GHz
+1684,P1684,intel core i7 10th generation,4.9,GHz
+1685,P1685,intel core i5 8th generation,1.6,GHz
+1686,P1686,10th gen intel core i5,1.1,GHz
+1687,P1687,intel core i7 12th generation,4.7,GHz
+1688,P1688,intel core i7,0.0,unknown
+1689,P1689,intel core i7-1185g7,4.8,GHz
+1690,P1690,i5-8350u,1.7,GHz
+1691,P1691,intel core i3,0.0,unknown
+1692,P1692,arm cortex-a series,2.0,GHz
+1693,P1693,undefined,0.0,unknown
+1694,P1694,intel i5 2nd generation,2.6,GHz
+1695,P1695,undefined,0.0,unknown
+1696,P1696,intel celeron n3050,1.6,GHz
+1697,P1697,intel pentium m,1.73,GHz
+1698,P1698,intel celeron,2.48,GHz
+1699,P1699,intel core i5 8th generation,1.7,GHz
+1700,P1700,undefined,0.0,unknown
+1701,P1701,intel core i5 13th generation,1.3,GHz
+1702,P1702,samsung exynos 5 dual,1.7,GHz
+1703,P1703,12th gen intel core i5-12450h,4.4,GHz
+1704,P1704,undefined,0.0,unknown
+1705,P1705,intel core m3 7th generation,2.6,GHz
+1706,P1706,intel celeron n4500,1.1,GHz
+1707,P1707,intel core i7 8th generation,1.9,GHz
+1708,P1708,amd,2.3,GHz
+1709,P1709,intel core i7,1.07,GHz
+1710,P1710,intel core i7,2.2,GHz
+1711,P1711,mediatek mt8183,2.0,GHz
+1712,P1712,intel core i7-1355u,1.7,GHz
+1713,P1713,undefined,0.0,unknown
+1714,P1714,android 4.0,1.3,GHz
+1715,P1715,intel core i5,2.6,GHz
+1716,P1716,intel core m5 6th generation,1.1,GHz
+1717,P1717,intel core i7,0.0,unknown
+1718,P1718,intel core i5 11th generation,2.6,GHz
+1719,P1719,intel core i5-4310u,2.0,GHz
+1720,P1720,intel core i5 6th generation,2.4,GHz
+1721,P1721,intel celeron n,1.1,GHz
+1722,P1722,intel celeron n,1.1,GHz
+1723,P1723,intel celeron n4020,2.8,GHz
+1724,P1724,core i5-5300u 2.30ghz,0.0,unknown
+1725,P1725,intel core i7 8th generation,2.6,GHz
+1726,P1726,intel core i5,2.5,GHz
+1727,P1727,intel core i5 12th generation,3.3,GHz
+1728,P1728,intel core i7 8th generation,1.8,GHz
+1729,P1729,intel core i3 8th generation,2.1,GHz
+1730,P1730,intel core i3 11th generation,3.0,GHz
+1731,P1731,11th gen intel core i5-1135g7,0.0,unknown
+1732,P1732,intel core i5 6th generation,2.4,GHz
+1733,P1733,intel core i7 1st generation,1.9,GHz
+1734,P1734,11 gen intel core i3,3.0,GHz
+1735,P1735,intel core i7 7th generation,2.8,GHz
+1736,P1736,intel core i5 11th generation,2.4,GHz
+1737,P1737,intel core i7-1265u,0.0,unknown
+1738,P1738,intel core i7 7th generation,2.9,GHz
+1739,P1739,intel core i5 6th generation,0.0,unknown
+1740,P1740,intel atom quad-core,1.46,GHz
+1741,P1741,intel pentium,1.1,GHz
+1742,P1742,intel core i5 7th generation,2.6,GHz
+1743,P1743,intel core i7 11th generation,3.0,GHz
+1744,P1744,intel core i5 11th generation,2.4,GHz
+1745,P1745,amd ryzen 5,0.0,unknown
+1746,P1746,intel core i7 11th generation,0.0,unknown
+1747,P1747,undefined,1.66,GHz
+1748,P1748,intel core i7 8th generation,4.2,GHz
+1749,P1749,intel celeron,2.16,GHz
+1750,P1750,intel celeron n,1.6,GHz
+1751,P1751,intel celeron,3.5,GHz
+1752,P1752,e3-1505m v6,3.0,GHz
+1753,P1753,intel core i5 11th generation,2.4,GHz
+1754,P1754,intel celeron,1.1,GHz
+1755,P1755,intelÂ® coreâ„¢ i7 i7-6500u,2.5,GHz
+1756,P1756,intel core i7 3rd generation,0.0,unknown
+1757,P1757,fz-g1,0.0,unknown
+1758,P1758,intel i7-8665u quadcore 8th gen,1.9,GHz
+1759,P1759,amd ryzen 5 5500u,0.0,unknown
+1760,P1760,intel core i5 8th generation,2.6,GHz
+1761,P1761,radeon r4 dual-core,1.6,GHz
+1762,P1762,intel core i5 10th generation,1.6,GHz
+1763,P1763,intel core i9 13th generation,0.0,unknown
+1764,P1764,intel core i5 8th generation,1.7,GHz
+1765,P1765,intel core i5 8th generation,1.7,GHz
+1766,P1766,intel core i7 7th generation,2.8,GHz
+1767,P1767,intel core i3/i5,1.7,GHz
+1768,P1768,intel core i5 6th generation,0.0,unknown
+1769,P1769,undefined,0.0,unknown
+1770,P1770,undefined,0.0,unknown
+1771,P1771,undefined,0.0,unknown
+1772,P1772,amd ryzen 5,0.0,unknown
+1773,P1773,intel core i7-7y75,0.0,GHz
+1774,P1774,undefined,0.0,unknown
+1775,P1775,undefined,0.0,unknown
+1776,P1776,intel core i5-6300u,2.4,GHz
+1777,P1777,intel core i5 8th generation,0.0,unknown
+1778,P1778,intel pentium n4200,1.1,GHz
+1779,P1779,intel core i5 8th generation,1.6,GHz
+1780,P1780,intel core i3 6th generation,0.0,unknown
+1781,P1781,intel celeron,1.73,GHz
+1782,P1782,intel core i7 11th generation,3.0,GHz
+1783,P1783,intel celeron n,1.1,GHz
+1784,P1784,intel core i7 9th generation,4.7,GHz
+1785,P1785,intel core i5 10th generation,1.6,GHz
+1786,P1786,intel core i3 12th generation,0.0,unknown
+1787,P1787,intel core i5 10th generation,1.2,GHz
+1788,P1788,intel core i7 12th generation,1.7,GHz
+1789,P1789,intel core i5-6300u,2.4,GHz
+1790,P1790,intel core 2 duo,0.0,unknown
+1791,P1791,intel pentium n quad core,2.16,GHz
+1792,P1792,mediatek,0.0,unknown
+1793,P1793,intel core i7 12th generation,4.7,GHz
+1794,P1794,intel core i5 8th generation,1.7,GHz
+1795,P1795,intel core i5-1135g7,4.2,GHz
+1796,P1796,amd ryzen 5,4.0,GHz
+1797,P1797,intel celeron,1.6,GHz
+1798,P1798,intel core i5 4th generation,1.6,GHz
+1799,P1799,intel core i5 10th generation,1.6,GHz
+1800,P1800,intel core i5 6th generation,2.4,GHz
+1801,P1801,intel celeron n4000,1.1,GHz
+1802,P1802,intel core i7 8th generation,1.9,GHz
+1803,P1803,microsoft sq2,1.8,GHz
+1804,P1804,intel core i5 2nd generation,2.3,GHz
+1805,P1805,intel core i5 8th generation,1.6,GHz
+1806,P1806,amd ryzen 5,2.0,GHz
+1807,P1807,intel core i5 8th generation,1.6,GHz
+1808,P1808,intel celeron,1.1,GHz
+1809,P1809,intel core i5 6th generation,2.4,GHz
+1810,P1810,intel core i5 2nd generation,2.5,GHz
+1811,P1811,intel core i3 12th generation,1.2,GHz
+1812,P1812,intel core i5,0.0,unknown
+1813,P1813,intel core i7-5600u,2.6,GHz
+1814,P1814,intel core i5 10th generation,2.4,GHz
+1815,P1815,intel core 2 duo,2.26,GHz
+1816,P1816,intel core i7 13th generation,3.8,GHz
+1817,P1817,intel core i3 4th generation,1.7,GHz
+1818,P1818,intel celeron,1.1,GHz
+1819,P1819,undefined,0.0,unknown
+1820,P1820,intel celeron,1.9,GHz
+1821,P1821,apple m1 chip,0.0,unknown
+1822,P1822,intel pentium,1.1,GHz
+1823,P1823,intel core i5 13th generation,0.0,unknown
+1824,P1824,intel pentium gold,1.1,GHz
+1825,P1825,intel core i5-7300u,2.7,GHz
+1826,P1826,intel core i5,0.0,GHz
+1827,P1827,intel core i5 3rd generation,2.9,GHz
+1828,P1828,intel core i5 11th generation,2.4,GHz
+1829,P1829,intel core i3 7th generation,2.4,GHz
+1830,P1830,intel core i5 7th generation,3.1,GHz
+1831,P1831,undefined,0.0,unknown
+1832,P1832,intel core i5 6th generation,2.4,GHz
+1833,P1833,intel core i7 4th generation,2.9,GHz
+1834,P1834,intel core i7 7th generation,2.7,GHz
+1835,P1835,intel celeron n,1.1,GHz
+1836,P1836,intel core i5 6th generation,1.7,GHz
+1837,P1837,intel core i5 6th generation,2.4,GHz
+1838,P1838,intel core i7 13th generation,3.9,GHz
+1839,P1839,intel core i7 6th generation,3.8,GHz
+1840,P1840,intel core i5 8th generation,1.7,GHz
+1841,P1841,intel core i5-7300u 7th generation,2.9,GHz
+1842,P1842,intel core i7 1st generation,1.9,GHz
+1843,P1843,amd ryzen 7 pro 3700u,2.3,GHz
+1844,P1844,intel core i5 6th generation,2.4,GHz
+1845,P1845,intel core i7 8th generation,1.9,GHz
+1846,P1846,intel pentium iii,800.0,MHz
+1847,P1847,intel core i7 7th generation,3.0,GHz
+1848,P1848,intel core i7 8th generation,1.9,GHz
+1849,P1849,i5-8350,3.6,GHz
+1850,P1850,intel core i7 6th generation,2.6,GHz
+1851,P1851,intel core i5 3rd generation,2.6,GHz
+1852,P1852,intel celeron,1.6,GHz
+1853,P1853,intel core i7 12th generation,0.0,unknown
+1854,P1854,undefined,0.0,unknown
+1855,P1855,intel core i5 12th generation,1.3,GHz
+1856,P1856,undefined,0.0,unknown
+1857,P1857,intel celeron,1.7,GHz
+1858,P1858,intel celeron,0.0,unknown
+1859,P1859,intel core i3 12th generation,1.2,GHz
+1860,P1860,intel celeron d,1.1,GHz
+1861,P1861,intel core i7 4th generation,3.0,GHz
+1862,P1862,intel celeron,1.6,GHz
+1863,P1863,intel core i5 3rd generation,2.7,GHz
+1864,P1864,intel core i5-8250u,0.0,unknown
+1865,P1865,intel core i5-8250u,1.6,GHz
+1866,P1866,intel celeron n,1.1,GHz
+1867,P1867,intel core i3 8th generation,0.0,unknown
+1868,P1868,intel celeron,2.48,GHz
+1869,P1869,not specified,0.0,unknown
+1870,P1870,intel pentium 3825u 1.90ghz,1.9,GHz
+1871,P1871,undefined,0.0,unknown
+1872,P1872,intel core 2 duo,2.8,GHz
+1873,P1873,undefined,0.0,unknown
+1874,P1874,undefined,0.0,unknown
+1875,P1875,intel core i7 12th generation,1.7,GHz
+1876,P1876,intel celeron n,0.0,unknown
+1877,P1877,intel celeron n3350,1.1,GHz
+1878,P1878,intel core i7 11th generation,3.0,GHz
+1879,P1879,intel core i7 12th generation,2.3,GHz
+1880,P1880,intel core i5 4th generation,2.6,GHz
+1881,P1881,amd turion ii,2.2,GHz
+1882,P1882,undefined,0.0,unknown
+1883,P1883,intel core i5 7th generation,2.6,GHz
+1884,P1884,intel core i5 8th generation,3.4,GHz
+1885,P1885,intel core i5 11th generation,2.7,GHz
+1886,P1886,mediatek m8173c,2.1,GHz
+1887,P1887,intel core i7 4th generation,0.0,unknown
+1888,P1888,i5-7200u,0.0,unknown
+1889,P1889,intel celeron 4100,1.1,GHz
+1890,P1890,intel core i7 12th generation,4.7,GHz
+1891,P1891,intel core i7 4th generation,2.1,GHz
+1892,P1892,intel core i5 4th generation,2.8,GHz
+1893,P1893,intel core i5 6th generation,2.4,GHz
+1894,P1894,intel core i7,3.5,GHz
+1895,P1895,intel core i7 8th generation,1.9,GHz
+1896,P1896,intel core i5-6300u,2.4,GHz
+1897,P1897,undefined,0.0,unknown
+1898,P1898,intel pentium gold 8505,1.2,GHz
+1899,P1899,amd athlon gold 3150u,3.3,GHz
+1900,P1900,intel core i5-8250u,1.6,GHz
+1901,P1901,intel core i7 8th generation,1.9,GHz
+1902,P1902,intel core 2 duo,1.66,GHz
+1903,P1903,undefined,0.0,unknown
+1904,P1904,see title/description,0.0,unknown
+1905,P1905,intel core i5 8th generation,1.6,GHz
+1906,P1906,12th gen intelÂ® coreâ„¢ i5-12450h processor,0.0,unknown
+1907,P1907,intel core i5 8th generation,1.6,GHz
+1908,P1908,celeron r,1.1,GHz
+1909,P1909,intel celeron n,2.0,GHz
+1910,P1910,intel core i5 8th generation,1.7,GHz
+1911,P1911,1660ti,0.0,unknown
+1912,P1912,intel celeron n,1.1,GHz
+1913,P1913,qualcomm kryo 468,2.1,GHz
+1914,P1914,intel core i7 12th generation,1.1,GHz
+1915,P1915,intel core i5 8th generation,1.7,GHz
+1916,P1916,intel celeron n,1.1,GHz
+1917,P1917,intel core i5 7th generation,0.0,unknown
+1918,P1918,see title/description,0.0,unknown
+1919,P1919,intel core i7-6600u,2.6,GHz
+1920,P1920,amd ryzen 3 pro,2.6,GHz
+1921,P1921,intel core i5 4th generation,1.4,GHz
+1922,P1922,intel celeron n2940 1.83ghz quad,1.83,GHz
+1923,P1923,intel core i5,2.5,GHz
+1924,P1924,intel celeron,2.16,GHz
+1925,P1925,intel core i7 6th generation,2.6,GHz
+1926,P1926,intel celeron,1.6,GHz
+1927,P1927,intel core i5-8300h,3.1,GHz
+1928,P1928,intel core i5 11th generation,0.0,unknown
+1929,P1929,intel core i3,3.6,GHz
+1930,P1930,intel core 2 duo,0.0,unknown
+1931,P1931,intel core i5 10th generation,1.6,GHz
+1932,P1932,i5-7200u,2.5,GHz
+1933,P1933,intel celeron n4020,1.1,GHz
+1934,P1934,intel core i7 4th generation,2.0,GHz
+1935,P1935,intel core i5-6200u,2.3,GHz
+1936,P1936,intel core i3 10th generation,1.2,GHz
+1937,P1937,undefined,0.0,unknown
+1938,P1938,intel core i5 12th generation,0.0,unknown
+1939,P1939,intel celeron,1.6,GHz
+1940,P1940,intel core i5 8th generation,1.7,GHz
+1941,P1941,intel celeron n,1.6,GHz
+1942,P1942,intel celeron,1.1,GHz
+1943,P1943,intel core i5 6th generation,2.4,GHz
+1944,P1944,intel core i5 11th generation,0.0,unknown
+1945,P1945,intel core i5-8300h,2.3,GHz
+1946,P1946,intel core i5 7th generation,0.0,unknown
+1947,P1947,intel celeron,2.16,GHz
+1948,P1948,intel core i5 8th generation,1.6,GHz
+1949,P1949,intel core i5 8th generation,2.6,GHz
+1950,P1950,intel core i3 11th generation,3.0,GHz
+1951,P1951,intel core i7 6th generation,2.6,GHz
+1952,P1952,intel celeron,2.9,GHz
+1953,P1953,mediatek 820 (8192),0.0,GHz
+1954,P1954,intel celeron,2.6,GHz
+1955,P1955,intel core i5 11th generation,2.6,GHz
+1956,P1956,intel core i7 7th generation,0.0,unknown
+1957,P1957,intel core i3 6th generation,2.3,GHz
+1958,P1958,intel core i5 7th generation,2.6,GHz
+1959,P1959,intel core i3-1215u,1.2,GHz
+1960,P1960,i7-1165g7,0.0,unknown
+1961,P1961,intel celeron,0.0,unknown
+1962,P1962,intel core i5 8th generation,1.6,GHz
+1963,P1963,intel core i7 12th generation,1.8,GHz
+1964,P1964,intel celeron,0.0,unknown
+1965,P1965,intel core i3 6th generation,2.2,GHz
+1966,P1966,intel core i7 10th generation,2.7,GHz
+1967,P1967,intel celeron n,2.16,GHz
+1968,P1968,core i5-10210u,2.1,GHz
+1969,P1969,intel core i5 8th generation,0.0,unknown
+1970,P1970,intel core i5 1st generation,0.0,unknown
+1971,P1971,intel core i7 6th generation,0.0,unknown
+1972,P1972,intel core i5 7th generation,2.6,GHz
+1973,P1973,intel corei7-8850h,2.4,GHz
+1974,P1974,intel core i5 8th generation,1.7,GHz
+1975,P1975,intel core i3 4th generation,1.9,GHz
+1976,P1976,intel core i7 8th generation,1.6,GHz
+1977,P1977,intel core i5 8th gen,2.6,GHz
+1978,P1978,intel core i7 13th generation,2.4,GHz
+1979,P1979,amd ryzen 7 pro 4750u,1.7,GHz
+1980,P1980,intel core i5 8th generation,1.7,GHz
+1981,P1981,intel core 2 duo,0.0,unknown
+1982,P1982,undefined,0.0,unknown
+1983,P1983,intel core i5,0.0,unknown
+1984,P1984,intel core i5 6th generation,0.0,unknown
+1985,P1985,intel core i7 8th generation,4.6,GHz
+1986,P1986,undefined,0.0,unknown
+1987,P1987,nvidia tegra k1,2.0,GHz
+1988,P1988,intel core i7 3rd generation,2.9,GHz
+1989,P1989,intel celeron,1.1,GHz
+1990,P1990,intel core m-5y71,1.2,GHz
+1991,P1991,intel core i3 6th generation,-3.1,GHz
+1992,P1992,intel core i5 8th generation,0.0,unknown
+1993,P1993,intel core i5,2.5,GHz
+1994,P1994,intel core i5 3rd generation,2.6,GHz
+1995,P1995,amd ryzen 7,2.2,GHz
+1996,P1996,intel celeron,2.0,GHz
+1997,P1997,intel core i7 7th generation,2.9,GHz
+1998,P1998,undefined,0.0,unknown
+1999,P1999,intel core i5 10th generation,1.6,GHz
+2000,P2000,intel core i5 8th generation,0.0,unknown
+2001,P2001,intel core i7 4th gen,2.7,GHz
+2002,P2002,"intel core i7 3rd gen,  4 cores,  8 logical processors",2.1,GHz
+2003,P2003,intel celeron,2.16,GHz
+2004,P2004,intel core i5 11th generation,2.7,GHz
+2005,P2005,intel pentium gold,2.4,GHz
+2006,P2006,intel core i5-8265u,0.0,unknown
+2007,P2007,intel core i5 6th generation,2.4,GHz
+2008,P2008,intel celeron,2.6,GHz
+2009,P2009,intel core i3 8th generation,2.3,GHz
+2010,P2010,intel core 2 duo,2.2,GHz
+2011,P2011,intel core i5,1.6,GHz
+2012,P2012,intel core i5 5300u,2.3,GHz
+2013,P2013,dual core,0.0,GHz
+2014,P2014,intel core i5-6300u,2.3,GHz
+2015,P2015,intel core i7 12th generation,4.7,GHz
+2016,P2016,intel celeron,1.6,GHz
+2017,P2017,intel celeron,1.6,GHz
+2018,P2018,intel core i7 6th generation,3.4,GHz
+2019,P2019,qualcomm snapdragon 7c gen 2,2.55,GHz
+2020,P2020,intel core i5 6th generation,2.4,GHz
+2021,P2021,intel core i5-6300u,2.4,GHz
+2022,P2022,intel core i5 8th generation,3.4,GHz
+2023,P2023,intel core i5 7th generation,0.0,unknown
+2024,P2024,undefined,2.7,GHz
+2025,P2025,intel i5 6th generation,2.3,GHz
+2026,P2026,intel core i7 12th generation,2.9,GHz
+2027,P2027,intel atom dual-core,1.66,GHz
+2028,P2028,amd ryzen 5,2.1,GHz
+2029,P2029,amd ryzen 7,3.3,GHz
+2030,P2030,intel core i7 8th generation,1.9,GHz
+2031,P2031,intel core i5 8th generation,1.7,GHz
+2032,P2032,amd ryzen 9,3.3,GHz
+2033,P2033,intel celeron n,2.6,GHz
+2034,P2034,intel core,0.0,unknown
+2035,P2035,intel celeron,2.48,GHz
+2036,P2036,intel celeron,2.4,GHz
+2037,P2037,intel core i5 11th generation,2.4,GHz
+2038,P2038,intel i5,2.5,GHz
+2039,P2039,intel core i7 12th generation,0.0,unknown
+2040,P2040,intel core i5-6300u,2.4,GHz
+2041,P2041,intel celeron n4500,1.1,GHz
+2042,P2042,intel celeron n,2.16,GHz
+2043,P2043,intel core i5 6300u,2.4,GHz
+2044,P2044,intel core i5 10th generation,1.1,GHz
+2045,P2045,intel core i5 6th generation,2.4,GHz
+2046,P2046,intel i5,2.3,GHz
+2047,P2047,intel celeron n,1.1,GHz
+2048,P2048,intel core i5 8th generation,3.6,GHz
+2049,P2049,intel core i5 7th generation,2.6,GHz
+2050,P2050,intel celeron,1.6,GHz
+2051,P2051,intel core 2 duo,2.0,GHz
+2052,P2052,amd a6-7310 apu,2.0,GHz
+2053,P2053,intel xeon,3.0,GHz
+2054,P2054,intel core i7 5th generation,2.6,GHz
+2055,P2055,intel i7 2nd generation,1.7,GHz
+2056,P2056,amd a8-7410 4-core 2.50ghz,2.5,GHz
+2057,P2057,quad-core intel n100,3.4,GHz
+2058,P2058,intel inside,1.1,GHz
+2059,P2059,intel core i5 8th generation,1.6,GHz
+2060,P2060,rockchip rk 3288,0.0,unknown
+2061,P2061,intel core i7 8th generation,1.8,GHz
+2062,P2062,intel celeron,1.6,GHz
+2063,P2063,intel celeron n,2.16,GHz
+2064,P2064,intel core i5 4th generation 2.70ghz,2.7,GHz
+2065,P2065,intel celeron,2.0,GHz
+2066,P2066,i7-6600u,2.6,GHz
+2067,P2067,amd ryzen 7,2.0,GHz
+2068,P2068,intel core i7 8th generation,1.9,GHz
+2069,P2069,intel core i-5,0.0,unknown
+2070,P2070,intel core i7-5600u,2.6,GHz
+2071,P2071,intel celeron n,2.16,GHz
+2072,P2072,intel core i3 5th generation,2.1,GHz
+2073,P2073,amd a4 dual-core,1.6,GHz
+2074,P2074,intel core i7 8th generation,3.9,GHz
+2075,P2075,intel celeron,1.1,GHz
+2076,P2076,intel core i7 6th generation,0.0,unknown
+2077,P2077,intel core i7 6th generation,2.6,GHz
+2078,P2078,amd e-series,0.0,unknown
+2079,P2079,amd a6-9220c,1.8,GHz
+2080,P2080,intel core i7 8th generation,1.9,GHz
+2081,P2081,amd radeon r4,1.6,GHz
+2082,P2082,intel core i5 1st generation,2.66,GHz
+2083,P2083,intel core i5 2nd generation,1.6,GHz
+2084,P2084,intel core i5 11th generation,2.4,GHz
+2085,P2085,intel core i3 12th generation,1.5,GHz
+2086,P2086,intel core i7 7th generation,2.8,GHz
+2087,P2087,intel core i7 4th generation,2.0,GHz
+2088,P2088,undefined,0.0,unknown
+2089,P2089,intel core i3 5th generation,2.0,GHz
+2090,P2090,intel core i5 8th generation,0.0,GHz
+2091,P2091,intel core i7 10th generation,1.8,GHz
+2092,P2092,intel core i5 9th generation,2.5,GHz
+2093,P2093,intel core i7,4.2,GHz
+2094,P2094,undefined,0.0,unknown
+2095,P2095,intel core i5 11th generation,2.4,GHz
+2096,P2096,qualcomm msm8909,0.0,unknown
+2097,P2097,intel celeron,1.6,GHz
+2098,P2098,intel core i5 4th generation,2.6,GHz
+2099,P2099,intel core i7 8th generation,1.9,GHz
+2100,P2100,core i5,2.3,GHz
+2101,P2101,intel celeron n,2.16,GHz
+2102,P2102,intel core i5 8th generation,1.7,GHz
+2103,P2103,intel core i3 11th generation,2.9,GHz
+2104,P2104,intel core i5 4th generation,2.6,GHz
+2105,P2105,intel celeron n,1.6,GHz
+2106,P2106,intel core i7 6th generation,0.0,unknown
+2107,P2107,intel core i5 6th generation,2.3,GHz
+2108,P2108,intel core i7 4th generation,0.0,unknown
+2109,P2109,intel celeron,1.6,GHz
+2110,P2110,intel core,0.0,unknown
+2111,P2111,intel core i3 4th generation,1.7,GHz
+2112,P2112,intel core i5 8th generation,3.6,GHz
+2113,P2113,undefined,0.0,unknown
+2114,P2114,intel core i5 10th generation,1.7,GHz
+2115,P2115,intel celeron n,1.1,GHz
+2116,P2116,intel core i7 6th generation,2.6,GHz
+2117,P2117,intel core i7 13th generation,1.7,GHz
+2118,P2118,intel core i5 2nd generation,2.6,GHz
+2119,P2119,intel core i7 7th generation,2.8,GHz
+2120,P2120,undefined,0.0,unknown
+2121,P2121,amd a4-5000,1.5,GHz
+2122,P2122,pentium d,0.0,unknown
+2123,P2123,intel core i5 11th generation,0.0,unknown
+2124,P2124,intel core i7-7700hq cpu,2.8,GHz
+2125,P2125,amd a9,2.7,GHz
+2126,P2126,intel celeron,1.6,GHz
+2127,P2127,intel core i5 8th generation,1.6,GHz
+2128,P2128,intel core i5 5th generation,2.2,GHz
+2129,P2129,intel core i5 2nd generation,0.0,unknown
+2130,P2130,intel core i7 6th generation,2.6,GHz
+2131,P2131,intel core i5-7200u,2.6,GHz
+2132,P2132,undefined,2.6,GHz
+2133,P2133,intel core i5-l16g7,4.8,GHz
+2134,P2134,intel i3-5020u,2.2,GHz
+2135,P2135,intel celeron,1.0,GHz
+2136,P2136,intel core i7 3.40 ghz (max turbo speed: 3.80 ghz),3.4,GHz
+2137,P2137,not applicable,0.0,unknown
+2138,P2138,intel core i7 7th generation,2.7,GHz
+2139,P2139,intel core i7 8th generation,4.0,GHz
+2140,P2140,intel core i7,2.6,GHz
+2141,P2141,amd ryzen 7,0.0,unknown
+2142,P2142,not applicable,0.0,unknown
+2143,P2143,intel core i5 6th generation,2.3,GHz
+2144,P2144,intel core i5 4th generation,2.6,GHz
+2145,P2145,intel core i7 11th generation,4.7,GHz
+2146,P2146,intel celeron n,0.0,unknown
+2147,P2147,i5,0.0,unknown
+2148,P2148,undefined,0.0,unknown
+2149,P2149,i5 l16g7,0.0,unknown
+2150,P2150,undefined,0.0,unknown
+2151,P2151,intel core i7 13th gen,0.0,unknown
+2152,P2152,intel core i5 8th gen,3.9,GHz
+2153,P2153,intel core i3 3rd generation,2.5,GHz
+2154,P2154,intel core i5-2520m,2.5,GHz
+2155,P2155,amd ryzen 5-3550h,2.1,GHz
+2156,P2156,intel core i7 11th generation,2.3,GHz
+2157,P2157,"6300u, core i5",0.0,unknown
+2158,P2158,intel core i7 8th generation,1.8,GHz
+2159,P2159,intel core i5 10th generation,4.2,GHz
+2160,P2160,intel celeron,1.9,GHz
+2161,P2161,undefined,0.0,unknown
+2162,P2162,intel core i7 8th generation,1.8,GHz
+2163,P2163,undefined,0.0,unknown
+2164,P2164,amd ryzen 5 3rd generation,2.1,GHz
+2165,P2165,undefined,0.0,unknown
+2166,P2166,intel core i7 7th generation,2.8,GHz
+2167,P2167,intel celeron n,1.1,GHz
+2168,P2168,intel core i5 8th generation,1.6,GHz
+2169,P2169,undefined,0.0,unknown
+2170,P2170,undefined,0.0,unknown
+2171,P2171,undefined,0.0,unknown
+2172,P2172,undefined,0.0,unknown
+2173,P2173,intel core i7 8th generation,4.6,GHz
+2174,P2174,apple m1,3.2,GHz
+2175,P2175,intel core i5 4th generation,2.6,GHz
+2176,P2176,intel core i5 6th generation,3.0,GHz
+2177,P2177,intel celeron n2840,0.0,unknown
+2178,P2178,intel core i7 8th generation,1.9,GHz
+2179,P2179,intel celeron n3050 1.6ghz dual-core,1.6,GHz
+2180,P2180,undefined,0.0,unknown
+2181,P2181,undefined,0.0,unknown
+2182,P2182,13th gen intelÂ® coreâ„¢ i5-13420h processor,0.0,unknown
+2183,P2183,intel core i5 3rd generation,3.0,GHz
+2184,P2184,intel core i5 3rd generation,3.0,GHz
+2185,P2185,intel core,2.4,GHz
+2186,P2186,intel celeron n,2.48,GHz
+2187,P2187,intel core i5 6th generation,2.3,GHz
+2188,P2188,undefined,0.0,unknown
+2189,P2189,arm rockchip rk3288 cortex a17 quad-core,1.8,GHz
+2190,P2190,undefined,0.0,unknown
+2191,P2191,intel celeron n,1.1,GHz
+2192,P2192,intel core i7 8th generation,4.6,GHz
+2193,P2193,undefined,0.0,unknown
+2194,P2194,undefined,0.0,unknown
+2195,P2195,undefined,0.0,unknown
+2196,P2196,backpack,0.0,unknown
+2197,P2197,intel core i5 4th generation,2.6,GHz
+2198,P2198,intel core i7 i7-1355u,1.7,GHz
+2199,P2199,undefined,0.0,unknown
+2200,P2200,intel,0.0,unknown
+2201,P2201,undefined,0.0,unknown
+2202,P2202,intel core i9 13th generation,0.0,unknown
+2203,P2203,undefined,0.0,unknown
+2204,P2204,amd a6 quad-core,2.0,GHz
+2205,P2205,intel core i5 4th generation,2.6,GHz
+2206,P2206,undefined,0.0,unknown
+2207,P2207,undefined,0.0,unknown
+2208,P2208,intel core i5 12th generation,0.0,unknown
+2209,P2209,intel core i7 8th generation,0.0,unknown
+2210,P2210,intel celeron,1.4,GHz
+2211,P2211,intel core i3/i5,1.7,GHz
+2212,P2212,intel core i5 8th generation,1.6,GHz
+2213,P2213,intel core i7 6th generation,2.4,GHz
+2214,P2214,intel core i5 4th generation,1.9,GHz
+2215,P2215,intel core i5 3rd generation,2.6,GHz
+2216,P2216,intel celeron n3060,1.6,GHz
+2217,P2217,intel core i5 4th generation,0.0,unknown
+2218,P2218,intel core i5 3rd generation,2.5,GHz
+2219,P2219,intel celeron n,1.1,GHz
+2220,P2220,intel core i5 1st generation,2.4,GHz
+2221,P2221,intel core 2 duo,0.0,unknown
+2222,P2222,intel core 2 duo,1.6,GHz
+2223,P2223,intel core i3,0.0,unknown
+2224,P2224,intel core i7 3rd generation,2.7,GHz
+2225,P2225,intel core i5-6300u,2.4,GHz
+2226,P2226,intel core 2 duo,2.26,GHz
+2227,P2227,intel core i7 7th generation,2.8,GHz
+2228,P2228,intel celeron n,1.1,GHz
+2229,P2229,intel core i5 4th generation,2.6,GHz
+2230,P2230,intel core i3,0.0,unknown
+2231,P2231,not applicable,0.0,unknown
+2232,P2232,intel core i3 6th generation,2.3,GHz
+2233,P2233,amd ryzen 3,0.0,unknown
+2234,P2234,microsoft sq2,1.8,GHz
+2235,P2235,intel core i5 11th generation,2.4,GHz
+2236,P2236,intel core i5 11th generation,2.4,GHz
+2237,P2237,amd ryzen 7 pro 6850u,0.0,unknown
+2238,P2238,intel core i7 8th generation,1.9,GHz
+2239,P2239,intel core i5 6th gen,2.5,GHz
+2240,P2240,intel core i7 7th generation,0.0,unknown
+2241,P2241,amd ryzen 7 quad-core,2.2,GHz
+2242,P2242,intel i5-2520m,2.5,GHz
+2243,P2243,intel core i3 4th generation,1.7,GHz
+2244,P2244,intel core i5-1235u,0.0,unknown
+2245,P2245,intel core i7 5th generation,2.6,GHz
+2246,P2246,amd ryzen 7,3.2,GHz
+2247,P2247,intel core i7,3.0,GHz
+2248,P2248,amd a8 quad-core,2.0,GHz
+2249,P2249,intel core i5 2nd generation,2.5,GHz
+2250,P2250,i5,2.3,GHz
+2251,P2251,intel celeron,1.4,GHz
+2252,P2252,intel core 2 duo,2.8,GHz
+2253,P2253,intel celeron,1.1,GHz
+2254,P2254,intel celeron,1.6,GHz
+2255,P2255,intel celeron n,1.1,GHz
+2256,P2256,intel core 2 duo,1.66,GHz
+2257,P2257,intel core i7 8th generation,1.9,GHz
+2258,P2258,intel core i3 8th generation,0.0,unknown
+2259,P2259,intel core i5 8th generation,1.7,GHz
+2260,P2260,intel core i7 11th generation,3.8,GHz
+2261,P2261,intel core i5 7th generation,2.6,GHz
+2262,P2262,intel core i3 11th generation,4.1,GHz
+2263,P2263,undefined,0.0,unknown
+2264,P2264,intel core i5 5th generation,2.2,GHz
+2265,P2265,intel core i7 11th generation,4.7,GHz
+2266,P2266,intel core i5 3rd generation,3.0,GHz
+2267,P2267,intel core i5 7th generation,2.6,GHz
+2268,P2268,intel celeron,2.5,GHz
+2269,P2269,intel core i7 12th generation,2.3,GHz
+2270,P2270,intel core i5 6th gen,2.4,GHz
+2271,P2271,intel celeron,1.6,GHz
+2272,P2272,see photos,0.0,unknown
+2273,P2273,intel core i7-4700 @ 2.4 ghz,2.4,GHz
+2274,P2274,undefined,0.0,unknown
+2275,P2275,intel core i7 13th generation,5.0,GHz
+2276,P2276,core i7 8th generation,0.0,unknown
+2277,P2277,intel core i5 4th generation,2.1,GHz
+2278,P2278,i7-6500u,2.5,GHz
+2279,P2279,intel celeron m,1.5,GHz
+2280,P2280,intel celeron,1.1,GHz
+2281,P2281,intel,1.83,GHz
+2282,P2282,intel core i5 6th generation,2.4,GHz
+2283,P2283,intel core i5 9th generation,2.4,GHz
+2284,P2284,intel core i7 10th generation,1.8,GHz
+2285,P2285,intel core i5 3rd generation,3.0,GHz
+2286,P2286,intel celeron,1.1,GHz
+2287,P2287,undefined,0.0,unknown
+2288,P2288,undefined,0.0,unknown
+2289,P2289,amd ryzen 3,2.0,GHz
+2290,P2290,intel celeron n,1.6,GHz
+2291,P2291,intel celeron n,1.6,GHz
+2292,P2292,amd ryzen 7,2.0,GHz
+2293,P2293,undefined,0.0,unknown
+2294,P2294,intel core i5 6th generation,2.4,GHz
+2295,P2295,see title/description,0.0,unknown
+2296,P2296,intel atom x5 z8350,1.44,GHz
+2297,P2297,intel core i7 12th generation,1.3,GHz
+2298,P2298,intel core i5 6th generation,2.4,GHz
+2299,P2299,intel core i5 5th generation,2.3,GHz
+2300,P2300,intel core i7 8th generation,4.1,GHz
+2301,P2301,intel core i5 6th generation,2.4,GHz
+2302,P2302,amd ryzen 5,3.3,GHz
+2303,P2303,intel core i5 4th generation,2.6,GHz
+2304,P2304,not applicable,0.0,unknown
+2305,P2305,intel celeron n,0.0,unknown
+2306,P2306,amd ryzen 7,4.3,GHz
+2307,P2307,intel core i7 8th generation,1.8,GHz
+2308,P2308,intel core i5 4th generation,2.6,GHz
+2309,P2309,intel core i5 3rd generation,3.1,GHz
+2310,P2310,intel centrino,0.0,unknown
+2311,P2311,intel atom single-core,1.66,GHz
+2312,P2312,intel core  i5-8350u,1.7,GHz
+2313,P2313,intel core i7,0.0,unknown
+2314,P2314,intel core i5 10th generation,2.5,GHz
+2315,P2315,intel core i5 7th gen,1.2,GHz
+2316,P2316,intel core i7 2nd generation,0.0,unknown
+2317,P2317,arm rockchip rk3288 cortex a17 quad-core,1.8,GHz
+2318,P2318,intel core i5 2nd generation,2.5,GHz
+2319,P2319,intel core i5 7th generation,2.6,GHz
+2320,P2320,intel core i7 8th generation,1.7,GHz
+2321,P2321,intel core i7 extreme 4th generation,2.6,GHz
+2322,P2322,intel celeron,1.4,GHz
+2323,P2323,intel core i7 4th generation,2.4,GHz
+2324,P2324,intel core i5 4th generation,1.6,GHz
+2325,P2325,intel core i3 3rd generation,0.0,unknown
+2326,P2326,intel core i5 5th generation,2.7,GHz
+2327,P2327,intel core i5 3rd generation,3.0,GHz
+2328,P2328,intel core i5 4th generation,2.6,GHz
+2329,P2329,intel celeron n,1.1,GHz
+2330,P2330,undefined,0.0,unknown
+2331,P2331,pentium m,1.86,GHz
+2332,P2332,intel core i7-8650u,1.9,GHz
+2333,P2333,intel core i5 6th generation,2.8,GHz
+2334,P2334,i7-3630qm@2.4ghz,2.4,GHz
+2335,P2335,undefined,0.0,unknown
+2336,P2336,amd a10,0.0,unknown
+2337,P2337,intel core i5 3rd generation,3.0,GHz
+2338,P2338,undefined,0.0,unknown
+2339,P2339,intel core i7 8th generation,1.9,GHz
+2340,P2340,intel core 2 duo,0.0,unknown
+2341,P2341,intel core i5 4th generation,2.6,GHz
+2342,P2342,undefined,0.0,unknown
+2343,P2343,intel pentium silver,1.1,GHz
+2344,P2344,intel core i5 5th generation,2.7,GHz
+2345,P2345,intel core i5 8th generation,1.6,GHz
+2346,P2346,intel core i5 6th generation,2.4,GHz
+2347,P2347,intel core i7 13th generation,0.0,unknown
+2348,P2348,6300u,2.4,GHz
+2349,P2349,i7 7th,2.8,GHz
+2350,P2350,8265u,1.6,GHz
+2351,P2351,undefined,0.0,unknown
+2352,P2352,undefined,0.0,unknown
+2353,P2353,intel core i5 6th generation,2.8,GHz
+2354,P2354,intel core i5 6th generation,2.8,GHz
+2355,P2355,"intel core 2 duo, intel core 2 duo t7100 (1.8ghz)",1.8,GHz
+2356,P2356,i7-1165g7,2.8,GHz
+2357,P2357,undefined,0.0,unknown
+2358,P2358,amd ryzen 5,2.1,GHz
+2359,P2359,intel core i5 11th generation,0.0,unknown
+2360,P2360,intel core i5 8th generation,1.7,GHz
+2361,P2361,intel core i5 6th generation,2.4,GHz
+2362,P2362,undefined,0.0,unknown
+2363,P2363,intel core i5 4th generation,3.0,GHz
+2364,P2364,intel core i7 9th generation,2.6,GHz
+2365,P2365,intel core i5 10th generation,1.6,GHz
+2366,P2366,intel core i5 13th generation,0.0,unknown
+2367,P2367,amd ryzen 3,3.5,GHz
+2368,P2368,amd ryzen 7 pro 4750u,1.7,GHz
+2369,P2369,intel core i5,2.6,GHz
+2370,P2370,intel celeron n3050,1.6,GHz
+2371,P2371,intel celeron n,1.1,GHz
+2372,P2372,intel core i5 7th generation,2.5,GHz
+2373,P2373,intel core i5,0.0,unknown
+2374,P2374,intel core i5 6th generation,2.4,GHz
+2375,P2375,intel core i7 8th generation,1.9,GHz
+2376,P2376,intel celeron,1.1,GHz
+2377,P2377,qualcommÂ® snapdragonâ„¢ 8cx gen 2,0.0,unknown
+2378,P2378,intel core i3 7th generation,2.3,GHz
+2379,P2379,intel core i5 mobile,3.3,GHz
+2380,P2380,i5,1.9,GHz
+2381,P2381,intel core i5 8th generation,0.0,unknown
+2382,P2382,intel celeron n,2.16,GHz
+2383,P2383,intel i5 6th generation,2.3,GHz
+2384,P2384,intel celeron n,1.6,GHz
+2385,P2385,intel celeron n,2.4,GHz
+2386,P2386,intel celeron n,1.1,GHz
+2387,P2387,intel core i5 11th generation,2.4,GHz
+2388,P2388,intel core i7 8th generation,1.8,GHz
+2389,P2389,intel core i5 6th generation,2.4,GHz
+2390,P2390,amd ryzen 7,1.7,GHz
+2391,P2391,i5-8350,3.6,GHz
+2392,P2392,intel celeron n,2.16,GHz
+2393,P2393,intel celeron n,2.4,GHz
+2394,P2394,intel core i5 8th generation,1.7,GHz
+2395,P2395,intel celeron,1.6,GHz
+2396,P2396,intel core i5 10th generation,1.6,GHz
+2397,P2397,intel core i5 8th generation,0.0,unknown
+2398,P2398,intel core i7 12th generation,4.7,GHz
+2399,P2399,intel celeron,1.4,GHz
+2400,P2400,intel core i3 10th generation,2.1,GHz
+2401,P2401,intel core i7 8th generation,1.9,GHz
+2402,P2402,intel core i7 12th generation,0.0,unknown
+2403,P2403,amd a4-9120c,1.6,GHz
+2404,P2404,intel core i7 9850h,2.6,GHz
+2405,P2405,intel core i7 13th generation,0.0,unknown
+2406,P2406,intel celeron n,1.6,GHz
+2407,P2407,intel core i5 6th generation,2.8,GHz
+2408,P2408,intel core i5 4th generation,2.6,GHz
+2409,P2409,intel core i5 4th generation,2.6,GHz
+2410,P2410,intel core i7 4th generation,2.1,GHz
+2411,P2411,intel a100,0.0,unknown
+2412,P2412,intel core i7 8th generation,4.8,GHz
+2413,P2413,intel pentium silver,1.1,GHz
+2414,P2414,intel core i7 6th generation,2.6,GHz
+2415,P2415,intel core i5 5th generation,2.7,GHz
+2416,P2416,intel core i5 10th generation,1.1,GHz
+2417,P2417,intel core i5 6th generation,2.8,GHz
+2418,P2418,not applicable,0.0,unknown
+2419,P2419,intel core i7 7th generation,0.0,unknown
+2420,P2420,intel core i7 10th generation,2.6,GHz
+2421,P2421,intel core i5 8th generation,1.6,GHz
+2422,P2422,intel celeron,1.4,GHz
+2423,P2423,undefined,2.6,GHz
+2424,P2424,intel core i5 4th generation,2.6,GHz
+2425,P2425,undefined,0.0,unknown
+2426,P2426,amd ryzen 7,4.2,GHz
+2427,P2427,intel core i5 10th generation,1.2,GHz
+2428,P2428,amd e-series,1.8,GHz
+2429,P2429,intel celeron,1.1,GHz
+2430,P2430,intel core i5 8th generation,3.0,GHz
+2431,P2431,mediatek,2.1,GHz
+2432,P2432,undefined,0.0,unknown
+2433,P2433,intel core i3-1220p,0.0,unknown
+2434,P2434,intel celeron n,2.48,GHz
+2435,P2435,intel core i5 4th generation,0.0,unknown
+2436,P2436,amd turion 64,2.0,GHz
+2437,P2437,intel core i5-10310u,1.7,GHz
+2438,P2438,intel core i5 7th generation,0.0,unknown
+2439,P2439,intel celeron,0.0,unknown
+2440,P2440,intel core i5 5th generation,2.7,GHz
+2441,P2441,undefined,0.0,unknown
+2442,P2442,undefined,0.0,unknown
+2443,P2443,microsoft sq2,3.0,GHz
+2444,P2444,intel celeron n,2.8,GHz
+2445,P2445,undefined,0.0,unknown
+2446,P2446,undefined,0.0,unknown
+2447,P2447,intel core i5 3rd generation,3.0,GHz
+2448,P2448,undefined,0.0,unknown
+2449,P2449,intel core i7 7th generation,3.5,GHz
+2450,P2450,intel core i5 â€‹â€‹12th generation,4.0,GHz
+2451,P2451,amd a10,0.0,unknown
+2452,P2452,intel core i7 13th generation,5.0,GHz
+2453,P2453,intel celeron,2.16,GHz
+2454,P2454,i5-10210u,2.1,GHz
+2455,P2455,intel core i5-6300u,0.0,unknown
+2456,P2456,intel celeron n,1.1,GHz
+2457,P2457,amd ryzen 5 5500u,2.1,GHz
+2458,P2458,intel core i5 4th generation,2.6,GHz
+2459,P2459,undefined,0.0,unknown
+2460,P2460,intel celeron,0.0,unknown
+2461,P2461,intel core i5-4200u,1.9,GHz
+2462,P2462,i5,2.4,GHz
+2463,P2463,intel core i5 4th generation,0.0,unknown
+2464,P2464,undefined,0.0,unknown
+2465,P2465,intel core i5 13th generation,0.0,unknown
+2466,P2466,intel core i5 3rd generation,2.6,GHz
+2467,P2467,intel core i5 6th generation,2.4,GHz
+2468,P2468,a10-8730b,2.4,GHz
+2469,P2469,intel core i5 13th generation,4.6,GHz
+2470,P2470,intel core i7 11th generation,1.8,GHz
+2471,P2471,intel core i5 6th generation,2.8,GHz
+2472,P2472,intel core i5 4th generation,2.6,GHz
+2473,P2473,amd ryzen 5 5500u,0.0,unknown
+2474,P2474,intel core i7 13th generation,0.0,unknown
+2475,P2475,intel core 2 duo,2.4,GHz
+2476,P2476,intel core i5 8th generation,1.6,GHz
+2477,P2477,intel pentium n-series,1.8,GHz
+2478,P2478,intelÂ® coreâ„¢ i5 i5-5200u,2.2,GHz
+2479,P2479,intel core i5 11th generation,2.4,GHz
+2480,P2480,intel core i7 11th generation,2.8,GHz
+2481,P2481,intel core i5 11th generation,0.0,unknown
+2482,P2482,intel core i5-8365u,1.6,GHz
+2483,P2483,amd ryzen 5,4.3,GHz
+2484,P2484,intel celeron n,2.16,GHz
+2485,P2485,intel core i5 1st generation,2.5,GHz
+2486,P2486,intel core i3-1115g4,4.1,GHz
+2487,P2487,intel core i5 4th generation,2.6,GHz
+2488,P2488,intel core i5 4th generation,0.0,unknown
+2489,P2489,intel core i5 4th generation,0.0,unknown
+2490,P2490,intel celeron n,1.6,GHz
+2491,P2491,intel core i7 12th generation,0.0,unknown
+2492,P2492,intel core i7 8th generation,4.3,GHz
+2493,P2493,qualcomm snapdragon 7c,2.5,GHz
+2494,P2494,intel core duo t2300,1.99,GHz
+2495,P2495,undefined,0.0,unknown
+2496,P2496,intel core i5 5th generation,2.7,GHz
+2497,P2497,intel core i5 3rd generation,0.0,unknown
+2498,P2498,intel core duo t2300,1.99,GHz
+2499,P2499,"6300u,  core i5",2.4,GHz
+2500,P2500,intel core i5 3rd generation,3.0,GHz
+2501,P2501,undefined,0.0,unknown
+2502,P2502,intel core i5 3rd generation,3.0,GHz
+2503,P2503,amd ryzen 7 5825u,4.5,GHz
+2504,P2504,intel celeron n,0.0,unknown
+2505,P2505,intel core i5 5th generation,2.2,GHz
+2506,P2506,intel core i7 8th generation,1.9,GHz
+2507,P2507,intel core i7-6820hq,2.7,GHz
+2508,P2508,intel core i5 8th generation,2.6,GHz
+2509,P2509,intel core i5 3rd generation,2.6,GHz
+2510,P2510,intel celeron n3050,1.6,GHz
+2511,P2511,intel core i5 10th generation,1.2,GHz
+2512,P2512,undefined,0.0,unknown
+2513,P2513,intel core i5 3rd generation,2.8,GHz
+2514,P2514,intel core i5 13th generation,4.6,GHz
+2515,P2515,intel celeron,2.16,GHz
+2516,P2516,intel celeron n,1.1,GHz
+2517,P2517,13th gen intelÂ® coreâ„¢ i9-13900h processor,0.0,unknown
+2518,P2518,intel celeron,1.1,GHz
+2519,P2519,intel core i5 4th generation,2.6,GHz
+2520,P2520,intel core i5 4th generation,3.0,GHz
+2521,P2521,amd ryzen 3,4.1,GHz
+2522,P2522,i5-7200u,2.5,GHz
+2523,P2523,amd intel,0.0,unknown
+2524,P2524,intel core i3 12th generation,4.1,GHz
+2525,P2525,undefined,0.0,unknown
+2526,P2526,intel celeron,1.1,GHz
+2527,P2527,intel core 2 duo,0.0,unknown
+2528,P2528,intel core i5 5th generation,0.0,unknown
+2529,P2529,intel core i5 3rd generation,3.0,GHz
+2530,P2530,intel core i5-8300h,2.3,GHz
+2531,P2531,intel core i5 4th generation,2.6,GHz
+2532,P2532,amd ryzen 7,2.0,GHz
+2533,P2533,undefined,0.0,unknown
+2534,P2534,undefined,0.0,unknown
+2535,P2535,intel core duo t2300,1.99,GHz
+2536,P2536,undefined,0.0,unknown
+2537,P2537,intel core 2 duo,0.0,unknown
+2538,P2538,intel core i7 8th generation,0.0,unknown
+2539,P2539,intel core i7 11th generation,2.8,GHz
+2540,P2540,undefined,0.0,unknown
+2541,P2541,intel core i5,2.6,GHz
+2542,P2542,intel core i5 8th generation,1.6,GHz
+2543,P2543,core i3,0.0,unknown
+2544,P2544,intel celeron n2920,1.86,GHz
+2545,P2545,intel core i3 4th generation,3.0,GHz
+2546,P2546,intel core i5 5th generation,2.9,GHz
+2547,P2547,amd a4 dual-core,1.6,GHz
+2548,P2548,intel core i3-1215u,1.2,GHz
+2549,P2549,ryzen 5 5625u,0.0,GHz
+2550,P2550,intel core i5 5th generation,2.7,GHz
+2551,P2551,undefined,0.0,unknown
+2552,P2552,intel core i7 4th generation,0.0,unknown
+2553,P2553,undefined,0.0,unknown
+2554,P2554,core i7,0.0,unknown
+2555,P2555,intel atom,0.0,unknown
+2556,P2556,intel core i7 11th generation,3.0,GHz
+2557,P2557,intel core i5 4th generation,2.6,GHz
+2558,P2558,intel core i5 6th generation,2.4,GHz
+2559,P2559,intel core i7 6th gen,3.1,GHz
+2560,P2560,intel core i3 11th generation,2.0,GHz
+2561,P2561,intel core i7 7th generation,0.0,unknown
+2562,P2562,amd 7th generation,0.0,unknown
+2563,P2563,intel celeron n3060,1.6,GHz
+2564,P2564,"intel i5-7200u @2.50 ghz,  2701 mhz,  2core(s)",2.5,GHz
+2565,P2565,intel core i5 4th generation,2.6,GHz
+2566,P2566,intel core i5 6th generation,2.8,GHz
+2567,P2567,intel celeron n,2.16,GHz
+2568,P2568,intel core i5 5th generation,2.4,GHz
+2569,P2569,amd ryzen pro 3,2.1,GHz
+2570,P2570,intel core i5 13th generation,1.6,GHz
+2571,P2571,intel core i7 12th generation,1.8,GHz
+2572,P2572,intel core i7 6th generation,2.4,GHz
+2573,P2573,intel core i5 7th generation,2.6,GHz
+2574,P2574,intel core i5 7th generation,2.6,GHz
+2575,P2575,intel atom quad-core,0.0,unknown
+2576,P2576,intel core i7 12th generation,2.1,GHz
+2577,P2577,intel core i7 8th generation,3.9,GHz
+2578,P2578,intel core i7 8th generation,1.9,GHz
+2579,P2579,intel celeron,2.9,GHz
+2580,P2580,intel core i5 3rd generation,3.0,GHz
+2581,P2581,undefined,0.0,unknown
+2582,P2582,intel,0.0,unknown
+2583,P2583,intel core i5 11th generation,2.6,GHz
+2584,P2584,undefined,0.0,unknown
+2585,P2585,intel core i5 4th generation,2.6,GHz
+2586,P2586,amd turion x2,2.1,GHz
+2587,P2587,intel core i3 10th generation,1.49,GHz
+2588,P2588,intel core i5 4th generation,2.7,GHz
+2589,P2589,intel core i5-3210m,2.5,GHz
+2590,P2590,intel core i5 9th generation,2.5,GHz
+2591,P2591,intel core i7 13th generation,2.2,GHz
+2592,P2592,undefined,0.0,unknown
+2593,P2593,intel core i5 11th generation,2.6,GHz
+2594,P2594,intel core i5 4th generation,2.6,GHz
+2595,P2595,intel core i5 4th generation,2.6,GHz
+2596,P2596,intel core i5 6th generation,2.8,GHz
+2597,P2597,intel core i5 4th generation,2.5,GHz
+2598,P2598,intel core i5 3rd generation,0.0,unknown
+2599,P2599,intel core i7 11th generation,3.0,GHz
+2600,P2600,intel core i5,2.8,GHz
+2601,P2601,intel i5 10th gen,0.0,unknown
+2602,P2602,intel pentium silver,2.7,GHz
+2603,P2603,intel core i5 3rd generation,3.0,GHz
+2604,P2604,core i5 m520,2.4,GHz
+2605,P2605,intel core i5 10th generation,1.1,GHz
+2606,P2606,undefined,0.0,unknown
+2607,P2607,intel core i5 4th generation,0.0,unknown
+2608,P2608,amd turion 64,2.0,GHz
+2609,P2609,intel core i5 4th generation,0.0,unknown
+2610,P2610,undefined,0.0,unknown
+2611,P2611,intel core i5 6th generation,0.0,unknown
+2612,P2612,intel celeron n4020,1.1,GHz
+2613,P2613,intel core i3 11th generation,3.0,GHz
+2614,P2614,intel core i7 8th generation,1.8,GHz
+2615,P2615,intel pentium,1.1,GHz
+2616,P2616,undefined,0.0,unknown
+2617,P2617,amd ryzen 7 7000 series,2.0,GHz
+2618,P2618,intel core i5 4th generation,2.6,GHz
+2619,P2619,intel fast processor,0.0,unknown
+2620,P2620,intel core i7 6th generation,2.7,GHz
+2621,P2621,mediatek,2.0,GHz
+2622,P2622,intel core i7 7th generation,2.8,GHz
+2623,P2623,undefined,0.0,unknown
+2624,P2624,amd e-series,1.8,GHz
+2625,P2625,intel core i5 5th generation,2.7,GHz
+2626,P2626,undefined,0.0,unknown
+2627,P2627,core i7 4th gen,1.7,GHz
+2628,P2628,intel core i3 8th generation,2.1,GHz
+2629,P2629,intel core i7 11th generation,2.1,GHz
+2630,P2630,intel core i7 5th generation,2.6,GHz
+2631,P2631,undefined,0.0,unknown
+2632,P2632,intel core i5 5th generation,2.7,GHz
+2633,P2633,intel core i5 3rd generation,3.0,GHz
+2634,P2634,intel core i5 4th generation,3.0,GHz
+2635,P2635,undefined,0.0,unknown
+2636,P2636,intel core i3 5th generation,2.0,GHz
+2637,P2637,intel core i7 3rd generation,3.0,GHz
+2638,P2638,pentium d,0.0,unknown
+2639,P2639,i7-4600m,2.9,GHz
+2640,P2640,intel core i5 3rd generation,2.6,GHz
+2641,P2641,core i5 8250u,1.6,GHz
+2642,P2642,intel core i7 7th generation,2.8,GHz
+2643,P2643,i5,2.3,GHz
+2644,P2644,intel core i5 8th generation,2.6,GHz
+2645,P2645,intel core i7 8th generation,1.9,GHz
+2646,P2646,intel celeron n,1.1,GHz
+2647,P2647,intel core i7 8th generation,2.2,GHz
+2648,P2648,intel celeron n,1.1,GHz
+2649,P2649,intel core i5 5th generation,2.3,GHz
+2650,P2650,intel core i5 7th generation,2.5,GHz
+2651,P2651,intel celeron n,0.0,unknown
+2652,P2652,intel core i3 4th generation,3.0,GHz
+2653,P2653,undefined,0.0,unknown
+2654,P2654,undefined,0.0,unknown
+2655,P2655,undefined,0.0,unknown
+2656,P2656,undefined,0.0,unknown
+2657,P2657,undefined,0.0,unknown
+2658,P2658,undefined,0.0,unknown
+2659,P2659,intel core i5 6th generation,2.3,GHz
+2660,P2660,intel celeron,2.16,GHz
+2661,P2661,microsoft sq1,3.0,GHz
+2662,P2662,undefined,0.0,unknown
+2663,P2663,intel celeron n,1.1,GHz
+2664,P2664,undefined,0.0,unknown
+2665,P2665,intel core i5 4th generation,0.0,unknown
+2666,P2666,undefined,0.0,unknown
+2667,P2667,intel core i5 4th generation,2.6,GHz
+2668,P2668,intel core i5 4th generation,2.6,GHz
+2669,P2669,intel core i3 4th generation,3.0,GHz
+2670,P2670,i7-7660u,1.8,GHz
+2671,P2671,intel core i7 7th generation,3.5,GHz
+2672,P2672,amd ryzen 7 7000 series,2.0,GHz
+2673,P2673,intel core i7 8th generation,4.6,GHz
+2674,P2674,intel core i5 7th generation,3.1,GHz
+2675,P2675,undefined,0.0,unknown
+2676,P2676,intel core i9 13th generation,0.0,unknown
+2677,P2677,i5,0.0,unknown
+2678,P2678,intel core i7 8th generation,0.0,unknown
+2679,P2679,intel core i5 8th generation,1.6,GHz
+2680,P2680,intel core i5 12th generation,1.3,GHz
+2681,P2681,intel core i5 4th generation,1.99,GHz
+2682,P2682,intel core i7,0.0,unknown
+2683,P2683,undefined,0.0,unknown
+2684,P2684,undefined,0.0,unknown
+2685,P2685,amd a6,2.2,GHz
+2686,P2686,intel xeon e-2176m cpu,1.8,GHz
+2687,P2687,undefined,0.0,unknown
+2688,P2688,intel core i5 7th generation,3.1,GHz
+2689,P2689,undefined,0.0,unknown
+2690,P2690,intel core i5,0.0,unknown
+2691,P2691,undefined,0.0,unknown
+2692,P2692,undefined,0.0,unknown
+2693,P2693,undefined,0.0,unknown
+2694,P2694,amd a10,0.0,unknown
+2695,P2695,intel core i7 12th generation,3.4,GHz
+2696,P2696,undefined,0.0,unknown
+2697,P2697,undefined,0.0,unknown
+2698,P2698,intel core i5 10th generation,1.1,GHz
+2699,P2699,undefined,2.4,GHz
+2700,P2700,intel core i5 3rd generation,3.0,GHz
+2701,P2701,intel core i3 7th generation,2.4,GHz
+2702,P2702,undefined,0.0,unknown
+2703,P2703,amd athlon xp,0.0,unknown
+2704,P2704,intel core i5 6th generation,2.8,GHz
+2705,P2705,intel celeron n,1.1,GHz
+2706,P2706,intel core i5 10th generation,1.0,GHz
+2707,P2707,intel core i7 3rd generation,2.7,GHz
+2708,P2708,intel core i5-5200u,2.2,GHz
+2709,P2709,intel core i7 8th generation,1.9,GHz
+2710,P2710,undefined,0.0,unknown
+2711,P2711,intel core i7 12th generation,4.7,GHz
+2712,P2712,intel core i5 4th generation,0.0,unknown
+2713,P2713,i5-7y54,1.2,GHz
+2714,P2714,intel pentium n5030,1.1,GHz
+2715,P2715,intel core i5 4th generation,2.6,GHz
+2716,P2716,undefined,0.0,unknown
+2717,P2717,intel celeron,1.1,GHz
+2718,P2718,intel core i3 10th generation,1.2,GHz
+2719,P2719,intel pentium,3.0,GHz
+2720,P2720,intel core i5 11th generation,2.4,GHz
+2721,P2721,undefined,0.0,unknown
+2722,P2722,intel core i5-6300u,2.4,GHz
+2723,P2723,undefined,0.0,unknown
+2724,P2724,undefined,0.0,unknown
+2725,P2725,intel core i5 3rd generation,3.0,GHz
+2726,P2726,samsung exynos 5 dual,1.7,GHz
+2727,P2727,undefined,0.0,unknown
+2728,P2728,intel core i5 4th generation,0.0,unknown
+2729,P2729,intel core i7 4th generation,0.0,unknown
+2730,P2730,i7,0.0,unknown
+2731,P2731,intel celeron n4120,0.0,unknown
+2732,P2732,intel celeron n4000,2.6,GHz
+2733,P2733,intel core i7 6th generation,2.5,GHz
+2734,P2734,intel core i5 3rd generation,3.0,GHz
+2735,P2735,intel core i7 13th generation,0.0,unknown
+2736,P2736,undefined,0.0,unknown
+2737,P2737,intel pentium gold,0.0,unknown
+2738,P2738,intel core i5 8th generation,1.7,GHz
+2739,P2739,intel core i7 10th generation,2.6,GHz
+2740,P2740,undefined,0.0,unknown
+2741,P2741,intel core i5-1035g1,0.0,unknown
+2742,P2742,intel core duo,1.6,GHz
+2743,P2743,intel dual core quad thread pentium 4415u 2.30ghz,2.3,GHz
+2744,P2744,intel core i3 11th generation,2.0,GHz
+2745,P2745,intel core i5 7th generation,2.7,GHz
+2746,P2746,undefined,0.0,unknown
+2747,P2747,intel core i3 6th generation,2.3,GHz
+2748,P2748,undefined,0.0,unknown
+2749,P2749,intel core i5 8th generation,0.0,unknown
+2750,P2750,undefined,0.0,unknown
+2751,P2751,intel core i7,3.5,GHz
+2752,P2752,intel celeron n,2.8,GHz
+2753,P2753,intel core i7 13th generation,0.0,unknown
+2754,P2754,undefined,0.0,unknown
+2755,P2755,intel core i5 9th generation,0.0,unknown
+2756,P2756,intel core i5 7th generation,3.1,GHz
+2757,P2757,undefined,0.0,unknown
+2758,P2758,intel core m3,1.1,GHz
+2759,P2759,intel core i7 8th generation,1.8,GHz
+2760,P2760,amd a6,2.2,GHz
+2761,P2761,amd ryzen 5 6000 series,3.3,GHz
+2762,P2762,intel celeron,0.0,unknown
+2763,P2763,intel celeron n4500 processor,1.1,GHz
+2764,P2764,intel core i3 7th generation,2.4,GHz
+2765,P2765,intel core i3 6th generation,2.3,GHz
+2766,P2766,quad core,0.0,GHz
+2767,P2767,intel core i3 6th generation,2.3,GHz
+2768,P2768,intel core i5 6th generation,2.4,GHz
+2769,P2769,intel core i3-1115g4,4.1,GHz
+2770,P2770,intel core i5 8th generation,1.7,GHz
+2771,P2771,intel core i7-1260u,1.1,GHz
+2772,P2772,intel or amd,2.0,GHz
+2773,P2773,intel celeron,0.0,unknown
+2774,P2774,intel core i5 6th generation,1.9,GHz
+2775,P2775,intel core i3 4th generation,2.4,GHz
+2776,P2776,intel core i5 11th generation,2.5,GHz
+2777,P2777,intel celeron n,2.16,GHz
+2778,P2778,intel core i7 8th generation,1.9,GHz
+2779,P2779,amd ryzen 5 4500u,2.3,GHz
+2780,P2780,intel core i7 8th generation,1.8,GHz
+2781,P2781,intel celeron n2840,0.0,unknown
+2782,P2782,intel core i7 8th generation,1.9,GHz
+2783,P2783,intel celeron n,2.6,GHz
+2784,P2784,intel pentium,3.7,GHz
+2785,P2785,undefined,0.0,unknown
+2786,P2786,intelÂ® coreâ„¢ i3 i3-3217u,1.8,GHz
+2787,P2787,intel core i5 8th generation,0.0,unknown
+2788,P2788,intel core i7 12th generation,5.0,GHz
+2789,P2789,intel core i5 8th generation,1.6,GHz
+2790,P2790,not applicable,0.0,unknown
+2791,P2791,intel core i5 3rd generation,2.6,GHz
+2792,P2792,not applicable,0.0,unknown
+2793,P2793,intel celeron,0.0,unknown
+2794,P2794,intel celeron,1.4,GHz
+2795,P2795,core i5 8th gen,1.9,GHz
+2796,P2796,i7-1165g7,2.08,GHz
+2797,P2797,intel core i5 6th generation,2.4,GHz
+2798,P2798,intel core i5 8th generation,2.5,GHz
+2799,P2799,intel core i5 11th generation,2.6,GHz
+2800,P2800,intel core i5 7th generation,2.6,GHz
+2801,P2801,intel core i5 7th generation,3.3,GHz
+2802,P2802,intel core i5 3rd generation,0.0,unknown
+2803,P2803,intel core i5 4th generation,2.6,GHz
+2804,P2804,undefined,0.0,unknown
+2805,P2805,intel core i3 4th generation,3.0,GHz
+2806,P2806,intel core i5 7th generation,3.1,GHz
+2807,P2807,intel core i7 2nd generation,2.67,GHz
+2808,P2808,undefined,0.0,unknown
+2809,P2809,intel core i7 13th generation,1.8,GHz
+2810,P2810,intel core i5 11th generation,0.0,unknown
+2811,P2811,undefined,0.0,unknown
+2812,P2812,intel core i3 7th generation,0.0,unknown
+2813,P2813,intel core i5 1st generation,1.3,GHz
+2814,P2814,intel core i5 6th gen,2.4,GHz
+2815,P2815,intel core i5 4th generation,2.6,GHz
+2816,P2816,intel core i5 3rd generation,3.0,GHz
+2817,P2817,intel core i5 7th generation,3.1,GHz
+2818,P2818,intel core i5 4th generation,1.7,GHz
+2819,P2819,intel core i3 7th generation,2.4,GHz
+2820,P2820,intel core i5 12th generation,4.4,GHz
+2821,P2821,intel core i7 6th generation,2.6,GHz
+2822,P2822,not applicable,0.0,unknown
+2823,P2823,core i3-4030u,1.9,GHz
+2824,P2824,intel core i3 11th generation,1.7,GHz
+2825,P2825,amd ryzen 5,2.8,GHz
+2826,P2826,undefined,0.0,unknown
+2827,P2827,undefined,0.0,unknown
+2828,P2828,intel core i5 11th generation,2.4,GHz
+2829,P2829,undefined,0.0,unknown
+2830,P2830,intel core i5 3rd generation,3.0,GHz
+2831,P2831,amd a4 dual-core,2.5,GHz
+2832,P2832,intel celeron n,1.1,GHz
+2833,P2833,intel pentium n-series,0.0,unknown
+2834,P2834,intel celeron n,1.6,GHz
+2835,P2835,intel core i5 6th generation,2.4,GHz
+2836,P2836,intel celeron,1.6,GHz
+2837,P2837,intel core i5,2.4,GHz
+2838,P2838,intel core i5 3rd generation,3.0,GHz
+2839,P2839,undefined,0.0,unknown
+2840,P2840,intel celeron n4020,1.1,GHz
+2841,P2841,undefined,0.0,unknown
+2842,P2842,intel celeron n,1.6,GHz
+2843,P2843,undefined,0.0,unknown
+2844,P2844,not applicable,0.0,unknown
+2845,P2845,undefined,0.0,unknown
+2846,P2846,amd ryzen 5,0.0,unknown
+2847,P2847,undefined,0.0,unknown
+2848,P2848,intel core i5 6th generation,2.8,GHz
+2849,P2849,intel core i7,2.7,GHz
+2850,P2850,intel core i5-6200u,2.3,GHz
+2851,P2851,intel core i5,0.0,unknown
+2852,P2852,i7-4800,0.0,unknown
+2853,P2853,intel core i9 12th gen,5.0,GHz
+2854,P2854,intel core i7 8th generation,1.8,GHz
+2855,P2855,undefined,0.0,unknown
+2856,P2856,intel core i3 2nd generation,2.3,GHz
+2857,P2857,intel pentium,0.0,unknown
+2858,P2858,intel core i7,3.5,GHz
+2859,P2859,intel core i5 4th generation,2.6,GHz
+2860,P2860,intel core i5 3rd generation,3.0,GHz
+2861,P2861,undefined,0.0,unknown
+2862,P2862,intel core i5 4th generation,2.6,GHz
+2863,P2863,undefined,0.0,unknown
+2864,P2864,intel core i7 8th gen,1.9,GHz
+2865,P2865,undefined,0.0,unknown
+2866,P2866,undefined,0.0,unknown
+2867,P2867,intel core i7 11th generation,2.8,GHz
+2868,P2868,intel core i5-2520m,2.5,GHz
+2869,P2869,undefined,0.0,unknown
+2870,P2870,intel core i5 8th generation,2.2,GHz
+2871,P2871,intel core i5 8th generation,1.6,GHz
+2872,P2872,intel core i5,0.399,GHz
+2873,P2873,intel core i7 10th generation,4.9,GHz
+2874,P2874,intel core i7 9th generation,4.7,GHz
+2875,P2875,undefined,0.0,unknown
+2876,P2876,intel core i5 10th generation,3.7,GHz
+2877,P2877,undefined,0.0,unknown
+2878,P2878,intel core i3 11th generation,0.0,unknown
+2879,P2879,undefined,0.0,unknown
+2880,P2880,intel celeron n,1.1,GHz
+2881,P2881,undefined,0.0,unknown
+2882,P2882,undefined,0.0,unknown
+2883,P2883,undefined,0.0,unknown
+2884,P2884,intel core i5 12th generation,0.0,unknown
+2885,P2885,intel core i7 7th generation,0.0,unknown
+2886,P2886,undefined,0.0,unknown
+2887,P2887,intel core i5 6th generation,2.8,GHz
+2888,P2888,intel core i5 6th generation,2.8,GHz
+2889,P2889,intel core i5 6th generation,2.8,GHz
+2890,P2890,intel celeron n,1.6,GHz
+2891,P2891,mediatek,2.0,GHz
+2892,P2892,intel core i5 13th generation,0.0,unknown
+2893,P2893,intel core i5 4th generation,2.6,GHz
+2894,P2894,intel core i5 3rd generation,3.0,GHz
+2895,P2895,undefined,0.0,unknown
+2896,P2896,11th generation intelÂ® coreâ„¢ i7-1165g7,2.8,GHz
+2897,P2897,intel core i5 2nd generation,2.5,GHz
+2898,P2898,intel core i5 4th generation,2.7,GHz
+2899,P2899,intel celeron,1.8,GHz
+2900,P2900,intel core i7-6500u,2.5,GHz
+2901,P2901,intel core i7 7th generation,0.0,unknown
+2902,P2902,undefined,0.0,unknown
+2903,P2903,intel celeron,2.6,GHz
+2904,P2904,intel core i7 6th generation,2.6,GHz
+2905,P2905,not applicable,0.0,unknown
+2906,P2906,qualcomm snapdragon 7c gen 2,0.0,unknown
+2907,P2907,intel core i5 3rd generation,2.5,GHz
+2908,P2908,intel core i7 4th generation,2.7,GHz
+2909,P2909,intel celeron n,2.48,GHz
+2910,P2910,quartz or automatic,0.0,unknown
+2911,P2911,intel core i7 2nd generation,0.0,unknown
+2912,P2912,intel core i7 6th generation,2.6,GHz
+2913,P2913,intel core i5 6th generation,2.8,GHz
+2914,P2914,intel core i5 4th generation,3.0,GHz
+2915,P2915,intel core i7 11th generation,0.0,unknown
+2916,P2916,intel celeron,1.1,GHz
+2917,P2917,intel core i7 8th generation,1.9,GHz
+2918,P2918,intel core i5 6th generation,2.8,GHz
+2919,P2919,intel celeron dual core,-2.8,GHz
+2920,P2920,intel core i5 8th generation,0.0,unknown
+2921,P2921,undefined,0.0,unknown
+2922,P2922,undefined,0.0,unknown
+2923,P2923,undefined,0.0,unknown
+2924,P2924,intel core i7 6th generation,2.6,GHz
+2925,P2925,intel core i5 11th generation,0.0,unknown
+2926,P2926,intel core i5 4th generation,2.6,GHz
+2927,P2927,intel celeron,2.16,GHz
+2928,P2928,intel core 2 duo,2.8,GHz
+2929,P2929,not applicable,0.0,unknown
+2930,P2930,intel core i7 12th generation,3.6,GHz
+2931,P2931,undefined,0.0,unknown
+2932,P2932,intel core i7 12th generation,3.5,GHz
+2933,P2933,undefined,0.0,unknown
+2934,P2934,intel core i5 6th generation,3.0,GHz
+2935,P2935,amd a10,0.0,unknown
+2936,P2936,intel core i5-8250u,0.0,unknown
+2937,P2937,intel core i5 7th generation,2.5,GHz
+2938,P2938,intel core i5 6th generation,2.8,GHz
+2939,P2939,undefined,0.0,unknown
+2940,P2940,intel core i5 13th generation,4.6,GHz
+2941,P2941,intel core i3 4th generation,1.5,GHz
+2942,P2942,undefined,0.0,unknown
+2943,P2943,intel core i7,4.7,GHz
+2944,P2944,intel core i5 3rd generation,3.0,GHz
+2945,P2945,intel core i5 4th generation,1.99,GHz
+2946,P2946,intel core i5 3rd generation,3.0,GHz
+2947,P2947,i9-13900hx,0.0,unknown
+2948,P2948,undefined,0.0,unknown
+2949,P2949,intel core i7 7th generation,3.0,GHz
+2950,P2950,intel pentium,0.0,unknown
+2951,P2951,intel core i5 4th generation,2.6,GHz
+2952,P2952,undefined,0.0,unknown
+2953,P2953,undefined,0.0,unknown
+2954,P2954,undefined,0.0,unknown
+2955,P2955,intel core i5 3rd generation,3.0,GHz
+2956,P2956,undefined,0.0,unknown
+2957,P2957,intel core i3 6th generation,3.0,GHz
+2958,P2958,undefined,0.0,unknown
+2959,P2959,undefined,0.0,unknown
+2960,P2960,intel core i7 7th generation,3.0,GHz
+2961,P2961,undefined,0.0,unknown
+2962,P2962,pentium,0.0,unknown
+2963,P2963,intel pentium,0.0,unknown
+2964,P2964,undefined,0.0,unknown
+2965,P2965,intel core i3 7th generation,2.4,GHz
+2966,P2966,intel core i5 5th generation,2.7,GHz
+2967,P2967,intel centrino,0.0,unknown
+2968,P2968,core i5 6300u 2.40ghz,2.4,GHz
+2969,P2969,undefined,0.0,unknown
+2970,P2970,undefined,0.0,unknown
+2971,P2971,undefined,0.0,unknown
+2972,P2972,undefined,0.0,unknown
+2973,P2973,undefined,0.0,unknown
+2974,P2974,undefined,0.0,unknown
+2975,P2975,undefined,0.0,unknown
+2976,P2976,undefined,0.0,unknown
+2977,P2977,undefined,0.0,unknown
+2978,P2978,undefined,0.0,unknown
+2979,P2979,undefined,0.0,unknown
+2980,P2980,undefined,0.0,unknown
+2981,P2981,intel core i5 5th generation,2.7,GHz
+2982,P2982,intel core i5 4th generation,2.6,GHz
+2983,P2983,intel core i3 7th generation,2.4,GHz
+2984,P2984,undefined,0.0,unknown
+2985,P2985,not applicable,0.0,unknown
+2986,P2986,undefined,0.0,unknown
+2987,P2987,undefined,0.0,unknown
+2988,P2988,undefined,0.0,unknown
+2989,P2989,intel celeron,2.16,GHz
+2990,P2990,undefined,0.0,unknown
+2991,P2991,intel core i5 4th generation,2.6,GHz
+2992,P2992,intel core i3 4th generation,3.0,GHz
+2993,P2993,intel core i3 6th generation,3.0,GHz
+2994,P2994,inter core i7 8550u,1.8,GHz
+2995,P2995,intel core i7 10th generation,2.3,GHz
+2996,P2996,intel core i7 5th generation,2.6,GHz
+2997,P2997,undefined,0.0,unknown
+2998,P2998,intel core i5 2nd generation,0.0,unknown
+2999,P2999,undefined,0.0,unknown
+3000,P3000,undefined,0.0,unknown
+3001,P3001,undefined,0.0,unknown
+3002,P3002,intel core i5 6th generation,0.0,unknown
+3003,P3003,not applicable,0.0,unknown
+3004,P3004,intel celeron n,1.1,GHz
+3005,P3005,i5-7200u,2.5,GHz
+3006,P3006,not applicable,0.0,unknown
+3007,P3007,not applicable,0.0,unknown
+3008,P3008,undefined,0.0,unknown
+3009,P3009,undefined,0.0,unknown
+3010,P3010,undefined,0.0,unknown
+3011,P3011,undefined,0.0,unknown
+3012,P3012,undefined,0.0,unknown
+3013,P3013,undefined,0.0,unknown
+3014,P3014,undefined,0.0,unknown
+3015,P3015,undefined,0.0,unknown
+3016,P3016,undefined,0.0,unknown
+3017,P3017,intel core i5 6th generation,0.0,unknown
+3018,P3018,intel core i5 7th generation,3.3,GHz
+3019,P3019,undefined,0.0,unknown
+3020,P3020,intel core i5 3rd generation,3.0,GHz
+3021,P3021,undefined,0.0,unknown
+3022,P3022,undefined,0.0,unknown
+3023,P3023,undefined,0.0,unknown
+3024,P3024,intel core i5 5th generation,2.7,GHz
+3025,P3025,undefined,0.0,unknown
+3026,P3026,undefined,0.0,unknown
+3027,P3027,intel core i5 4th generation,2.6,GHz
+3028,P3028,intel celeron,0.0,unknown
+3029,P3029,not applicable,0.0,unknown
+3030,P3030,undefined,0.0,unknown
+3031,P3031,undefined,0.0,unknown
+3032,P3032,undefined,0.0,unknown
+3033,P3033,intel core i5 â€‹â€‹12th generation,0.0,unknown
+3034,P3034,undefined,0.0,unknown
+3035,P3035,undefined,0.0,unknown
+3036,P3036,undefined,0.0,unknown
+3037,P3037,not applicable,0.0,unknown
+3038,P3038,not applicable,0.0,unknown
+3039,P3039,intel celeron n,1.1,GHz
+3040,P3040,intel core i5 4th generation,3.0,GHz
+3041,P3041,intel core i5 4th generation,2.6,GHz
+3042,P3042,undefined,0.0,unknown
+3043,P3043,undefined,0.0,unknown
+3044,P3044,undefined,0.0,unknown
+3045,P3045,intel core 2 duo,2.0,GHz
+3046,P3046,undefined,0.0,unknown
+3047,P3047,intel core i5 4th generation,2.6,GHz
+3048,P3048,undefined,0.0,unknown
+3049,P3049,undefined,0.0,unknown
+3050,P3050,inter core i7 8550u,1.8,GHz
+3051,P3051,undefined,0.0,unknown
+3052,P3052,undefined,0.0,unknown
+3053,P3053,undefined,0.0,unknown
+3054,P3054,intel core i5 4th generation,3.0,GHz
+3055,P3055,intel core i5,0.0,unknown
+3056,P3056,not applicable,0.0,unknown
+3057,P3057,undefined,0.0,unknown
+3058,P3058,inter core i7 8550u,1.8,GHz
+3059,P3059,undefined,0.0,unknown
+3060,P3060,intel core i7 8th generation,3.0,GHz
+3061,P3061,8365u,1.6,GHz
+3062,P3062,undefined,0.0,unknown
+3063,P3063,intel core i5 6th generation,2.4,GHz
+3064,P3064,inter core i7 8550u,1.99,GHz
+3065,P3065,undefined,0.0,unknown
+3066,P3066,intel core i5 4th generation,1.99,GHz
+3067,P3067,intel core i5 6th generation,0.0,unknown
+3068,P3068,undefined,0.0,unknown
+3069,P3069,undefined,0.0,unknown
+3070,P3070,undefined,0.0,unknown
+3071,P3071,undefined,0.0,unknown
+3072,P3072,undefined,0.0,unknown
+3073,P3073,undefined,0.0,unknown
+3074,P3074,undefined,0.0,unknown
+3075,P3075,undefined,0.0,unknown
+3076,P3076,not applicable,0.0,unknown
+3077,P3077,undefined,0.0,unknown
+3078,P3078,undefined,0.0,unknown
+3079,P3079,undefined,0.0,unknown
+3080,P3080,intel core i7 10th generation,3.0,GHz
+3081,P3081,intel core i5 6th generation,2.8,GHz
+3082,P3082,intel core i5 7th generation,3.1,GHz
+3083,P3083,undefined,0.0,unknown
+3084,P3084,intel core i3 4th generation,3.0,GHz
+3085,P3085,amd ryzen 7 5825u,4.5,GHz
+3086,P3086,undefined,0.0,unknown
+3087,P3087,intel celeron n2940 1.83ghz quad,1.83,GHz
+3088,P3088,intel pentium silver,1.1,GHz
+3089,P3089,intel core i5 4th generation,2.6,GHz
+3090,P3090,intel core i7 13th generation,5.0,GHz
+3091,P3091,intel core 2 duo,2.0,GHz
+3092,P3092,intel core i5 7th generation,3.3,GHz
+3093,P3093,not applicable,0.0,unknown
+3094,P3094,intel core i5 4th generation,0.0,unknown
+3095,P3095,intel core i5 6th generation,2.8,GHz
+3096,P3096,intel celeron,1.1,GHz
+3097,P3097,undefined,0.0,unknown
+3098,P3098,intel celeron n,1.6,GHz
+3099,P3099,intel core i5 5th generation,2.3,GHz
+3100,P3100,intel core i3 6th generation,3.0,GHz
+3101,P3101,intel core i3 8th generation,2.1,GHz
+3102,P3102,i7 7th,2.8,GHz
+3103,P3103,intel celeron n,0.0,unknown
+3104,P3104,intel core i5 13th generation,1.3,GHz
+3105,P3105,intel core i5 4th generation,1.99,GHz
+3106,P3106,intel core i5 3rd generation,3.0,GHz
+3107,P3107,intel core i5 5th generation,2.7,GHz
+3108,P3108,intel core i5 4th generation,1.99,GHz
+3109,P3109,intel core i7 8th generation,3.0,GHz
+3110,P3110,not applicable,0.0,unknown
+3111,P3111,inter core i7 8550u,1.99,GHz
+3112,P3112,inter core i7 8550u,1.99,GHz
+3113,P3113,intel core i5 5th generation,2.7,GHz
+3114,P3114,intel core i5 4th generation,2.6,GHz
+3115,P3115,undefined,0.0,unknown
+3116,P3116,not applicable,0.0,unknown
+3117,P3117,undefined,0.0,unknown
+3118,P3118,undefined,0.0,unknown
+3119,P3119,undefined,0.0,unknown
+3120,P3120,undefined,0.0,unknown
+3121,P3121,undefined,0.0,unknown
+3122,P3122,undefined,0.0,unknown
+3123,P3123,undefined,0.0,unknown
+3124,P3124,undefined,0.0,unknown
+3125,P3125,undefined,0.0,unknown
+3126,P3126,intel core i5 6th generation,2.8,GHz
+3127,P3127,not applicable,0.0,unknown
+3128,P3128,undefined,0.0,unknown
+3129,P3129,undefined,0.0,unknown
+3130,P3130,undefined,0.0,unknown
+3131,P3131,undefined,0.0,unknown
+3132,P3132,undefined,0.0,unknown
+3133,P3133,intel celeron n,2.4,GHz
+3134,P3134,n3530,2.16,GHz
+3135,P3135,intel celeron,1.4,GHz
+3136,P3136,mediatek,2.1,GHz
+3137,P3137,intel atom quad-core,1.6,GHz
+3138,P3138,intel celeron,1.1,GHz
+3139,P3139,intel core i5 8th generation,0.0,unknown
+3140,P3140,amd ryzen 7,1.9,GHz
+3141,P3141,intel core i5 2nd generation,0.0,unknown
+3142,P3142,amd ryzen 5 3550h,2.1,GHz
+3143,P3143,core i7 6th generation,2.6,GHz
+3144,P3144,intel core i5,0.0,unknown
+3145,P3145,qualcomm snapdragon 8cx gen 3 sc8280xp,3.0,GHz
+3146,P3146,intel core i5 7th generation,2.6,GHz
+3147,P3147,intel core i7 12th generation,4.7,GHz
+3148,P3148,intel core i5 6th generation,2.4,GHz
+3149,P3149,intel core i5 6th generation,2.4,GHz
+3150,P3150,intel core i5 6th generation,2.4,GHz
+3151,P3151,i7-6820hq,2.7,GHz
+3152,P3152,mediatek mt8183,2.0,GHz
+3153,P3153,intel core i5-8365u,1.6,GHz
+3154,P3154,intel core i3 4th generation,2.4,GHz
+3155,P3155,intel core i5 10th generation,1.1,GHz
+3156,P3156,intel celeron n,1.6,GHz
+3157,P3157,intel core i5 5th generation,2.7,GHz
+3158,P3158,intel core i5 4th generation,2.6,GHz
+3159,P3159,intel core i5 3rd generation,3.0,GHz
+3160,P3160,undefined,0.0,unknown
+3161,P3161,intel core i5 6th generation,0.0,unknown
+3162,P3162,intel core i5 5th generation,0.0,unknown
+3163,P3163,undefined,0.0,unknown
+3164,P3164,undefined,0.0,unknown
+3165,P3165,undefined,0.0,unknown
+3166,P3166,intel celeron,2.4,GHz
+3167,P3167,undefined,2.4,GHz
+3168,P3168,undefined,0.0,unknown
+3169,P3169,not applicable,0.0,unknown
+3170,P3170,undefined,0.0,unknown
+3171,P3171,undefined,0.0,unknown
+3172,P3172,intel core i5 5th generation,2.7,GHz
+3173,P3173,undefined,0.0,unknown
+3174,P3174,undefined,0.0,unknown
+3175,P3175,undefined,0.0,unknown
+3176,P3176,undefined,0.0,unknown
+3177,P3177,undefined,0.0,unknown
+3178,P3178,intel core i5 7th generation,3.1,GHz
+3179,P3179,intel celeron,1.86,GHz
+3180,P3180,undefined,0.0,unknown
+3181,P3181,intel core i5 6th generation,0.0,unknown
+3182,P3182,undefined,0.0,unknown
+3183,P3183,undefined,0.0,unknown
+3184,P3184,undefined,0.0,unknown
+3185,P3185,undefined,0.0,unknown
+3186,P3186,intel core i3,0.0,unknown
+3187,P3187,i5-5300u,2.3,GHz
+3188,P3188,undefined,0.0,unknown
+3189,P3189,intel core i5-8350u,1.7,GHz
+3190,P3190,intel celeron,1.1,GHz
+3191,P3191,intel core i5 8th generation 8250u,0.0,unknown
+3192,P3192,intel core i5 11th generation,2.7,GHz
+3193,P3193,intel core i3 5th generation,2.0,GHz
+3194,P3194,intel core i5 11th generation,2.4,GHz
+3195,P3195,intel core i5-6300u,2.6,GHz
+3196,P3196,intel core i5 6th generation,2.8,GHz
+3197,P3197,intel core i5 10th generation,1.2,GHz
+3198,P3198,intel core i7 10th generation,1.6,GHz
+3199,P3199,undefined,0.0,unknown
+3200,P3200,intel core i5 2nd generation,0.0,unknown
+3201,P3201,intel core i5 1st generation,2.4,GHz
+3202,P3202,intel celeron,0.0,unknown
+3203,P3203,amd ryzen 5,2.0,GHz
+3204,P3204,intel core 2 duo t6600,0.0,unknown
+3205,P3205,intel celeron n,1.1,GHz
+3206,P3206,i5-8259u,2.3,GHz
+3207,P3207,undefined,2.2,GHz
+3208,P3208,intel core i5 7th generation,3.1,GHz
+3209,P3209,intel core i5 8th generation,0.0,unknown
+3210,P3210,intel core i7 9th generation,0.0,unknown
+3211,P3211,intel core i5 6th generation,2.4,GHz
+3212,P3212,undefined,0.0,unknown
+3213,P3213,undefined,0.0,unknown
+3214,P3214,intel core i7 11th generation,3.0,GHz
+3215,P3215,intel celeron n3350,1.1,GHz
+3216,P3216,mediatek helio p60t,2.0,GHz
+3217,P3217,intel core i5 11th generation,0.0,unknown
+3218,P3218,intel core i5 5th generation,2.7,GHz
+3219,P3219,not applicable,0.0,unknown
+3220,P3220,intel core i5 5th generation,2.7,GHz
+3221,P3221,undefined,0.0,unknown
+3222,P3222,intel core i5 8th generation,1.6,GHz
+3223,P3223,intel celeron,1.1,GHz
+3224,P3224,8650u,1.9,GHz
+3225,P3225,amd ryzen 5,3.0,GHz
+3226,P3226,intel core i5 7th generation,2.6,GHz
+3227,P3227,undefined,0.0,unknown
+3228,P3228,undefined,0.0,unknown
+3229,P3229,intel core i5 4th generation,1.99,GHz
+3230,P3230,intel core i3 10th generation,1.2,GHz
+3231,P3231,undefined,0.0,unknown
+3232,P3232,intel core i5 7th generation,2.5,GHz
+3233,P3233,intel core i7 3rd generation,2.7,GHz
+3234,P3234,intel core i5 6th generation,3.0,GHz
+3235,P3235,undefined,0.0,unknown
+3236,P3236,core i5-8350u 8th,0.0,unknown
+3237,P3237,intel core i7 13th generation,0.0,unknown
+3238,P3238,intel core i7 8th generation,1.9,GHz
+3239,P3239,intel celeron,1.1,GHz
+3240,P3240,intel core i5 4th generation,2.6,GHz
+3241,P3241,intel core i7 12th generation,1.7,GHz
+3242,P3242,intel core i7 7th generation,2.8,GHz
+3243,P3243,intel celeron n2840,0.0,unknown
+3244,P3244,not applicable,0.0,unknown
+3245,P3245,undefined,0.0,unknown
+3246,P3246,intel core i5 7th generation,3.1,GHz
+3247,P3247,undefined,0.0,unknown
+3248,P3248,amd athlon gold 3150u,2.4,GHz
+3249,P3249,intel core i7 6th generation,2.5,GHz
+3250,P3250,i5-7200u,2.5,GHz
+3251,P3251,amd 3015ce,0.0,unknown
+3252,P3252,intel core i7 6th generation,2.5,GHz
+3253,P3253,not applicable,0.0,unknown
+3254,P3254,undefined,0.0,unknown
+3255,P3255,undefined,0.0,unknown
+3256,P3256,intel core i5 5th generation,2.7,GHz
+3257,P3257,undefined,0.0,unknown
+3258,P3258,undefined,0.0,unknown
+3259,P3259,not applicable,0.0,unknown
+3260,P3260,intel core i5 4th generation,2.6,GHz
+3261,P3261,8265u,1.6,GHz
+3262,P3262,undefined,0.0,unknown
+3263,P3263,undefined,0.0,unknown
+3264,P3264,intel core i5 4th generation,1.99,GHz
+3265,P3265,not applicable,0.0,unknown
+3266,P3266,undefined,0.0,unknown
+3267,P3267,undefined,0.0,unknown
+3268,P3268,undefined,2.53,GHz
+3269,P3269,undefined,0.0,unknown
+3270,P3270,intel core i3 7th generation,3.0,GHz
+3271,P3271,not applicable,0.0,unknown
+3272,P3272,undefined,0.0,unknown
+3273,P3273,undefined,0.0,unknown
+3274,P3274,undefined,0.0,unknown
+3275,P3275,undefined,0.0,unknown
+3276,P3276,undefined,0.0,unknown
+3277,P3277,undefined,0.0,unknown
+3278,P3278,undefined,0.0,unknown
+3279,P3279,intel core i5 4th generation,2.6,GHz
+3280,P3280,intel core i5 6th generation,2.3,GHz
+3281,P3281,not applicable,0.0,unknown
+3282,P3282,undefined,0.0,unknown
+3283,P3283,intel core i5 5th generation,2.7,GHz
+3284,P3284,undefined,0.0,unknown
+3285,P3285,undefined,0.0,unknown
+3286,P3286,undefined,0.0,unknown
+3287,P3287,undefined,0.0,unknown
+3288,P3288,undefined,0.0,unknown
+3289,P3289,undefined,0.0,unknown
+3290,P3290,inter core i7 8550u,1.99,GHz
+3291,P3291,undefined,0.0,unknown
+3292,P3292,undefined,0.0,unknown
+3293,P3293,not applicable,0.0,unknown
+3294,P3294,undefined,0.0,unknown
+3295,P3295,undefined,0.0,unknown
+3296,P3296,undefined,0.0,unknown
+3297,P3297,undefined,0.0,unknown
+3298,P3298,not applicable,0.0,unknown
+3299,P3299,undefined,0.0,unknown
+3300,P3300,undefined,0.0,unknown
+3301,P3301,inter core i7 8550u,1.8,GHz
+3302,P3302,inter core i7 8550u,1.8,GHz
+3303,P3303,intel core i5 6th generation,2.8,GHz
+3304,P3304,not applicable,0.0,unknown
+3305,P3305,undefined,0.0,unknown
+3306,P3306,undefined,0.0,unknown
+3307,P3307,not applicable,0.0,unknown
+3308,P3308,undefined,0.0,unknown
+3309,P3309,intel core i7 6th generation,2.7,GHz
+3310,P3310,intel core i7 6th generation,2.6,GHz
+3311,P3311,undefined,0.0,unknown
+3312,P3312,intel core i5 6th generation,2.4,GHz
+3313,P3313,intel core i5 4th generation,2.6,GHz
+3314,P3314,intel celeron,1.1,GHz
+3315,P3315,"intel core 13th generation i5-1345u processor (10 core, up to 4.7",0.0,unknown
+3316,P3316,intel core i7 6th generation,2.7,GHz
+3317,P3317,intel core i5 5th generation,0.0,unknown
+3318,P3318,undefined,0.0,unknown
+3319,P3319,intel centrino,2.16,GHz
+3320,P3320,core i5-3437u,1.9,GHz
+3321,P3321,amd a10,0.0,unknown
+3322,P3322,intel core i5 6th generation,2.3,GHz
+3323,P3323,intel core i5-4300m cpu @ 1.90 ghz,1.9,GHz
+3324,P3324,intel celeron n,2.16,GHz
+3325,P3325,intel core i7-1165g7,2.8,GHz
+3326,P3326,intel pentium,2.0,GHz
+3327,P3327,intel core i5 4th generation,2.4,GHz
+3328,P3328,undefined,0.0,unknown
+3329,P3329,quad core,1.3,GHz
+3330,P3330,intel celeron n4020,0.0,unknown
+3331,P3331,intel atom dual-core,0.0,unknown
+3332,P3332,intel core i5 3rd generation,1.8,GHz
+3333,P3333,intel core i5 11th generation,2.4,GHz
+3334,P3334,intel core i5 4th generation,2.6,GHz
+3335,P3335,intel core i5 7th generation,3.1,GHz
+3336,P3336,intel core i5 3rd generation,0.0,unknown
+3337,P3337,intel core i5 6th generation,2.8,GHz
+3338,P3338,intel core i5 5th generation,2.7,GHz
+3339,P3339,intel core i5 8th generation,1.6,GHz
+3340,P3340,intel core i7 12th generation,2.3,GHz
+3341,P3341,intel atom dual-core,0.0,unknown
+3342,P3342,intel core i7 8th generation,1.9,GHz
+3343,P3343,intel core i3 1st generation,3.3,GHz
+3344,P3344,undefined,0.0,unknown
+3345,P3345,intel i7 quad-core,2.8,GHz
+3346,P3346,intel i7 8th gen,1.9,GHz
+3347,P3347,undefined,0.0,unknown
+3348,P3348,intel core i5 6th generation,2.8,GHz
+3349,P3349,undefined,0.0,unknown
+3350,P3350,i5,2.4,GHz
+3351,P3351,intel core i5 12th generation,4.4,GHz
+3352,P3352,i7-8565u,0.0,unknown
+3353,P3353,intel core i5 8th generation,2.3,GHz
+3354,P3354,intel core i5 5300u,2.3,GHz
+3355,P3355,intel pentium,2.0,GHz
+3356,P3356,undefined,0.0,unknown
+3357,P3357,intel core i7,2.8,GHz
+3358,P3358,intel core i5,2.0,GHz
+3359,P3359,intel core i7 10th generation,1.8,GHz
+3360,P3360,intel core i5 1st generation,2.53,GHz
+3361,P3361,intel core i5 8th generation,0.0,unknown
+3362,P3362,intel celeron,1.6,GHz
+3363,P3363,intel core i5 4th generation,2.6,GHz
+3364,P3364,intel core i5-1035g1,1.2,GHz
+3365,P3365,intel core i7 10th generation,1.8,GHz
+3366,P3366,m7-6y75,1.23,GHz
+3367,P3367,i7-1165g7,2.8,GHz
+3368,P3368,intel core i5 11th generation,0.0,unknown
+3369,P3369,intel celeron,1.4,GHz
+3370,P3370,undefined,0.0,unknown
+3371,P3371,intel core i5 6th generation,2.4,GHz
+3372,P3372,intel core i5 6th generation,2.8,GHz
+3373,P3373,undefined,0.0,unknown
+3374,P3374,intel core i5 6th generation,2.3,GHz
+3375,P3375,undefined,0.0,unknown
+3376,P3376,intel core i5 6th generation,0.0,unknown
+3377,P3377,undefined,0.0,unknown
+3378,P3378,undefined,0.0,unknown
+3379,P3379,not applicable,0.0,unknown
+3380,P3380,not applicable,0.0,unknown
+3381,P3381,intel core i5 6th generation,2.8,GHz
+3382,P3382,not applicable,0.0,unknown
+3383,P3383,intel core i5 4th generation,2.6,GHz
+3384,P3384,undefined,0.0,unknown
+3385,P3385,intel core i5 4th generation,1.99,GHz
+3386,P3386,not applicable,0.0,unknown
+3387,P3387,undefined,0.0,unknown
+3388,P3388,intel core i5 6th generation,2.8,GHz
+3389,P3389,inter core i7 8550u,1.99,GHz
+3390,P3390,undefined,0.0,unknown
+3391,P3391,undefined,0.0,unknown
+3392,P3392,intel core i5 4th generation,2.6,GHz
+3393,P3393,intel core i5 6th generation,2.8,GHz
+3394,P3394,not applicable,0.0,unknown
+3395,P3395,not applicable,0.0,unknown
+3396,P3396,undefined,0.0,unknown
+3397,P3397,intel core i5 4th generation,2.6,GHz
+3398,P3398,intel core i5 2nd generation,1.7,GHz
+3399,P3399,intel core i7-10610u,1.8,GHz
+3400,P3400,samsung exynos 5 dual,1.7,GHz
+3401,P3401,intel core i7 8th generation,0.0,unknown
+3402,P3402,amd ryzen 5,4.3,GHz
+3403,P3403,intel core i5 4th generation,2.6,GHz
+3404,P3404,intel core i7 2nd generation,2.2,GHz
+3405,P3405,intel celeron,1.1,GHz
+3406,P3406,i5-7200u,2.4,GHz
+3407,P3407,intel core i7-7500u,0.0,unknown
+3408,P3408,intel core i3,4.1,GHz
+3409,P3409,undefined,0.0,unknown
+3410,P3410,intel core i5 6th generation,2.8,GHz
+3411,P3411,intel celeron,2.5,GHz
+3412,P3412,amd a4 dual-core,2.3,GHz
+3413,P3413,intel core i5 3rd generation,2.6,GHz
+3414,P3414,intel core i7-12700h processor 2.3 ghz,0.0,unknown
+3415,P3415,intel celeron dual-core,2.0,GHz
+3416,P3416,i5-6,0.0,unknown
+3417,P3417,intel pentium 4,2.66,GHz
+3418,P3418,intel core i7 11th generation,4.8,GHz
+3419,P3419,intel core i5-5300u,2.3,GHz
+3420,P3420,intel core i5 4th generation,3.0,GHz
+3421,P3421,intel core i5 6th generation,2.8,GHz
+3422,P3422,intel core i7 5th generation,2.4,GHz
+3423,P3423,intel core i5 8th generation,1.7,GHz
+3424,P3424,intel core i5 8th generation,1.7,GHz
+3425,P3425,undefined,0.0,unknown
+3426,P3426,intel core 2 duo,2.0,GHz
+3427,P3427,i5-1135g7,4.2,GHz
+3428,P3428,intel core i5 12th generation,4.4,GHz
+3429,P3429,undefined,0.0,unknown
+3430,P3430,intel celeron,2.4,GHz
+3431,P3431,intel core i7 12th generation,2.3,GHz
+3432,P3432,intel celeron n3160,1.6,GHz
+3433,P3433,i7-6600u,2.6,GHz
+3434,P3434,intel core i5-8250u,1.6,GHz
+3435,P3435,intel core i7-8665u,1.9,GHz
+3436,P3436,intel core i7-8665u,1.9,GHz
+3437,P3437,intel core i5-7200u,2.5,GHz
+3438,P3438,intel core i7-10610u (10th gen cpu),1.8,GHz
+3439,P3439,intel core i3 6th generation,2.3,GHz
+3440,P3440,mixt,0.0,unknown
+3441,P3441,intel core i7 6th generation,2.6,GHz
+3442,P3442,intel core i5 11th generation,0.0,unknown
+3443,P3443,undefined,0.0,unknown
+3444,P3444,mediatek helio p60t,2.0,GHz
+3445,P3445,i7-6500u,2.5,GHz
+3446,P3446,amd ryzen 5 5625u,2.3,GHz
+3447,P3447,undefined,0.0,unknown
+3448,P3448,intel celeron n,1.6,GHz
+3449,P3449,amd ryzen 5,3.0,GHz
+3450,P3450,intel core i5-6200u,2.3,GHz
+3451,P3451,intel core i7-7500u,2.3,GHz
+3452,P3452,intel core i7 8th generation,1.8,GHz
+3453,P3453,intel core i7 3rd generation,0.0,unknown
+3454,P3454,intel core i5 12th generation,2.5,GHz
+3455,P3455,intel core i7 6th generation,2.7,GHz
+3456,P3456,qualcomm snapdragon 8cx gen 2,3.2,GHz
+3457,P3457,amd ryzen 7,2.3,GHz
+3458,P3458,microsoft sq1,1.8,GHz
+3459,P3459,intel core i5,0.0,unknown
+3460,P3460,intel celeron,0.0,unknown
+3461,P3461,core i7,2.8,GHz
+3462,P3462,a72/a53 2.0ghz,0.0,unknown
+3463,P3463,i7-8650u,1.9,GHz
+3464,P3464,intel core i7 8th generation,3.1,GHz
+3465,P3465,intel celeron n,2.48,GHz
+3466,P3466,intel core m3 8th generation,1.1,GHz
+3467,P3467,intel core i7 6th generation,2.6,GHz
+3468,P3468,intel core i7 8th generation,1.8,GHz
+3469,P3469,intel core i7 8th generation,1.9,GHz
+3470,P3470,intel(r) atom (tm) x7-z8750 cpu @ 1.60ghz,1.6,GHz
+3471,P3471,amd a4-9120e,0.0,unknown
+3472,P3472,intel pentium,1.2,GHz
+3473,P3473,intel celeron n,1.1,GHz
+3474,P3474,i7,2.6,GHz
+3475,P3475,intel core i5 6th generation,2.4,GHz
+3476,P3476,intel core i7 8th generation,1.8,GHz
+3477,P3477,intel core i5 6th generation,2.4,GHz
+3478,P3478,intel core i5 8th generation,1.6,GHz
+3479,P3479,intel core i5 8th generation,1.7,GHz
+3480,P3480,intel core i5 6th generation,2.4,GHz
+3481,P3481,intel core i3 11th generation,0.0,unknown
+3482,P3482,undefined,0.0,unknown
+3483,P3483,undefined,0.0,unknown
+3484,P3484,undefined,0.0,unknown
+3485,P3485,undefined,0.0,unknown
+3486,P3486,undefined,0.0,unknown
+3487,P3487,undefined,0.0,unknown
+3488,P3488,undefined,0.0,unknown
+3489,P3489,not applicable,0.0,unknown
+3490,P3490,not applicable,0.0,unknown
+3491,P3491,intel core i5 4th generation,1.99,GHz
+3492,P3492,intel core i5 5th generation,0.0,unknown
+3493,P3493,intel core i5 3rd generation,3.0,GHz
+3494,P3494,undefined,0.0,unknown
+3495,P3495,undefined,0.0,unknown
+3496,P3496,undefined,0.0,unknown
+3497,P3497,not applicable,0.0,unknown
+3498,P3498,undefined,0.0,unknown
+3499,P3499,undefined,0.0,unknown
+3500,P3500,intel core i5 4th generation,2.6,GHz
+3501,P3501,intel core i5 3rd generation,3.0,GHz
+3502,P3502,undefined,0.0,unknown
+3503,P3503,undefined,0.0,unknown
+3504,P3504,undefined,0.0,unknown
+3505,P3505,undefined,0.0,unknown
+3506,P3506,undefined,0.0,unknown
+3507,P3507,intel core i5 5th generation,2.7,GHz
+3508,P3508,intel core i5 4th generation,3.0,GHz
+3509,P3509,undefined,0.0,unknown
+3510,P3510,not applicable,0.0,unknown
+3511,P3511,undefined,0.0,unknown
+3512,P3512,intel pentium,0.0,unknown
+3513,P3513,undefined,0.0,unknown
+3514,P3514,undefined,0.0,unknown
+3515,P3515,intel core i5 4th generation,2.6,GHz
+3516,P3516,intel core i7 4th generation,0.0,unknown
+3517,P3517,intel core i7 8th generation,0.0,unknown
+3518,P3518,undefined,0.0,unknown
+3519,P3519,undefined,0.0,unknown
+3520,P3520,i7-10610u,0.0,unknown
+3521,P3521,intel core i5 7th generation,2.6,GHz
+3522,P3522,i5,0.0,unknown
+3523,P3523,intel core i3 11th generation,4.1,GHz
+3524,P3524,undefined,0.0,unknown
+3525,P3525,intel core i5 11th generation,2.6,GHz
+3526,P3526,intel core i7,2.6,GHz
+3527,P3527,intel core i5-6200u,2.3,GHz
+3528,P3528,intel core i7 11th generation,2.8,GHz
+3529,P3529,undefined,0.0,unknown
+3530,P3530,intel core i5 5th generation,2.3,GHz
+3531,P3531,intel core i5-6300u 2.40ghz,2.4,GHz
+3532,P3532,intel core i3 4th generation,3.0,GHz
+3533,P3533,intel core i5 11th generation,2.4,GHz
+3534,P3534,undefined,0.0,unknown
+3535,P3535,rockchip rk3288-c,1.8,GHz
+3536,P3536,amd a6-9220e,1.6,GHz
+3537,P3537,intel core i3 7th generation,2.4,GHz
+3538,P3538,undefined,0.0,unknown
+3539,P3539,intel core i5 4th generation,2.6,GHz
+3540,P3540,intel core i5 4th generation,1.99,GHz
+3541,P3541,intel core i5 4th generation,2.6,GHz
+3542,P3542,intel core i5 6th generation,2.8,GHz
+3543,P3543,not applicable,0.0,unknown
+3544,P3544,undefined,0.0,unknown
+3545,P3545,undefined,0.0,unknown
+3546,P3546,undefined,0.0,unknown
+3547,P3547,intel core i5 â€‹â€‹12th generation,4.0,GHz
+3548,P3548,undefined,0.0,unknown
+3549,P3549,inter core i7 8550u,1.8,GHz
+3550,P3550,undefined,0.0,unknown
+3551,P3551,undefined,0.0,unknown
+3552,P3552,undefined,0.0,unknown
+3553,P3553,intel pentium,0.0,unknown
+3554,P3554,intel core i5 11th generation,0.0,unknown
+3555,P3555,undefined,0.0,unknown
+3556,P3556,intel core 2 duo,0.0,unknown
+3557,P3557,undefined,0.0,unknown
+3558,P3558,undefined,0.0,unknown
+3559,P3559,undefined,0.0,unknown
+3560,P3560,intel core i5 6th generation,3.0,GHz
+3561,P3561,not applicable,0.0,unknown
+3562,P3562,not applicable,0.0,unknown
+3563,P3563,not applicable,0.0,unknown
+3564,P3564,intel centrino,0.0,unknown
+3565,P3565,undefined,0.0,unknown
+3566,P3566,intel core i5 5th generation,2.7,GHz
+3567,P3567,undefined,0.0,unknown
+3568,P3568,intel celeron n,1.1,GHz
+3569,P3569,intel celeron n,1.1,GHz
+3570,P3570,intel core i7 12th generation,4.7,GHz
+3571,P3571,intel core i7 4th generation,3.2,GHz
+3572,P3572,intel core i7 10th generation,1.3,GHz
+3573,P3573,undefined,0.0,unknown
+3574,P3574,intel core i7 11th generation,3.0,GHz
+3575,P3575,undefined,0.0,unknown
+3576,P3576,intel core i5 4th generation,2.5,GHz
+3577,P3577,undefined,0.0,unknown
+3578,P3578,intel core i7 8th generation,1.9,GHz
+3579,P3579,not applicable,0.0,unknown
+3580,P3580,"intel core i7-7y75 (up to 3.60ghz, 4m cache)",3.6,GHz
+3581,P3581,intel core i5-3210m,2.5,GHz
+3582,P3582,intel core i5 8th generation,2.5,GHz
+3583,P3583,intel celeron,1.1,GHz
+3584,P3584,intel core i5 6th gen,2.4,GHz
+3585,P3585,i7-13800h,5.2,GHz
+3586,P3586,na,0.0,unknown
+3587,P3587,undefined,0.0,unknown
+3588,P3588,intel atom x5 z8350,1.44,GHz
+3589,P3589,intel core i5 6th generation,2.9,GHz
+3590,P3590,intel core i5 10th generation,1.7,GHz
+3591,P3591,undefined,0.0,unknown
+3592,P3592,core i5,0.0,unknown
+3593,P3593,intel celeron n,1.1,GHz
+3594,P3594,undefined,0.0,unknown
+3595,P3595,amd a4 dual-core,2.5,GHz
+3596,P3596,intel core i7 11th generation,2.8,GHz
+3597,P3597,intel core duo,1.87,GHz
+3598,P3598,intel core i5 5th generation,0.0,unknown
+3599,P3599,undefined,0.0,unknown
+3600,P3600,intel core i5 6th generation,2.8,GHz
+3601,P3601,not applicable,0.0,unknown
+3602,P3602,not applicable,0.0,unknown
+3603,P3603,undefined,0.0,unknown
+3604,P3604,inter core i7 8550u,1.99,GHz
+3605,P3605,intel core i5 3rd generation,0.0,unknown
+3606,P3606,undefined,0.0,unknown
+3607,P3607,intel core i3 7th generation,0.0,unknown
+3608,P3608,intel core i3 6th generation,3.0,GHz
+3609,P3609,intel core i5 3rd generation,3.0,GHz
+3610,P3610,undefined,0.0,unknown
+3611,P3611,not applicable,0.0,unknown
+3612,P3612,undefined,0.0,unknown
+3613,P3613,undefined,0.0,unknown
+3614,P3614,undefined,0.0,unknown
+3615,P3615,not applicable,0.0,unknown
+3616,P3616,not applicable,0.0,unknown
+3617,P3617,undefined,0.0,unknown
+3618,P3618,undefined,0.0,unknown
+3619,P3619,intel core i5 6th generation,2.8,GHz
+3620,P3620,intel core i5 4th generation,1.99,GHz
+3621,P3621,intel core i5 4th generation,1.99,GHz
+3622,P3622,undefined,0.0,unknown
+3623,P3623,not applicable,0.0,unknown
+3624,P3624,intel core i5 4th generation,4.0,GHz
+3625,P3625,intel core i5 3rd generation,3.1,GHz
+3626,P3626,not applicable,0.0,unknown
+3627,P3627,undefined,0.0,unknown
+3628,P3628,not applicable,0.0,unknown
+3629,P3629,undefined,0.0,unknown
+3630,P3630,intel fast processor,0.0,unknown
+3631,P3631,not applicable,0.0,unknown
+3632,P3632,not applicable,0.0,unknown
+3633,P3633,undefined,0.0,unknown
+3634,P3634,intel pentium,0.0,unknown
+3635,P3635,not applicable,0.0,unknown
+3636,P3636,not applicable,0.0,unknown
+3637,P3637,not applicable,0.0,unknown
+3638,P3638,not applicable,0.0,unknown
+3639,P3639,undefined,0.0,unknown
+3640,P3640,intel core i3 6th generation,3.0,GHz
+3641,P3641,intel core i5 4th generation,2.6,GHz
+3642,P3642,undefined,0.0,unknown
+3643,P3643,not applicable,0.0,unknown
+3644,P3644,intel core i5 4th generation,2.6,GHz
+3645,P3645,intel core i5 7th generation,0.0,unknown
+3646,P3646,undefined,0.0,unknown
+3647,P3647,undefined,0.0,unknown
+3648,P3648,not applicable,0.0,unknown
+3649,P3649,intel core i5 6th generation,2.8,GHz
+3650,P3650,undefined,0.0,unknown
+3651,P3651,not applicable,0.0,unknown
+3652,P3652,intel core i5 4th generation,2.6,GHz
+3653,P3653,undefined,0.0,unknown
+3654,P3654,not applicable,0.0,unknown
+3655,P3655,undefined,0.0,unknown
+3656,P3656,undefined,0.0,unknown
+3657,P3657,not applicable,0.0,unknown
+3658,P3658,undefined,0.0,unknown
+3659,P3659,undefined,0.0,unknown
+3660,P3660,intel core i5 3rd generation,3.0,GHz
+3661,P3661,intel core i5 6th generation,3.0,GHz
+3662,P3662,not applicable,0.0,unknown
+3663,P3663,not applicable,0.0,unknown
+3664,P3664,undefined,0.0,unknown
+3665,P3665,undefined,0.0,unknown
+3666,P3666,intel core i5 4th generation,2.6,GHz
+3667,P3667,not applicable,0.0,unknown
+3668,P3668,undefined,0.0,unknown
+3669,P3669,undefined,0.0,unknown
+3670,P3670,undefined,0.0,unknown
+3671,P3671,not applicable,0.0,unknown
+3672,P3672,undefined,0.0,unknown
+3673,P3673,not applicable,0.0,unknown
+3674,P3674,amd a10,0.0,unknown
+3675,P3675,undefined,0.0,unknown
+3676,P3676,intel celeron,2.16,GHz
+3677,P3677,undefined,0.0,unknown
+3678,P3678,amd a4 dual-core,1.5,GHz
+3679,P3679,undefined,0.0,unknown
+3680,P3680,core  i3-6100u,0.0,unknown
+3681,P3681,intel celeron n,1.1,GHz
+3682,P3682,intel core i5 4th generation,2.0,GHz
+3683,P3683,intel core i5 6th generation,2.8,GHz
+3684,P3684,intel core i7 10th generation,2.6,GHz
+3685,P3685,intel core duo,1.87,GHz
+3686,P3686,undefined,0.0,unknown
+3687,P3687,intel celeron,1.1,GHz
+3688,P3688,undefined,0.0,unknown
+3689,P3689,intel core i5 3rd generation,2.6,GHz
+3690,P3690,intel celeron,1.1,GHz
+3691,P3691,undefined,0.0,unknown
+3692,P3692,intel celeron n2840,0.0,unknown
+3693,P3693,intel core i5 7th generation,3.1,GHz
+3694,P3694,intel core i7-9750h,2.6,GHz
+3695,P3695,intel core i5 3rd generation,2.5,GHz
+3696,P3696,intel core i5 6th generation,2.4,GHz
+3697,P3697,i3,2.4,GHz
+3698,P3698,undefined,0.0,unknown
+3699,P3699,undefined,0.0,unknown
+3700,P3700,intel core i5 10th generation,2.5,GHz
+3701,P3701,mediatek mt8173c,2.1,GHz
+3702,P3702,undefined,0.0,unknown
+3703,P3703,undefined,0.0,unknown
+3704,P3704,intel core i5 4th generation,0.0,unknown
+3705,P3705,not applicable,0.0,unknown
+3706,P3706,undefined,0.0,unknown
+3707,P3707,8265u,1.6,GHz
+3708,P3708,not applicable,0.0,unknown
+3709,P3709,intel core i5 6th generation,2.3,GHz
+3710,P3710,undefined,0.0,unknown
+3711,P3711,not applicable,0.0,unknown
+3712,P3712,intel core i5 4th generation,1.99,GHz
+3713,P3713,undefined,0.0,unknown
+3714,P3714,intel core i5 7th generation,3.1,GHz
+3715,P3715,undefined,0.0,unknown
+3716,P3716,undefined,0.0,unknown
+3717,P3717,not applicable,0.0,unknown
+3718,P3718,intel core i5 4th generation,3.0,GHz
+3719,P3719,intel core i3 7th generation,3.0,GHz
+3720,P3720,undefined,0.0,unknown
+3721,P3721,undefined,0.0,unknown
+3722,P3722,undefined,0.0,unknown
+3723,P3723,undefined,0.0,unknown
+3724,P3724,intel core i3 7th generation,3.0,GHz
+3725,P3725,not applicable,0.0,unknown
+3726,P3726,not applicable,0.0,unknown
+3727,P3727,intel core i3 7th generation,3.0,GHz
+3728,P3728,undefined,0.0,unknown
+3729,P3729,undefined,0.0,unknown
+3730,P3730,intel core i5 7th generation,2.6,GHz
+3731,P3731,intel celeron n,1.1,GHz
+3732,P3732,undefined,1.2,GHz
+3733,P3733,intel celeron,0.0,unknown
+3734,P3734,intel celeron,1.4,GHz
+3735,P3735,intel core i7 11th generation,3.0,GHz
+3736,P3736,intel celeron n,1.1,GHz
+3737,P3737,intel core i7-11800h,2.3,GHz
+3738,P3738,intel celeron,2.16,GHz
+3739,P3739,intel celeron,1.6,GHz
+3740,P3740,intel core i5 4th generation,0.0,unknown
+3741,P3741,intel core i7-6600u,2.6,GHz
+3742,P3742,amd ryzen 3,2.6,GHz
+3743,P3743,intel core i5 8th generation,1.7,GHz
+3744,P3744,i5-7200u,2.5,GHz
+3745,P3745,intel core i7,4.2,GHz
+3746,P3746,intel core i5 10th generation,0.0,unknown
+3747,P3747,intel core i7 11th generation,2.8,GHz
+3748,P3748,intel core i7 7th generation,2.8,GHz
+3749,P3749,intel celeron n,1.1,GHz
+3750,P3750,intel core i5 8th generation,1.6,GHz
+3751,P3751,intel celeron n,1.1,GHz
+3752,P3752,intel core i7 8th generation,1.9,GHz
+3753,P3753,intel celeron,2.16,GHz
+3754,P3754,intel core i7 11th generation,2.8,GHz
+3755,P3755,intel core i5 8th generation,1.7,GHz
+3756,P3756,intel core i5 4th generation,1.9,GHz
+3757,P3757,intel pentium gold,1.1,GHz
+3758,P3758,intel core i5 7th generation,2.6,GHz
+3759,P3759,intel core i3 6th generation,2.3,GHz
+3760,P3760,ryzen,3.2,GHz
+3761,P3761,intel core i7 11th generation,2.0,GHz
+3762,P3762,intel core i7 8th generation,1.9,GHz
+3763,P3763,intel or amd,1.8,GHz
+3764,P3764,intel core i5 4th generation,1.99,GHz
+3765,P3765,undefined,0.0,unknown
+3766,P3766,undefined,0.0,unknown
+3767,P3767,not applicable,0.0,unknown
+3768,P3768,intel core i5 4th generation,1.99,GHz
+3769,P3769,undefined,0.0,unknown
+3770,P3770,intel core i5 11th generation,2.4,GHz
+3771,P3771,undefined,0.0,unknown
+3772,P3772,intel core i5 6th generation,2.8,GHz
+3773,P3773,undefined,0.0,unknown
+3774,P3774,undefined,0.0,unknown
+3775,P3775,intel core i3 4th generation,1.7,GHz
+3776,P3776,not applicable,0.0,unknown
+3777,P3777,intel core i7 8th generation,1.8,GHz
+3778,P3778,undefined,0.0,unknown
+3779,P3779,pentium,0.0,unknown
+3780,P3780,not applicable,0.0,unknown
+3781,P3781,intel core i5 6th generation,2.8,GHz
+3782,P3782,intel core i5 4th generation,2.6,GHz
+3783,P3783,intel core i7 6th generation,2.6,GHz
+3784,P3784,undefined,0.0,unknown
+3785,P3785,intel pentium,2.7,GHz
+3786,P3786,amd ryzen 3,2.0,GHz
+3787,P3787,not applicable,0.0,unknown
+3788,P3788,undefined,0.0,unknown
+3789,P3789,intel core i5 4th generation,2.6,GHz
+3790,P3790,undefined,0.0,unknown
+3791,P3791,intel core i5 5th generation,2.7,GHz
+3792,P3792,undefined,0.0,unknown
+3793,P3793,intel core m3 7th generation,0.0,unknown
+3794,P3794,undefined,0.0,unknown
+3795,P3795,undefined,0.0,unknown
+3796,P3796,not applicable,0.0,unknown
+3797,P3797,intel core i3 4th generation,3.0,GHz
+3798,P3798,undefined,0.0,unknown
+3799,P3799,not applicable,0.0,unknown
+3800,P3800,intel core i5 5th generation,0.0,unknown
+3801,P3801,intel core i5 4th generation,3.0,GHz
+3802,P3802,not applicable,0.0,unknown
+3803,P3803,undefined,0.0,unknown
+3804,P3804,intel core i5 6th generation,2.8,GHz
+3805,P3805,undefined,0.0,unknown
+3806,P3806,intel,0.0,unknown
+3807,P3807,intel core i5 4th generation,2.6,GHz
+3808,P3808,not applicable,0.0,unknown
+3809,P3809,undefined,0.0,unknown
+3810,P3810,undefined,0.0,unknown
+3811,P3811,undefined,0.0,unknown
+3812,P3812,intel core i5 7th generation,3.0,GHz
+3813,P3813,undefined,0.0,unknown
+3814,P3814,intel core i5 4th generation,2.6,GHz
+3815,P3815,intel core i5 6th generation,2.8,GHz
+3816,P3816,intel core i5 3rd generation,3.1,GHz
+3817,P3817,not applicable,0.0,unknown
+3818,P3818,undefined,0.0,unknown
+3819,P3819,intel core i5 4th generation,3.0,GHz
+3820,P3820,undefined,0.0,unknown
+3821,P3821,not applicable,0.0,unknown
+3822,P3822,undefined,0.0,unknown
+3823,P3823,intel core i5 4th generation,0.0,unknown
+3824,P3824,undefined,0.0,unknown
+3825,P3825,undefined,0.0,unknown
+3826,P3826,intel core i5 6th generation,2.8,GHz
+3827,P3827,intel core i5 4th generation,3.0,GHz
+3828,P3828,undefined,0.0,unknown
+3829,P3829,intel core i5 6th generation,3.0,GHz
+3830,P3830,undefined,0.0,unknown
+3831,P3831,undefined,0.0,unknown
+3832,P3832,undefined,0.0,unknown
+3833,P3833,intel core i3 6th generation,3.0,GHz
+3834,P3834,intel celeron,0.0,unknown
+3835,P3835,undefined,0.0,unknown
+3836,P3836,intel core i3 10th generation,1.49,GHz
+3837,P3837,intel core i5 4th generation,3.0,GHz
+3838,P3838,not applicable,0.0,unknown
+3839,P3839,undefined,0.0,unknown
+3840,P3840,undefined,0.0,unknown
+3841,P3841,undefined,0.0,unknown
+3842,P3842,intelÂ® atomâ„¢,0.0,unknown
+3843,P3843,intel core i5 5th generation,2.7,GHz
+3844,P3844,undefined,0.0,unknown
+3845,P3845,undefined,0.0,unknown
+3846,P3846,intel core i5 6th generation,2.8,GHz
+3847,P3847,intel core i5 â€‹â€‹12th generation,4.0,GHz
+3848,P3848,undefined,0.0,unknown
+3849,P3849,intel core i5-10400h,2.6,GHz
+3850,P3850,undefined,0.0,unknown
+3851,P3851,undefined,0.0,unknown
+3852,P3852,undefined,0.0,unknown
+3853,P3853,undefined,0.0,unknown
+3854,P3854,intel core i5 4th generation,3.0,GHz
+3855,P3855,undefined,0.0,unknown
+3856,P3856,not applicable,0.0,unknown
+3857,P3857,undefined,0.0,unknown
+3858,P3858,undefined,0.0,unknown
+3859,P3859,undefined,0.0,unknown
+3860,P3860,intel core i5 6th generation,3.0,GHz
+3861,P3861,not applicable,0.0,unknown
+3862,P3862,intel core i5 6th generation,2.8,GHz
+3863,P3863,intel core i5 4th generation,1.99,GHz
+3864,P3864,intel core i5 4th generation,0.0,unknown
+3865,P3865,not applicable,0.0,unknown
+3866,P3866,intel core i5 4th generation,2.6,GHz
+3867,P3867,undefined,0.0,unknown
+3868,P3868,intel core i5 5th generation,2.7,GHz
+3869,P3869,undefined,0.0,unknown
+3870,P3870,undefined,0.0,unknown
+3871,P3871,undefined,0.0,unknown
+3872,P3872,intel core i3 7th generation,3.0,GHz
+3873,P3873,not applicable,0.0,unknown
+3874,P3874,not applicable,0.0,unknown
+3875,P3875,undefined,0.0,unknown
+3876,P3876,not applicable,0.0,unknown
+3877,P3877,undefined,0.0,unknown
+3878,P3878,not applicable,0.0,unknown
+3879,P3879,not applicable,0.0,unknown
+3880,P3880,intel core i5 4th generation,2.6,GHz
+3881,P3881,intel core i5 4th generation,2.6,GHz
+3882,P3882,undefined,0.0,unknown
+3883,P3883,not applicable,0.0,unknown
+3884,P3884,intel core i5 3rd generation,0.0,unknown
+3885,P3885,intel core i5 4th generation,2.6,GHz
+3886,P3886,undefined,0.0,unknown
+3887,P3887,i5,0.0,unknown
+3888,P3888,not applicable,0.0,unknown
+3889,P3889,not applicable,0.0,unknown
+3890,P3890,not applicable,0.0,unknown
+3891,P3891,intel core i5 7th generation,3.1,GHz
+3892,P3892,undefined,0.0,unknown
+3893,P3893,not applicable,0.0,unknown
+3894,P3894,not applicable,0.0,unknown
+3895,P3895,not applicable,0.0,unknown
+3896,P3896,not applicable,0.0,unknown
+3897,P3897,undefined,0.0,unknown
+3898,P3898,not applicable,0.0,unknown
+3899,P3899,undefined,0.0,unknown
+3900,P3900,intel core i3 4th generation,3.0,GHz
+3901,P3901,intel core i5,2.4,GHz
+3902,P3902,not applicable,0.0,unknown
+3903,P3903,not applicable,0.0,unknown
+3904,P3904,intel core i5 6th generation,2.3,GHz
+3905,P3905,not applicable,0.0,unknown
+3906,P3906,not applicable,0.0,unknown
+3907,P3907,intel core i5 7th generation,3.0,GHz
+3908,P3908,not applicable,0.0,unknown
+3909,P3909,intel core i5 3rd generation,3.1,GHz
+3910,P3910,intel core i5 3rd generation,3.0,GHz
+3911,P3911,intel core i3 4th generation,3.0,GHz
+3912,P3912,undefined,0.0,unknown
+3913,P3913,intel core i5 4th generation,0.0,unknown
+3914,P3914,undefined,0.0,unknown
+3915,P3915,undefined,0.0,unknown
+3916,P3916,intel core i5 4th generation,2.6,GHz
+3917,P3917,intel core i5 6th generation,3.0,GHz
+3918,P3918,undefined,0.0,unknown
+3919,P3919,undefined,0.0,unknown
+3920,P3920,intel core i3 10th generation,1.49,GHz
+3921,P3921,undefined,0.0,unknown
+3922,P3922,not applicable,0.0,unknown
+3923,P3923,core i5 6300u 2.40ghz,2.4,GHz
+3924,P3924,intel core i5 4th generation,1.99,GHz
+3925,P3925,not applicable,0.0,unknown
+3926,P3926,intel core i3 6th generation,3.0,GHz
+3927,P3927,cable,0.0,unknown
+3928,P3928,not applicable,0.0,unknown
+3929,P3929,not applicable,0.0,unknown
+3930,P3930,intel core i3 6th generation,3.0,GHz
+3931,P3931,not applicable,0.0,unknown
+3932,P3932,intel core i5 5th generation,2.7,GHz
+3933,P3933,undefined,0.0,unknown
+3934,P3934,intel core i5 6th generation,2.8,GHz
+3935,P3935,intel core i3 10th generation,1.49,GHz
+3936,P3936,undefined,0.0,unknown
+3937,P3937,not applicable,0.0,unknown
+3938,P3938,intel core i5 6th generation,2.8,GHz
+3939,P3939,undefined,0.0,unknown
+3940,P3940,intel core i5 3rd generation,3.0,GHz
+3941,P3941,undefined,0.0,unknown
+3942,P3942,not applicable,0.0,unknown
+3943,P3943,undefined,0.0,unknown
+3944,P3944,intel core i5 3rd generation,3.0,GHz
+3945,P3945,intel core i5 6th generation,2.3,GHz
+3946,P3946,undefined,0.0,unknown
+3947,P3947,not applicable,0.0,unknown
+3948,P3948,undefined,0.0,unknown
+3949,P3949,intel core i5 3rd generation,3.0,GHz
+3950,P3950,not applicable,0.0,unknown
+3951,P3951,undefined,0.0,unknown
+3952,P3952,intel core i5 4th generation,3.0,GHz
+3953,P3953,not applicable,0.0,unknown
+3954,P3954,not applicable,0.0,unknown
+3955,P3955,undefined,0.0,unknown
+3956,P3956,undefined,0.0,unknown
+3957,P3957,intel core i5 3rd generation,3.0,GHz
+3958,P3958,undefined,0.0,unknown
+3959,P3959,intel core i5 4th generation,2.6,GHz
+3960,P3960,intel core i5 2nd generation,1.6,GHz
+3961,P3961,undefined,0.0,unknown
+3962,P3962,undefined,0.0,unknown
+3963,P3963,8365u,1.6,GHz
+3964,P3964,undefined,0.0,unknown
+3965,P3965,undefined,0.0,unknown
+3966,P3966,undefined,0.0,unknown
+3967,P3967,undefined,0.0,unknown
+3968,P3968,undefined,0.0,unknown
+3969,P3969,undefined,0.0,unknown
+3970,P3970,undefined,0.0,unknown
+3971,P3971,not applicable,0.0,unknown
+3972,P3972,intel core i5,0.0,unknown
+3973,P3973,intel celeron n,1.6,GHz
+3974,P3974,intel core i5 8th generation,1.6,GHz
+3975,P3975,intel core i5 7th generation,2.6,GHz
+3976,P3976,intel core i7 8th generation,1.9,GHz
+3977,P3977,amd ryzen 7,2.0,GHz
+3978,P3978,intel pentium gold,1.1,GHz
+3979,P3979,intel core i5 11th generation,2.4,GHz
+3980,P3980,intel core i5 6th gen,2.4,GHz
+3981,P3981,intel core i5 6th generation,2.4,GHz
+3982,P3982,intel celeron n,2.8,GHz
+3983,P3983,intel core i5-8265u,1.6,GHz
+3984,P3984,intel core m3 7th generation,1.0,GHz
+3985,P3985,intel core i5,2.6,GHz
+3986,P3986,intel core i5 4th generation,1.9,GHz
+3987,P3987,intel core i7 13th generation,1.7,GHz
+3988,P3988,intel core i7 8th generation,4.8,GHz
+3989,P3989,intel core i5 7th generation,2.5,GHz
+3990,P3990,intel core i5 8th generation,1.7,GHz
+3991,P3991,intel core i5 13th generation,2.1,GHz
+3992,P3992,intel core i7 13th generation,1.7,GHz
+3993,P3993,amd ryzen 7 5800hs,0.0,GHz
+3994,P3994,intel core i7 8650u,0.0,unknown
+3995,P3995,intel core i7,4.2,GHz
+3996,P3996,intel core i5 4th generation,2.6,GHz
+3997,P3997,intel core i5 8th generation,1.6,GHz
+3998,P3998,intel core i7 11th generation,2.8,GHz
+3999,P3999,intel core i5 6th generation,2.8,GHz
+4000,P4000,intel core i5 6th generation,2.8,GHz
+4001,P4001,undefined,0.0,unknown
+4002,P4002,intel core i5-7300u,2.6,GHz
+4003,P4003,intel core i5 4th generation,2.6,GHz
+4004,P4004,undefined,0.0,unknown
+4005,P4005,intel core i5 4th generation,0.0,unknown
+4006,P4006,intel core i5-1035g1,1.0,GHz
+4007,P4007,undefined,0.0,unknown
+4008,P4008,ntel,0.0,unknown
+4009,P4009,intel core i5,0.0,unknown
+4010,P4010,undefined,0.0,unknown
+4011,P4011,intel core i5 11th generation,1.0,GHz
+4012,P4012,undefined,0.0,unknown
+4013,P4013,undefined,0.0,unknown
+4014,P4014,undefined,0.0,unknown
+4015,P4015,intel core i5 5th generation,2.3,GHz
+4016,P4016,intel core i5 11th generation,2.4,GHz
+4017,P4017,undefined,0.0,unknown
+4018,P4018,not applicable,0.0,unknown
+4019,P4019,undefined,0.0,unknown
+4020,P4020,intel core i5 4th generation,0.0,unknown
+4021,P4021,core i5,1.7,GHz
+4022,P4022,not applicable,0.0,unknown
+4023,P4023,not applicable,0.0,unknown
+4024,P4024,core i5,1.6,GHz
+4025,P4025,not applicable,0.0,unknown
+4026,P4026,core i5,1.6,GHz
+4027,P4027,inter core i7 8550u,1.99,GHz
+4028,P4028,not applicable,0.0,unknown
+4029,P4029,undefined,0.0,unknown
+4030,P4030,not applicable,0.0,unknown
+4031,P4031,undefined,0.0,unknown
+4032,P4032,intel core i5 6th generation,0.0,unknown
+4033,P4033,undefined,0.0,unknown
+4034,P4034,inter core i7 8550u,1.8,GHz
+4035,P4035,intel core i5 5th generation,2.7,GHz
+4036,P4036,not applicable,0.0,unknown
+4037,P4037,undefined,0.0,unknown
+4038,P4038,undefined,0.0,unknown
+4039,P4039,intel core i5 6th generation,2.8,GHz
+4040,P4040,undefined,0.0,unknown
+4041,P4041,intel core i5 5th generation,2.7,GHz
+4042,P4042,undefined,0.0,unknown
+4043,P4043,inter core i7 8550u,1.99,GHz
+4044,P4044,not applicable,0.0,unknown
+4045,P4045,not applicable,0.0,unknown
+4046,P4046,undefined,0.0,unknown
+4047,P4047,undefined,0.0,unknown
+4048,P4048,intel core i5 4th generation,0.0,unknown
+4049,P4049,intel core i5 6th generation,2.8,GHz
+4050,P4050,undefined,0.0,unknown
+4051,P4051,undefined,0.0,unknown
+4052,P4052,undefined,0.0,unknown
+4053,P4053,undefined,0.0,unknown
+4054,P4054,undefined,0.0,unknown
+4055,P4055,undefined,0.0,unknown
+4056,P4056,undefined,0.0,unknown
+4057,P4057,intel core i3 6th generation,3.0,GHz
+4058,P4058,intel core i5 4th generation,2.6,GHz
+4059,P4059,intel core i3 7th generation,2.4,GHz
+4060,P4060,undefined,0.0,unknown
+4061,P4061,not applicable,0.0,unknown
+4062,P4062,intel core i5 6th generation,0.0,unknown
+4063,P4063,intel pentium,0.0,unknown
+4064,P4064,intel core i5 6th generation,3.0,GHz
+4065,P4065,intel core i3 4th generation,3.0,GHz
+4066,P4066,intel core i5 6th generation,2.8,GHz
+4067,P4067,undefined,0.0,unknown
+4068,P4068,undefined,0.0,unknown
+4069,P4069,core i7 6600u 2.60ghz,2.6,GHz
+4070,P4070,not applicable,0.0,unknown
+4071,P4071,not applicable,0.0,unknown
+4072,P4072,undefined,0.0,unknown
+4073,P4073,undefined,0.0,unknown
+4074,P4074,undefined,0.0,unknown
+4075,P4075,undefined,0.0,unknown
+4076,P4076,undefined,0.0,unknown
+4077,P4077,intel core i5 6th generation,2.8,GHz
+4078,P4078,not applicable,0.0,unknown
+4079,P4079,intel core i5 11th generation,0.0,unknown
+4080,P4080,intel core i5 6th generation,0.0,unknown
+4081,P4081,intel core i5 5th generation,2.7,GHz
+4082,P4082,undefined,0.0,unknown
+4083,P4083,not applicable,0.0,unknown
+4084,P4084,intel core i5 6th generation,2.8,GHz
+4085,P4085,undefined,0.0,unknown
+4086,P4086,undefined,0.0,unknown
+4087,P4087,intel core i5 3rd generation,3.0,GHz
+4088,P4088,undefined,0.0,unknown
+4089,P4089,"ntel,",0.0,unknown
+4090,P4090,8365u,1.6,GHz
+4091,P4091,intel core i5 4th generation,0.0,unknown
+4092,P4092,intel core i5 5th generation,2.7,GHz
+4093,P4093,intel core i5 4th generation,2.6,GHz
+4094,P4094,not applicable,0.0,unknown
+4095,P4095,pentium,0.0,unknown
+4096,P4096,8265u,1.6,GHz
+4097,P4097,intel celeron,0.0,unknown
+4098,P4098,intel core i5 4th generation,0.0,unknown
+4099,P4099,not applicable,0.0,unknown
+4100,P4100,intel core i5 4th generation,0.0,unknown
+4101,P4101,not applicable,2.26,MHz
+4102,P4102,intel core i5 5th generation,2.3,GHz
+4103,P4103,undefined,0.0,unknown
+4104,P4104,undefined,0.0,unknown
+4105,P4105,undefined,0.0,unknown
+4106,P4106,undefined,0.0,unknown
+4107,P4107,not applicable,0.0,unknown
+4108,P4108,not applicable,0.0,unknown
+4109,P4109,undefined,0.0,unknown
+4110,P4110,8365u,1.6,GHz
+4111,P4111,intel core i5 3rd generation,0.0,unknown
+4112,P4112,undefined,0.0,unknown
+4113,P4113,intel core i5 3rd generation,3.0,GHz
+4114,P4114,intel core i5 6th generation,2.8,GHz
+4115,P4115,undefined,0.0,unknown
+4116,P4116,intel core i5 4th generation,2.6,GHz
+4117,P4117,undefined,0.0,unknown
+4118,P4118,undefined,0.0,unknown
+4119,P4119,intel mobile,0.0,unknown
+4120,P4120,undefined,0.0,unknown
+4121,P4121,not applicable,0.0,unknown
+4122,P4122,intel core i5 7th generation,0.0,unknown
+4123,P4123,not applicable,0.0,unknown
+4124,P4124,undefined,0.0,unknown
+4125,P4125,undefined,0.0,unknown
+4126,P4126,intel core i5 6th generation,0.0,unknown
+4127,P4127,intel core i3 6th generation,0.0,unknown
+4128,P4128,intel celeron n,1.1,GHz
+4129,P4129,not applicable,0.0,unknown
+4130,P4130,intel core i7 12th generation,2.3,GHz
+4131,P4131,intel pentium,0.0,unknown
+4132,P4132,8365u,1.6,GHz
+4133,P4133,undefined,0.0,unknown
+4134,P4134,undefined,0.0,unknown
+4135,P4135,undefined,0.0,unknown
+4136,P4136,undefined,0.0,unknown
+4137,P4137,8265u,1.6,GHz
+4138,P4138,intel core i5 4th generation,1.99,GHz
+4139,P4139,undefined,0.0,unknown
+4140,P4140,not applicable,0.0,unknown
+4141,P4141,undefined,0.0,unknown
+4142,P4142,intel core i5 4th generation,0.0,unknown
+4143,P4143,not applicable,0.0,unknown
+4144,P4144,undefined,0.0,unknown
+4145,P4145,not applicable,0.0,unknown
+4146,P4146,undefined,0.0,unknown
+4147,P4147,not applicable,0.0,unknown
+4148,P4148,intel core i5 4th generation,2.6,GHz
+4149,P4149,intel core i5 4th generation,2.6,GHz
+4150,P4150,inter core i7 8550u,1.8,GHz
+4151,P4151,undefined,0.0,unknown
+4152,P4152,not applicable,0.0,unknown
+4153,P4153,undefined,0.0,unknown
+4154,P4154,intel core duo,2.0,GHz
+4155,P4155,not applicable,0.0,unknown
+4156,P4156,not applicable,0.0,unknown
+4157,P4157,undefined,0.0,unknown
+4158,P4158,undefined,0.0,unknown
+4159,P4159,undefined,0.0,unknown
+4160,P4160,undefined,0.0,unknown
+4161,P4161,intel pentium 4,0.0,unknown
+4162,P4162,undefined,0.0,unknown
+4163,P4163,undefined,0.0,unknown
+4164,P4164,not applicable,0.0,unknown
+4165,P4165,undefined,0.0,unknown
+4166,P4166,undefined,0.0,unknown
+4167,P4167,undefined,0.0,unknown
+4168,P4168,undefined,0.0,unknown
+4169,P4169,undefined,0.0,unknown
+4170,P4170,intel core m5,2.9,GHz
+4171,P4171,undefined,0.0,unknown
+4172,P4172,inter core i7 8550u,1.99,GHz
+4173,P4173,not applicable,0.0,unknown
+4174,P4174,undefined,0.0,unknown
+4175,P4175,intel core i5 3rd generation,3.1,GHz
+4176,P4176,intel core i5 4th generation,2.6,GHz
+4177,P4177,undefined,0.0,unknown
+4178,P4178,not applicable,0.0,unknown
+4179,P4179,intel core i5 6th generation,2.8,GHz
+4180,P4180,not applicable,0.0,unknown
+4181,P4181,undefined,0.0,unknown

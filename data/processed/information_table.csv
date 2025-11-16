@@ -1,0 +1,4183 @@
+,INFO_ID,BRAND,CURRENCY,COLOR,CONDITIONS,PRICE
+0,I0,other,$,gray,New,303.8
+1,I1,dell,$,black,Used,175.0
+2,I2,hp,$,black,Good - Refurbished,85.0
+3,I3,dell,$,other,Good - Refurbished,101.25
+4,I4,acer,$,black,Undefined,50.0
+5,I5,hp,$,black,Undefined,39.6
+6,I6,acer,$,gray,Undefined,35.0
+7,I7,dell,$,black,Excellent - Refurbished,280.0
+8,I8,hp,$,silver,Undefined,125.0
+9,I9,lenovo,$,black,Used,138.0
+10,I10,samsung,$,other,New,430.5
+11,I11,acer,$,silver,Undefined,70.0
+12,I12,other,$,gray,New,152.0
+13,I13,other,$,gray,New,244.0
+14,I14,dell,$,black,Used,170.0
+15,I15,dell,$,black,Used,218.0
+16,I16,dell,$,black,Used,130.0
+17,I17,acer,$,gray,Used,40.0
+18,I18,dell,$,black,Very Good - Refurbished,393.0
+19,I19,dell,$,other,Open box,625.0
+20,I20,dell,$,silver,Undefined,315.0
+21,I21,dell,$,black,Used,200.0
+22,I22,other,$,other,Used,227.4
+23,I23,hp,$,silver,New,300.0
+24,I24,microsoft,$,gray,Used,60.0
+25,I25,lenovo,$,black,Undefined,45.0
+26,I26,hp,$,silver,New,439.0
+27,I27,other,$,other,Used,206.6
+28,I28,dell,$,black,Very Good - Refurbished,345.0
+29,I29,other,$,gray,New,242.0
+30,I30,hp,$,black,Very Good - Refurbished,420.0
+31,I31,lenovo,$,black,Used,73.0
+32,I32,hp,$,black,Very Good - Refurbished,209.0
+33,I33,other,$,gray,New,150.0
+34,I34,lenovo,$,gray,Undefined,799.0
+35,I35,lenovo,$,brown,Used,100.0
+36,I36,dell,$,black,Used,219.0
+37,I37,dell,$,black,Used,152.5
+38,I38,other,$,gray,New,269.5
+39,I39,lenovo,$,black,Used,130.0
+40,I40,dell,$,black,New,489.0
+41,I41,dell,$,black,Used,120.0
+42,I42,lg,$,black,Used,550.0
+43,I43,hp,$,multicolor,Used,29.98
+44,I44,hp,$,black,Very Good - Refurbished,145.0
+45,I45,dell,$,other,Used,160.0
+46,I46,hp,$,multicolor,Very Good - Refurbished,85.0
+47,I47,microsoft,$,other,For parts or not working,69.6
+48,I48,hp,$,black,Used,70.0
+49,I49,hp,$,gray,Used,49.0
+50,I50,dell,$,black,Used,130.0
+51,I51,lenovo,$,other,For parts or not working,135.0
+52,I52,lenovo,$,black,Undefined,81.0
+53,I53,microsoft,$,silver,Undefined,103.75
+54,I54,dell,$,black,Used,200.0
+55,I55,dell,$,other,Used,288.0
+56,I56,dell,$,black,Used,105.0
+57,I57,dell,$,black,Used,39.94
+58,I58,lenovo,$,black,Used,90.0
+59,I59,lenovo,$,grey,New,599.0
+60,I60,other,$,other,Used,800.0
+61,I61,dell,$,other,Very Good - Refurbished,170.0
+62,I62,dell,$,other,Used,239.0
+63,I63,dell,$,silver,Used,169.0
+64,I64,hp,$,silver,Very Good - Refurbished,290.0
+65,I65,dell,$,black,Used,90.0
+66,I66,lenovo,$,other,Used,105.0
+67,I67,microsoft,$,silver,Open box,409.0
+68,I68,dell,$,black,Used,200.0
+69,I69,lenovo,$,gray,Undefined,55.0
+70,I70,other,$,silver,New,225.0
+71,I71,hp,$,blue,Undefined,659.0
+72,I72,dell,$,gray,Used,229.0
+73,I73,hp,$,other,Used,210.0
+74,I74,lenovo,$,black,Used,180.0
+75,I75,other,$,silver,Used,675.0
+76,I76,dell,$,black,Very Good - Refurbished,125.94
+77,I77,lenovo,$,gray,Used,90.0
+78,I78,other,$,other,Very Good - Refurbished,271.8
+79,I79,hp,$,other,Used,999.0
+80,I80,lenovo,$,other,Used,229.0
+81,I81,asus,$,gray,Undefined,293.0
+82,I82,dell,$,gray,Used,185.0
+83,I83,hp,$,silver,Used,259.0
+84,I84,other,$,multicolor,Used,115.0
+85,I85,acer,$,gray,Used,41.0
+86,I86,dell,$,black,Used,75.0
+87,I87,hp,$,silver,Used,510.0
+88,I88,lenovo,$,gray,Undefined,170.0
+89,I89,other,$,other,For parts or not working,59.8
+90,I90,hp,$,gray,Used,44.75
+91,I91,dell,$,other,Used,209.0
+92,I92,lenovo,$,other,Used,180.0
+93,I93,dell,$,other,Excellent - Refurbished,220.0
+94,I94,dell,$,other,Excellent - Refurbished,260.0
+95,I95,other,$,other,New,59.4
+96,I96,other,$,other,Good - Refurbished,306.8
+97,I97,lenovo,$,other,New,73.0
+98,I98,dell,$,other,Used,389.8
+99,I99,other,$,other,Used,107.44
+100,I100,other,$,other,Used,1179.0
+101,I101,dell,$,black,Used,300.0
+102,I102,hp,$,multicolor,Used,69.0
+103,I103,lenovo,$,black,Used,244.8
+104,I104,other,$,other,Used,10.52
+105,I105,lenovo,$,black,Undefined,370.0
+106,I106,lenovo,$,gray,Undefined,270.0
+107,I107,other,$,other,New,64.6
+108,I108,other,$,other,New,65.06
+109,I109,lenovo,$,other,New,61.6
+110,I110,other,$,other,Used,26.05
+111,I111,dell,$,other,Used,384.5
+112,I112,other,$,other,New,13.02
+113,I113,dell,$,other,Used,24.25
+114,I114,dell,$,other,Used,470.5
+115,I115,acer,$,silver,Used,90.0
+116,I116,other,$,other,New,420.0
+117,I117,other,$,other,Used,7.26
+118,I118,dell,$,other,Used,199.0
+119,I119,microsoft,$,silver,Undefined,200.0
+120,I120,hp,$,silver,New,390.0
+121,I121,other,$,other,Used,582.5
+122,I122,other,$,other,New,42.3
+123,I123,other,$,other,Used,405.5
+124,I124,other,$,other,Used,298.8
+125,I125,other,$,other,Used,81.4
+126,I126,other,$,other,Used,380.0
+127,I127,dell,$,black,Used,125.0
+128,I128,other,$,other,New,111.5
+129,I129,other,$,other,Undefined,78.2
+130,I130,other,$,other,Used,32.56
+131,I131,lenovo,$,black,Undefined,250.0
+132,I132,other,$,black,Seller refurbished,344.5
+133,I133,other,$,other,Used,405.5
+134,I134,hp,$,silver,Undefined,140.0
+135,I135,hp,$,other,Undefined,759.0
+136,I136,lenovo,$,other,Undefined,1197.0
+137,I137,dell,$,other,Used,400.0
+138,I138,other,$,other,New,96.56
+139,I139,other,$,other,New,26.16
+140,I140,other,$,other,Used,425.5
+141,I141,lenovo,$,other,Used,461.8
+142,I142,other,$,black,Seller refurbished,216.0
+143,I143,dell,$,other,Used,487.5
+144,I144,other,$,black,Seller refurbished,449.2
+145,I145,other,$,other,Used,487.2
+146,I146,other,$,other,Seller refurbished,530.0
+147,I147,other,$,other,Seller refurbished,354.0
+148,I148,other,$,other,Used,859.0
+149,I149,other,$,other,Seller refurbished,1724.0
+150,I150,other,$,other,Used,812.0
+151,I151,auo,$,other,New,70.3
+152,I152,other,$,other,For parts or not working,22.34
+153,I153,other,$,other,Used,269.5
+154,I154,other,$,other,New,92.1
+155,I155,other,$,other,Excellent - Refurbished,240.2
+156,I156,other,$,black,Seller refurbished,357.0
+157,I157,other,$,other,Used,436.0
+158,I158,dell,$,other,Used,144.0
+159,I159,dell,$,black,Used,430.2
+160,I160,other,$,other,Seller refurbished,276.5
+161,I161,other,$,other,New,165.0
+162,I162,dell,$,black,Used,323.8
+163,I163,other,$,other,New,88.7
+164,I164,other,$,other,New,110.06
+165,I165,other,$,other,Seller refurbished,475.5
+166,I166,other,$,other,Used,48.84
+167,I167,other,$,other,Used,627.0
+168,I168,dell,$,black,Used,443.8
+169,I169,other,$,other,Seller refurbished,650.5
+170,I170,other,$,other,New,94.1
+171,I171,other,$,black,Used,269.2
+172,I172,other,$,other,Excellent - Refurbished,425.2
+173,I173,other,$,other,Seller refurbished,546.5
+174,I174,other,$,other,Used,1752.0
+175,I175,other,$,black,Seller refurbished,2108.0
+176,I176,lg,$,other,New,93.75
+177,I177,other,$,other,New,81.9
+178,I178,other,$,other,New,113.75
+179,I179,other,$,other,Used,358.8
+180,I180,other,$,other,Used,301.5
+181,I181,other,$,other,New,103.2
+182,I182,other,$,other,New,108.06
+183,I183,other,$,other,New,91.2
+184,I184,other,$,other,New,106.56
+185,I185,other,$,other,New,85.75
+186,I186,lg,$,other,New,93.25
+187,I187,other,$,other,New,81.6
+188,I188,other,$,other,New,41.5
+189,I189,other,$,other,New,296.8
+190,I190,other,$,other,New,84.2
+191,I191,dell,$,silver,Used,75.0
+192,I192,other,$,other,New,166.2
+193,I193,lenovo,$,other,Seller refurbished,456.8
+194,I194,other,$,other,Seller refurbished,959.0
+195,I195,other,$,other,Used,27.12
+196,I196,dell,$,other,Used,314.5
+197,I197,dell,$,other,Used,400.2
+198,I198,dell,$,black,Used,214.8
+199,I199,lenovo,$,other,Seller refurbished,708.0
+200,I200,other,$,black,Seller refurbished,326.2
+201,I201,other,$,other,Used,329.8
+202,I202,other,$,other,New,110.0
+203,I203,other,$,other,Used,304.5
+204,I204,other,$,other,New,162.8
+205,I205,acer,$,other,New,67.06
+206,I206,other,$,black,Seller refurbished,382.0
+207,I207,other,$,other,Undefined,85.7
+208,I208,other,$,other,Seller refurbished,651.5
+209,I209,other,$,other,New,104.94
+210,I210,other,$,other,Used,1703.0
+211,I211,other,$,black,Undefined,127.75
+212,I212,other,$,other,Seller refurbished,1291.0
+213,I213,other,$,other,Seller refurbished,731.5
+214,I214,other,$,other,Used,827.0
+215,I215,other,$,other,Used,310.8
+216,I216,other,$,other,Used,335.8
+217,I217,other,$,other,Used,203.0
+218,I218,other,$,other,New,101.0
+219,I219,other,$,other,New,62.94
+220,I220,other,$,other,Undefined,116.25
+221,I221,other,$,other,New,20.78
+222,I222,other,$,other,New,104.44
+223,I223,other,$,other,Seller refurbished,667.5
+224,I224,other,$,black,Seller refurbished,332.0
+225,I225,other,$,other,Used,339.2
+226,I226,other,$,other,New,131.2
+227,I227,other,$,other,New,29.86
+228,I228,lenovo,$,black,Used,1132.0
+229,I229,other,$,other,New,60.78
+230,I230,lenovo,$,other,Used,453.8
+231,I231,samsung,$,other,New,70.0
+232,I232,other,$,black,Seller refurbished,354.0
+233,I233,other,$,other,Used,571.5
+234,I234,dell,$,other,Used,283.2
+235,I235,other,$,other,Good - Refurbished,318.2
+236,I236,other,$,other,Used,100.1
+237,I237,other,$,black,Used,325.8
+238,I238,other,$,other,New,47.0
+239,I239,other,$,other,Seller refurbished,338.8
+240,I240,other,$,other,Seller refurbished,445.8
+241,I241,other,$,other,Used,596.5
+242,I242,other,$,other,Undefined,117.06
+243,I243,other,$,black,Seller refurbished,342.2
+244,I244,lenovo,$,other,Used,639.0
+245,I245,other,$,other,New,89.25
+246,I246,other,$,other,Seller refurbished,512.0
+247,I247,other,$,other,Used,335.8
+248,I248,dell,$,other,Used,559.5
+249,I249,dell,$,other,Used,352.5
+250,I250,other,$,other,Used,341.8
+251,I251,lenovo,$,black,Used,691.5
+252,I252,other,$,other,Used,405.2
+253,I253,lg,$,other,New,95.0
+254,I254,other,$,other,New,116.56
+255,I255,other,$,other,For parts or not working,21.8
+256,I256,lenovo,$,black,Used,626.0
+257,I257,other,$,other,Seller refurbished,481.8
+258,I258,dell,$,other,Used,389.8
+259,I259,other,$,other,Used,516.0
+260,I260,other,$,other,New,85.06
+261,I261,other,$,other,Seller refurbished,500.5
+262,I262,other,$,black,Seller refurbished,462.2
+263,I263,other,$,other,New,28.8
+264,I264,other,$,other,Seller refurbished,491.0
+265,I265,dell,$,other,Used,392.0
+266,I266,other,$,black,Used,383.5
+267,I267,dell,$,black,Used,568.5
+268,I268,other,$,black,Used,573.0
+269,I269,other,$,other,New,142.9
+270,I270,other,$,other,Used,10.85
+271,I271,other,$,other,New,80.75
+272,I272,other,$,other,Used,23.88
+273,I273,other,$,other,Used,251.6
+274,I274,dell,$,other,Used,451.5
+275,I275,other,$,other,New,80.5
+276,I276,other,$,other,Seller refurbished,478.5
+277,I277,other,$,other,Seller refurbished,766.0
+278,I278,dell,$,gray,Undefined,221.2
+279,I279,other,$,black,Seller refurbished,399.0
+280,I280,lenovo,$,other,New,45.1
+281,I281,auo,$,other,New,92.5
+282,I282,dell,$,black,Used,1463.0
+283,I283,other,$,other,Used,373.0
+284,I284,dell,$,other,Used,416.2
+285,I285,other,$,other,Used,394.8
+286,I286,other,$,other,New,382.0
+287,I287,dell,$,other,Used,293.2
+288,I288,other,$,black,Used,783.5
+289,I289,other,$,black,Used,727.0
+290,I290,hp,$,silver,New,699.0
+291,I291,other,$,other,Seller refurbished,391.5
+292,I292,other,$,other,Seller refurbished,411.5
+293,I293,other,$,other,Seller refurbished,229.6
+294,I294,other,$,other,Undefined,199.9
+295,I295,lenovo,$,black,Undefined,542.5
+296,I296,other,$,other,Seller refurbished,548.5
+297,I297,other,$,other,New,655.5
+298,I298,lenovo,$,other,Used,464.5
+299,I299,dell,$,black,Used,334.2
+300,I300,other,$,other,New,112.2
+301,I301,other,$,other,New,114.5
+302,I302,other,$,other,New,123.2
+303,I303,other,$,black,Seller refurbished,457.2
+304,I304,other,$,other,New,89.6
+305,I305,other,$,other,New,58.56
+306,I306,other,$,other,New,130.4
+307,I307,other,$,other,Used,318.0
+308,I308,other,$,other,New,88.25
+309,I309,lg,$,other,New,103.25
+310,I310,other,$,other,New,2506.0
+311,I311,other,$,other,New,309.2
+312,I312,other,$,other,Seller refurbished,526.0
+313,I313,other,$,black,Seller refurbished,543.5
+314,I314,other,$,black,Seller refurbished,2288.0
+315,I315,other,$,other,Used,377.8
+316,I316,other,$,other,Used,382.5
+317,I317,dell,$,other,Used,307.2
+318,I318,lg,$,other,New,86.1
+319,I319,other,$,other,Used,1077.0
+320,I320,other,$,other,New,58.62
+321,I321,other,$,other,New,53.16
+322,I322,other,$,other,Undefined,85.25
+323,I323,other,$,other,Seller refurbished,363.2
+324,I324,auo,$,other,New,91.7
+325,I325,lenovo,$,other,Used,449.8
+326,I326,other,$,other,Used,289.0
+327,I327,other,$,black,Seller refurbished,313.2
+328,I328,other,$,other,For parts or not working,22.06
+329,I329,other,$,black,Seller refurbished,374.5
+330,I330,other,$,other,Undefined,59.22
+331,I331,dell,$,other,Used,272.0
+332,I332,other,$,other,Undefined,39.12
+333,I333,other,$,other,New,45.1
+334,I334,other,$,other,For parts or not working,27.94
+335,I335,dell,$,other,Seller refurbished,469.0
+336,I336,hp,$,other,Used,200.0
+337,I337,other,$,other,New,107.6
+338,I338,dell,$,other,Used,652.0
+339,I339,dell,$,other,Used,422.5
+340,I340,other,$,other,New,79.4
+341,I341,other,$,other,Undefined,27.58
+342,I342,dell,$,other,Used,235.0
+343,I343,other,$,black,Seller refurbished,571.5
+344,I344,other,$,other,Used,526.5
+345,I345,dell,$,black,Used,214.8
+346,I346,other,$,other,New,103.5
+347,I347,other,$,other,New,485.5
+348,I348,auo,$,other,New,60.06
+349,I349,acer,$,other,Undefined,93.9
+350,I350,samsung,$,other,New,113.25
+351,I351,other,$,other,New,32.44
+352,I352,other,$,other,New,46.06
+353,I353,other,$,other,Used,336.2
+354,I354,other,$,black,Seller refurbished,426.0
+355,I355,other,$,black,Seller refurbished,303.8
+356,I356,other,$,other,New,63.7
+357,I357,other,$,other,New,460.0
+358,I358,other,$,other,Used,380.0
+359,I359,other,$,black,Used,394.0
+360,I360,other,$,other,Used,75.94
+361,I361,other,$,other,New,203.8
+362,I362,other,$,other,Undefined,81.6
+363,I363,other,$,other,New,85.25
+364,I364,lenovo,$,black,Used,319.5
+365,I365,other,$,black,New,3156.0
+366,I366,other,$,other,Used,339.5
+367,I367,other,$,other,New,440.2
+368,I368,dell,$,black,Used,381.5
+369,I369,dell,$,other,Used,314.5
+370,I370,dell,$,black,Used,408.2
+371,I371,lg,$,other,New,91.3
+372,I372,other,$,other,Used,481.0
+373,I373,other,$,other,Used,222.9
+374,I374,other,$,other,New,128.5
+375,I375,other,$,other,Used,408.5
+376,I376,other,$,black,Seller refurbished,488.8
+377,I377,other,$,other,New,28.98
+378,I378,other,$,other,New,94.4
+379,I379,other,$,other,New,125.94
+380,I380,other,$,other,Used,361.8
+381,I381,other,$,other,New,130.0
+382,I382,other,$,other,Seller refurbished,2130.0
+383,I383,dell,$,black,Used,462.8
+384,I384,other,$,other,New,105.0
+385,I385,other,$,other,Seller refurbished,2270.0
+386,I386,other,$,other,New,26.52
+387,I387,lenovo,$,black,Used,1701.0
+388,I388,dell,$,black,Used,477.8
+389,I389,other,$,other,New,117.44
+390,I390,samsung,$,other,New,55.12
+391,I391,other,$,other,New,104.7
+392,I392,other,$,other,Undefined,28.8
+393,I393,auo,$,other,New,50.78
+394,I394,other,$,other,Used,84.9
+395,I395,other,$,other,Used,721.0
+396,I396,lenovo,$,gray,Used,607.0
+397,I397,other,$,other,Used,416.2
+398,I398,other,$,other,Seller refurbished,737.0
+399,I399,samsung,$,other,Undefined,90.06
+400,I400,other,$,other,Undefined,64.0
+401,I401,other,$,other,Undefined,48.66
+402,I402,lg,$,other,New,92.1
+403,I403,dell,$,other,Used,485.8
+404,I404,other,$,other,Used,462.0
+405,I405,other,$,other,Used,377.8
+406,I406,lg,$,other,New,112.25
+407,I407,other,$,other,New,92.6
+408,I408,other,$,other,Seller refurbished,379.0
+409,I409,auo,$,other,New,92.1
+410,I410,other,$,other,New,310.5
+411,I411,lenovo,$,other,New,72.2
+412,I412,other,$,other,New,128.1
+413,I413,other,$,other,New,45.28
+414,I414,other,$,other,New,124.25
+415,I415,other,$,other,New,108.75
+416,I416,other,$,other,New,106.6
+417,I417,lg,$,other,New,90.75
+418,I418,other,$,other,New,234.0
+419,I419,other,$,other,Seller refurbished,2080.0
+420,I420,other,$,other,Seller refurbished,2146.0
+421,I421,other,$,other,New,82.2
+422,I422,auo,$,other,New,74.3
+423,I423,other,$,other,New,198.4
+424,I424,other,$,other,Used,431.5
+425,I425,other,$,black,Seller refurbished,570.0
+426,I426,dell,$,other,Used,458.8
+427,I427,other,$,other,Undefined,123.06
+428,I428,auo,$,other,New,89.9
+429,I429,other,$,other,New,114.9
+430,I430,other,$,other,Undefined,275.8
+431,I431,other,$,other,Used,377.8
+432,I432,other,$,other,New,70.0
+433,I433,other,$,other,New,52.84
+434,I434,other,$,other,Seller refurbished,197.2
+435,I435,other,$,black,Seller refurbished,411.5
+436,I436,dell,$,other,Used,362.5
+437,I437,dell,$,black,Used,180.0
+438,I438,other,$,other,Undefined,58.62
+439,I439,other,$,other,Good - Refurbished,310.0
+440,I440,other,$,other,New,119.06
+441,I441,other,$,other,New,126.25
+442,I442,other,$,other,Used,21.7
+443,I443,other,$,other,New,100.4
+444,I444,samsung,$,other,New,142.0
+445,I445,lenovo,$,other,Used,567.5
+446,I446,other,$,other,Used,13.02
+447,I447,dell,$,other,Used,483.0
+448,I448,other,$,black,Used,431.8
+449,I449,other,$,other,Used,489.8
+450,I450,other,$,other,Used,8.68
+451,I451,other,$,other,Seller refurbished,1144.0
+452,I452,other,$,other,Used,8.68
+453,I453,other,$,other,Used,460.0
+454,I454,other,$,other,Used,338.8
+455,I455,other,$,other,Used,15.19
+456,I456,other,$,other,New,93.44
+457,I457,other,$,other,Used,16.28
+458,I458,other,$,other,Used,454.8
+459,I459,other,$,other,New,92.0
+460,I460,other,$,other,Used,15.19
+461,I461,other,$,other,New,75.75
+462,I462,other,$,black,Seller refurbished,415.2
+463,I463,other,$,other,Used,13.02
+464,I464,other,$,other,New,140.0
+465,I465,other,$,other,Used,204.1
+466,I466,other,$,other,Used,215.1
+467,I467,other,$,other,Undefined,105.5
+468,I468,other,$,gray,Used,318.5
+469,I469,other,$,other,Undefined,176.6
+470,I470,other,$,other,New,10.85
+471,I471,other,$,other,Used,326.2
+472,I472,other,$,other,New,195.4
+473,I473,acer,$,other,New,91.9
+474,I474,lg,$,other,New,59.25
+475,I475,other,$,other,New,74.56
+476,I476,auo,$,other,New,94.0
+477,I477,other,$,other,New,82.44
+478,I478,samsung,$,other,New,130.8
+479,I479,other,$,other,New,311.5
+480,I480,other,$,other,Good - Refurbished,310.0
+481,I481,other,$,other,Seller refurbished,2130.0
+482,I482,other,$,other,Seller refurbished,2096.0
+483,I483,other,$,other,New,86.2
+484,I484,lenovo,$,gray,Open box,192.0
+485,I485,acer,$,blue,New,390.0
+486,I486,acer,$,black,Used,54.0
+487,I487,dell,$,black,Excellent - Refurbished,370.0
+488,I488,lenovo,$,black,Used,150.0
+489,I489,lenovo,$,blue,Open box,444.5
+490,I490,dell,$,other,Used,270.0
+491,I491,acer,$,silver,Undefined,349.5
+492,I492,lenovo,$,gray,Undefined,270.0
+493,I493,dell,$,other,Used,136.0
+494,I494,lenovo,$,other,Used,99.94
+495,I495,microsoft,$,silver,Good - Refurbished,530.0
+496,I496,lg,$,other,Excellent - Refurbished,655.0
+497,I497,lenovo,$,black,Used,198.0
+498,I498,hp,$,other,Used,88.0
+499,I499,lenovo,$,other,Used,120.0
+500,I500,lenovo,$,black,For parts or not working,60.0
+501,I501,asus,$,other,Undefined,163.0
+502,I502,microsoft,$,silver,New,699.0
+503,I503,hp,$,other,Open box,444.2
+504,I504,dell,$,black,Used,235.0
+505,I505,lenovo,$,black,Used,29.98
+506,I506,other,$,silver,Very Good - Refurbished,685.0
+507,I507,other,$,other,Used,118.0
+508,I508,other,$,black,Used,300.0
+509,I509,lenovo,$,black,Very Good - Refurbished,450.0
+510,I510,microsoft,$,silver,Used,259.8
+511,I511,hp,$,silver,Used,172.0
+512,I512,dell,$,other,Good - Refurbished,422.0
+513,I513,other,$,black,Undefined,220.0
+514,I514,lenovo,$,black,Very Good - Refurbished,268.0
+515,I515,dell,$,other,Excellent - Refurbished,400.0
+516,I516,other,$,gray,Open box,300.0
+517,I517,lenovo,$,purple,Used,187.8
+518,I518,dell,$,other,Used,100.0
+519,I519,asus,$,black,Undefined,289.5
+520,I520,other,$,silver,Used,178.0
+521,I521,other,$,other,Used,208.8
+522,I522,microsoft,$,silver,Used,130.0
+523,I523,dell,$,black,Used,400.0
+524,I524,other,$,other,Used,226.8
+525,I525,hp,$,other,Open box,725.0
+526,I526,lenovo,$,black,Excellent - Refurbished,400.0
+527,I527,lenovo,$,black,Used,139.0
+528,I528,hp,$,silver,Open box,450.0
+529,I529,dell,$,black,Used,155.0
+530,I530,other,$,other,New,145.1
+531,I531,other,$,other,Excellent - Refurbished,358.5
+532,I532,other,$,other,New,111.25
+533,I533,lenovo,$,black,Undefined,459.0
+534,I534,other,$,other,New,64.0
+535,I535,dell,$,other,Used,392.0
+536,I536,other,$,other,New,81.4
+537,I537,lenovo,$,black,Used,603.5
+538,I538,other,$,other,Seller refurbished,283.5
+539,I539,other,$,other,Seller refurbished,545.0
+540,I540,other,$,other,Used,43.5
+541,I541,other,$,other,Undefined,104.94
+542,I542,other,$,other,Seller refurbished,637.0
+543,I543,other,$,other,Used,476.8
+544,I544,other,$,other,Seller refurbished,591.0
+545,I545,other,$,other,Seller refurbished,366.8
+546,I546,other,$,other,Undefined,166.9
+547,I547,other,$,black,Undefined,88.7
+548,I548,other,$,black,Used,852.0
+549,I549,dell,$,other,Seller refurbished,465.5
+550,I550,other,$,other,Seller refurbished,485.5
+551,I551,lenovo,$,black,Used,626.0
+552,I552,other,$,other,Seller refurbished,690.5
+553,I553,dell,$,black,Used,465.2
+554,I554,other,$,other,Used,1701.0
+555,I555,other,$,other,New,59.84
+556,I556,dell,$,other,Used,303.8
+557,I557,other,$,other,New,317.8
+558,I558,lg,$,other,New,92.56
+559,I559,other,$,other,Used,5.43
+560,I560,other,$,other,New,105.6
+561,I561,other,$,other,New,129.1
+562,I562,other,$,other,New,41.97
+563,I563,other,$,other,New,91.44
+564,I564,auo,$,other,New,92.06
+565,I565,auo,$,other,New,54.8
+566,I566,other,$,other,New,70.1
+567,I567,other,$,other,Undefined,93.44
+568,I568,acer,$,other,New,93.9
+569,I569,dell,$,black,Used,279.0
+570,I570,other,$,other,New,127.75
+571,I571,other,$,other,New,58.47
+572,I572,dell,$,black,Used,350.2
+573,I573,other,$,other,Used,449.8
+574,I574,samsung,$,other,New,95.56
+575,I575,auo,$,other,Undefined,94.0
+576,I576,microsoft,$,other,Used,1909.0
+577,I577,other,$,other,Used,9.77
+578,I578,other,$,other,Seller refurbished,745.5
+579,I579,dell,$,other,Used,429.2
+580,I580,other,$,other,New,149.8
+581,I581,other,$,other,Undefined,113.75
+582,I582,other,$,other,Used,1882.0
+583,I583,other,$,other,Used,41.75
+584,I584,other,$,other,For parts or not working,21.69
+585,I585,other,$,other,Used,419.0
+586,I586,other,$,other,Good - Refurbished,303.8
+587,I587,dell,$,other,Used,302.8
+588,I588,other,$,other,Used,366.8
+589,I589,dell,$,other,Used,414.8
+590,I590,other,$,other,Used,471.8
+591,I591,other,$,other,Used,348.5
+592,I592,dell,$,black,Used,477.8
+593,I593,other,$,other,New,300.8
+594,I594,other,$,other,Undefined,58.72
+595,I595,other,$,other,New,105.75
+596,I596,auo,$,other,New,65.25
+597,I597,other,$,other,Undefined,57.88
+598,I598,other,$,other,Used,9.77
+599,I599,other,$,other,Undefined,94.4
+600,I600,other,$,other,New,75.94
+601,I601,other,$,other,New,82.25
+602,I602,dell,$,other,Used,356.2
+603,I603,lenovo,$,black,Used,319.5
+604,I604,lg,$,other,Undefined,97.5
+605,I605,other,$,black,Undefined,75.94
+606,I606,other,$,other,Used,10.85
+607,I607,other,$,other,New,115.94
+608,I608,other,$,other,New,31.44
+609,I609,other,$,other,Used,351.5
+610,I610,lenovo,$,other,Used,434.2
+611,I611,lenovo,$,other,Used,434.5
+612,I612,other,$,other,New,44.97
+613,I613,hp,$,other,New,76.9
+614,I614,samsung,$,other,New,110.8
+615,I615,other,$,other,Seller refurbished,2724.0
+616,I616,auo,$,other,New,59.22
+617,I617,other,$,other,Seller refurbished,488.8
+618,I618,samsung,$,other,New,127.56
+619,I619,other,$,gray,Used,323.2
+620,I620,other,$,other,Used,125.0
+621,I621,other,$,silver,Used,530.0
+622,I622,dell,$,other,Used,430.5
+623,I623,other,$,other,New,70.3
+624,I624,lenovo,$,other,New,60.97
+625,I625,auo,$,other,New,66.3
+626,I626,dell,$,black,Used,942.5
+627,I627,other,$,other,New,267.0
+628,I628,other,$,other,For parts or not working,32.56
+629,I629,other,$,other,Used,272.2
+630,I630,lg,$,other,New,109.2
+631,I631,other,$,other,New,39.38
+632,I632,dell,$,other,Used,464.5
+633,I633,other,$,other,New,102.8
+634,I634,other,$,other,New,81.06
+635,I635,auo,$,other,New,70.5
+636,I636,lenovo,$,other,Undefined,91.9
+637,I637,other,$,other,New,21.8
+638,I638,other,$,other,New,63.28
+639,I639,other,$,other,Seller refurbished,715.0
+640,I640,lg,$,other,New,112.44
+641,I641,acer,$,other,Used,50.47
+642,I642,lg,$,other,New,137.4
+643,I643,other,$,black,Seller refurbished,375.8
+644,I644,other,$,other,Used,430.5
+645,I645,other,$,other,New,91.3
+646,I646,other,$,other,Used,510.8
+647,I647,samsung,$,other,Undefined,90.9
+648,I648,other,$,other,Seller refurbished,347.2
+649,I649,other,$,other,For parts or not working,22.06
+650,I650,other,$,other,Used,16.36
+651,I651,other,$,black,Seller refurbished,285.0
+652,I652,other,$,other,Used,423.2
+653,I653,other,$,other,Used,384.2
+654,I654,lenovo,$,other,Used,597.5
+655,I655,lenovo,$,other,Used,434.2
+656,I656,other,$,other,Used,236.5
+657,I657,other,$,other,New,48.28
+658,I658,other,$,other,New,242.2
+659,I659,other,$,other,Seller refurbished,954.5
+660,I660,other,$,other,New,196.9
+661,I661,other,$,other,Seller refurbished,2658.0
+662,I662,other,$,other,New,105.44
+663,I663,other,$,black,Seller refurbished,352.0
+664,I664,lenovo,$,black,Used,470.2
+665,I665,other,$,other,Used,636.5
+666,I666,other,$,other,New,124.3
+667,I667,other,$,other,Seller refurbished,827.5
+668,I668,other,$,black,Seller refurbished,278.8
+669,I669,other,$,other,New,92.06
+670,I670,other,$,other,New,95.0
+671,I671,other,$,other,Seller refurbished,1090.0
+672,I672,dell,$,black,Used,532.0
+673,I673,dell,$,other,Seller refurbished,283.0
+674,I674,other,$,other,New,116.25
+675,I675,dell,$,other,Used,293.2
+676,I676,acer,$,other,New,91.44
+677,I677,dell,$,other,Used,427.2
+678,I678,other,$,other,Used,10.85
+679,I679,other,$,other,Undefined,47.1
+680,I680,other,$,other,New,58.97
+681,I681,lg,$,other,New,91.9
+682,I682,other,$,black,Seller refurbished,329.2
+683,I683,other,$,other,New,103.06
+684,I684,samsung,$,other,New,70.5
+685,I685,other,$,other,New,106.94
+686,I686,auo,$,other,New,90.1
+687,I687,other,$,black,Seller refurbished,361.5
+688,I688,other,$,other,New,120.75
+689,I689,other,$,other,New,105.9
+690,I690,other,$,other,New,319.0
+691,I691,hp,$,other,Good - Refurbished,329.5
+692,I692,lenovo,$,other,New,729.5
+693,I693,other,$,other,New,78.25
+694,I694,other,$,other,New,130.8
+695,I695,other,$,other,Seller refurbished,2144.0
+696,I696,other,$,other,New,31.27
+697,I697,asus,$,other,Used,417.8
+698,I698,other,$,other,Used,360.8
+699,I699,dell,$,other,Used,377.8
+700,I700,other,$,other,Used,19.81
+701,I701,other,$,black,Used,684.0
+702,I702,other,$,other,Open box,294.5
+703,I703,dell,$,black,Used,326.2
+704,I704,other,$,other,New,87.7
+705,I705,lenovo,$,other,Used,462.8
+706,I706,dell,$,other,Used,554.5
+707,I707,other,$,other,New,128.0
+708,I708,other,$,other,Seller refurbished,1028.0
+709,I709,samsung,$,other,New,99.44
+710,I710,dell,$,black,Used,532.0
+711,I711,lenovo,$,black,Used,423.0
+712,I712,lenovo,$,other,Used,738.0
+713,I713,other,$,other,Used,8.68
+714,I714,dell,$,other,Used,303.8
+715,I715,other,$,other,Undefined,26.52
+716,I716,other,$,other,Seller refurbished,422.8
+717,I717,other,$,black,Used,441.2
+718,I718,dell,$,other,Used,433.0
+719,I719,other,$,other,New,120.5
+720,I720,other,$,other,Used,13.02
+721,I721,other,$,other,Used,351.2
+722,I722,other,$,black,Used,383.5
+723,I723,other,$,black,Undefined,413.8
+724,I724,dell,$,other,Seller refurbished,283.0
+725,I725,dell,$,other,Seller refurbished,270.2
+726,I726,samsung,$,other,New,50.03
+727,I727,other,$,other,Used,289.8
+728,I728,other,$,other,Used,475.5
+729,I729,lg,$,other,New,90.5
+730,I730,other,$,other,Undefined,70.6
+731,I731,samsung,$,other,New,70.56
+732,I732,dell,$,other,Used,387.0
+733,I733,other,$,black,Seller refurbished,368.0
+734,I734,other,$,other,Used,656.5
+735,I735,other,$,other,For parts or not working,27.48
+736,I736,other,$,other,New,67.2
+737,I737,other,$,other,Undefined,108.06
+738,I738,other,$,other,New,164.0
+739,I739,lenovo,$,black,Used,488.2
+740,I740,other,$,other,Used,42.3
+741,I741,other,$,other,New,27.58
+742,I742,auo,$,other,New,124.25
+743,I743,lenovo,$,other,Used,449.8
+744,I744,other,$,other,New,76.5
+745,I745,samsung,$,other,Undefined,109.9
+746,I746,dell,$,black,Used,382.5
+747,I747,other,$,other,New,74.9
+748,I748,dell,$,other,Used,416.2
+749,I749,hp,$,other,Undefined,116.5
+750,I750,dell,$,other,Seller refurbished,321.2
+751,I751,other,$,other,Undefined,96.56
+752,I752,lenovo,$,other,Used,456.0
+753,I753,other,$,other,New,274.0
+754,I754,other,$,other,Seller refurbished,683.0
+755,I755,other,$,other,Seller refurbished,647.5
+756,I756,lg,$,other,Undefined,97.3
+757,I757,lenovo,$,black,Used,550.0
+758,I758,other,$,other,New,134.9
+759,I759,samsung,$,other,New,196.5
+760,I760,other,$,other,Used,478.5
+761,I761,other,$,other,New,74.6
+762,I762,other,$,other,Used,10.85
+763,I763,other,$,other,Used,314.0
+764,I764,other,$,other,Very Good - Refurbished,283.8
+765,I765,other,$,other,New,47.47
+766,I766,lenovo,$,black,Used,510.0
+767,I767,other,$,other,New,406.0
+768,I768,other,$,other,Used,238.4
+769,I769,other,$,other,Seller refurbished,355.2
+770,I770,other,$,other,New,163.1
+771,I771,lenovo,$,other,Used,576.5
+772,I772,other,$,other,Excellent - Refurbished,588.0
+773,I773,other,$,other,Undefined,64.6
+774,I774,asus,$,other,New,141.9
+775,I775,dell,$,other,Used,493.5
+776,I776,lg,$,other,New,99.75
+777,I777,other,$,other,New,51.06
+778,I778,other,$,other,New,70.6
+779,I779,dell,$,other,Used,352.5
+780,I780,other,$,black,Seller refurbished,369.5
+781,I781,dell,$,black,Used,290.5
+782,I782,other,$,other,New,81.44
+783,I783,dell,$,other,Used,488.0
+784,I784,dell,$,silver,Used,260.0
+785,I785,hp,$,black,Used,40.0
+786,I786,hp,$,other,Used,200.0
+787,I787,other,$,other,New,2372.0
+788,I788,dell,$,silver,New,300.0
+789,I789,other,$,black,New,2378.0
+790,I790,lenovo,$,blue,Undefined,270.0
+791,I791,lenovo,$,black,Very Good - Refurbished,450.0
+792,I792,dell,$,silver,Used,190.0
+793,I793,dell,$,black,Excellent - Refurbished,350.0
+794,I794,dell,$,black,Used,180.0
+795,I795,dell,$,black,Used,400.0
+796,I796,hp,$,black,For parts or not working,87.1
+797,I797,hp,$,multicolor,Used,45.0
+798,I798,dell,$,black,Used,89.0
+799,I799,dell,$,other,Good - Refurbished,124.0
+800,I800,dell,$,black,New,599.0
+801,I801,lenovo,$,other,Used,75.0
+802,I802,microsoft,$,multicolor,Open box,599.0
+803,I803,other,$,grey,Used,65.0
+804,I804,asus,$,black,Used,70.0
+805,I805,samsung,$,silver,Undefined,48.0
+806,I806,hp,$,silver,Used,525.0
+807,I807,lenovo,$,gray,Used,44.0
+808,I808,other,$,other,Good - Refurbished,439.0
+809,I809,lg,$,gray,Undefined,589.0
+810,I810,other,$,black,Undefined,370.0
+811,I811,lg,$,other,Used,375.0
+812,I812,lenovo,$,black,Used,139.0
+813,I813,other,$,other,Used,136.0
+814,I814,lenovo,$,blue,Certified - Refurbished,350.0
+815,I815,lenovo,$,black,Used,51.0
+816,I816,lenovo,$,other,Used,100.0
+817,I817,hp,$,black,New,1149.0
+818,I818,other,$,silver,Used,384.8
+819,I819,dell,$,pink,Used,159.8
+820,I820,hp,$,gray,Undefined,100.0
+821,I821,other,$,other,Used,158.0
+822,I822,other,$,other,Excellent - Refurbished,402.2
+823,I823,other,$,other,New,195.4
+824,I824,samsung,$,other,Undefined,117.0
+825,I825,lenovo,$,other,Seller refurbished,527.0
+826,I826,other,$,black,Seller refurbished,577.5
+827,I827,dell,$,other,Used,335.5
+828,I828,other,$,other,Undefined,97.75
+829,I829,dell,$,other,Used,539.0
+830,I830,other,$,other,New,41.88
+831,I831,other,$,black,Used,420.5
+832,I832,lenovo,$,other,Used,520.5
+833,I833,dell,$,black,For parts or not working,97.2
+834,I834,auo,$,other,New,74.75
+835,I835,other,$,other,Used,1090.0
+836,I836,other,$,other,New,111.4
+837,I837,lenovo,$,other,Seller refurbished,341.0
+838,I838,other,$,other,Undefined,127.75
+839,I839,other,$,black,Seller refurbished,2146.0
+840,I840,dell,$,black,For parts or not working,97.2
+841,I841,other,$,other,New,128.6
+842,I842,other,$,other,New,510.2
+843,I843,samsung,$,other,New,117.0
+844,I844,other,$,other,Used,442.2
+845,I845,other,$,other,Seller refurbished,463.2
+846,I846,auo,$,other,New,131.9
+847,I847,other,$,black,Used,580.0
+848,I848,lenovo,$,other,Used,405.0
+849,I849,other,$,other,New,100.3
+850,I850,other,$,other,Undefined,128.6
+851,I851,other,$,other,Undefined,80.5
+852,I852,lenovo,$,black,Used,673.5
+853,I853,other,$,other,New,159.2
+854,I854,lg,$,other,New,92.94
+855,I855,other,$,other,New,36.9
+856,I856,other,$,other,Used,508.5
+857,I857,other,$,black,Seller refurbished,316.2
+858,I858,other,$,other,Used,10.85
+859,I859,other,$,other,Used,18.11
+860,I860,lenovo,$,other,Good - Refurbished,120.3
+861,I861,dell,$,other,Used,422.8
+862,I862,other,$,gray,Used,323.2
+863,I863,microsoft,$,other,Seller refurbished,1044.0
+864,I864,other,$,other,New,361.2
+865,I865,other,$,other,Seller refurbished,808.5
+866,I866,other,$,other,New,91.0
+867,I867,other,$,other,New,129.0
+868,I868,auo,$,other,New,69.6
+869,I869,other,$,black,Undefined,319.0
+870,I870,other,$,other,For parts or not working,21.7
+871,I871,other,$,black,Seller refurbished,291.2
+872,I872,samsung,$,other,New,103.44
+873,I873,lg,$,other,New,92.5
+874,I874,hp,$,other,New,91.44
+875,I875,dell,$,black,Used,366.8
+876,I876,other,$,other,Excellent - Refurbished,395.0
+877,I877,other,$,other,New,134.6
+878,I878,other,$,black,Seller refurbished,375.8
+879,I879,other,$,black,Seller refurbished,197.2
+880,I880,other,$,black,Seller refurbished,339.0
+881,I881,dell,$,black,Used,371.0
+882,I882,other,$,other,Seller refurbished,733.0
+883,I883,lenovo,$,other,Used,565.0
+884,I884,other,$,other,New,69.44
+885,I885,other,$,other,Undefined,92.0
+886,I886,dell,$,other,Used,296.2
+887,I887,other,$,other,New,109.25
+888,I888,dell,$,other,Used,604.5
+889,I889,other,$,other,New,3098.0
+890,I890,other,$,other,New,116.06
+891,I891,other,$,other,New,46.53
+892,I892,other,$,other,Seller refurbished,1128.0
+893,I893,other,$,other,Seller refurbished,2182.0
+894,I894,samsung,$,other,New,94.9
+895,I895,other,$,other,New,111.94
+896,I896,other,$,black,New,2574.0
+897,I897,dell,$,other,New,105.0
+898,I898,other,$,other,Used,376.2
+899,I899,dell,$,black,Used,1121.0
+900,I900,other,$,other,New,52.75
+901,I901,other,$,other,New,135.4
+902,I902,other,$,other,Used,510.0
+903,I903,other,$,other,Undefined,133.2
+904,I904,other,$,other,Used,369.5
+905,I905,other,$,other,Used,364.0
+906,I906,other,$,other,New,107.8
+907,I907,other,$,other,Seller refurbished,209.8
+908,I908,other,$,other,New,127.8
+909,I909,other,$,other,New,129.8
+910,I910,other,$,other,For parts or not working,21.88
+911,I911,other,$,other,Used,327.0
+912,I912,other,$,other,Used,419.2
+913,I913,other,$,gray,Used,332.2
+914,I914,other,$,other,New,87.0
+915,I915,other,$,other,New,37.88
+916,I916,dell,$,other,Used,293.0
+917,I917,other,$,other,Undefined,285.2
+918,I918,auo,$,other,New,113.0
+919,I919,samsung,$,other,New,137.9
+920,I920,other,$,other,Seller refurbished,536.5
+921,I921,other,$,other,Seller refurbished,540.5
+922,I922,other,$,other,New,44.8
+923,I923,asus,$,other,New,107.0
+924,I924,hp,$,other,New,60.84
+925,I925,other,$,other,New,104.75
+926,I926,dell,$,other,Seller refurbished,346.5
+927,I927,other,$,other,Good - Refurbished,334.8
+928,I928,dell,$,other,Used,405.2
+929,I929,samsung,$,other,New,91.56
+930,I930,samsung,$,other,New,113.9
+931,I931,other,$,other,New,112.3
+932,I932,dell,$,other,Used,334.8
+933,I933,other,$,other,Good - Refurbished,340.2
+934,I934,other,$,other,Used,450.2
+935,I935,other,$,other,Used,1737.0
+936,I936,other,$,other,New,263.8
+937,I937,dell,$,other,Seller refurbished,469.5
+938,I938,dell,$,other,Used,410.8
+939,I939,auo,$,other,New,95.4
+940,I940,other,$,other,Seller refurbished,411.0
+941,I941,other,$,other,Used,322.0
+942,I942,lenovo,$,other,Seller refurbished,420.8
+943,I943,other,$,other,New,92.5
+944,I944,lenovo,$,multicolor,Used,665.0
+945,I945,other,$,other,New,77.06
+946,I946,other,$,other,Used,588.5
+947,I947,other,$,black,Used,827.0
+948,I948,dell,$,black,Used,1047.0
+949,I949,other,$,other,New,190.6
+950,I950,dell,$,black,Used,815.0
+951,I951,other,$,other,New,134.5
+952,I952,dell,$,other,Used,320.2
+953,I953,other,$,black,Seller refurbished,182.6
+954,I954,other,$,other,Seller refurbished,772.0
+955,I955,other,$,other,Seller refurbished,577.5
+956,I956,other,$,other,Seller refurbished,507.8
+957,I957,other,$,other,Seller refurbished,526.5
+958,I958,lenovo,$,other,Used,490.0
+959,I959,other,$,other,Used,377.8
+960,I960,other,$,other,Used,411.5
+961,I961,other,$,other,Seller refurbished,841.5
+962,I962,other,$,other,Used,29.3
+963,I963,other,$,other,New,374.8
+964,I964,lg,$,other,New,92.6
+965,I965,other,$,other,Undefined,141.9
+966,I966,other,$,other,Used,646.5
+967,I967,other,$,other,New,472.5
+968,I968,hp,$,other,New,91.0
+969,I969,lg,$,other,New,70.5
+970,I970,dell,$,other,Used,362.5
+971,I971,other,$,other,New,103.25
+972,I972,other,$,other,Seller refurbished,2326.0
+973,I973,other,$,other,New,160.4
+974,I974,other,$,other,Used,10.9
+975,I975,lenovo,$,other,Used,489.0
+976,I976,other,$,black,Seller refurbished,275.5
+977,I977,dell,$,other,Used,432.5
+978,I978,other,$,other,Used,456.2
+979,I979,other,$,other,Undefined,103.56
+980,I980,dell,$,other,Used,335.8
+981,I981,other,$,other,Undefined,164.4
+982,I982,auo,$,other,New,91.9
+983,I983,auo,$,other,New,91.3
+984,I984,dell,$,black,Used,424.8
+985,I985,other,$,other,New,316.0
+986,I986,dell,$,other,Used,423.5
+987,I987,other,$,other,Good - Refurbished,234.0
+988,I988,other,$,other,Used,753.5
+989,I989,other,$,black,Seller refurbished,2096.0
+990,I990,lenovo,$,other,Used,377.8
+991,I991,other,$,other,Used,419.8
+992,I992,other,$,other,Used,401.0
+993,I993,dell,$,other,Used,320.2
+994,I994,other,$,other,Used,371.0
+995,I995,dell,$,other,Used,442.5
+996,I996,other,$,other,Used,365.0
+997,I997,lg,$,other,New,97.06
+998,I998,other,$,other,New,101.9
+999,I999,samsung,$,other,New,112.8
+1000,I1000,other,$,other,New,95.25
+1001,I1001,other,$,other,Used,508.5
+1002,I1002,dell,$,other,For parts or not working,67.3
+1003,I1003,other,$,other,For parts or not working,33.5
+1004,I1004,other,$,other,New,78.9
+1005,I1005,dell,$,other,Used,422.8
+1006,I1006,lg,$,other,New,125.06
+1007,I1007,other,$,black,Seller refurbished,232.2
+1008,I1008,other,$,other,Used,215.9
+1009,I1009,other,$,other,Seller refurbished,457.2
+1010,I1010,other,$,other,Undefined,128.5
+1011,I1011,other,$,other,Used,640.5
+1012,I1012,other,$,other,Undefined,45.28
+1013,I1013,other,$,other,Used,21.7
+1014,I1014,other,$,other,New,127.94
+1015,I1015,other,$,other,For parts or not working,236.0
+1016,I1016,other,$,other,Certified - Refurbished,511.5
+1017,I1017,dell,$,other,Used,510.0
+1018,I1018,other,$,other,Used,279.0
+1019,I1019,other,$,other,New,3356.0
+1020,I1020,other,$,other,Seller refurbished,1019.5
+1021,I1021,acer,$,other,New,81.2
+1022,I1022,lg,$,other,New,110.8
+1023,I1023,other,$,other,Seller refurbished,2680.0
+1024,I1024,dell,$,other,Seller refurbished,1363.0
+1025,I1025,other,$,other,Seller refurbished,2326.0
+1026,I1026,dell,$,black,Used,106.25
+1027,I1027,other,$,other,New,131.0
+1028,I1028,auo,$,other,New,60.84
+1029,I1029,dell,$,other,Used,182.6
+1030,I1030,other,$,other,New,117.3
+1031,I1031,auo,$,other,New,99.5
+1032,I1032,asus,$,other,For parts or not working,22.22
+1033,I1033,other,$,other,Used,302.2
+1034,I1034,lenovo,$,other,Used,340.8
+1035,I1035,samsung,$,other,New,91.7
+1036,I1036,other,$,other,New,162.6
+1037,I1037,other,$,other,Undefined,59.4
+1038,I1038,other,$,other,Good - Refurbished,322.0
+1039,I1039,dell,$,other,Used,539.0
+1040,I1040,lg,$,other,New,95.94
+1041,I1041,dell,$,other,Seller refurbished,373.8
+1042,I1042,other,$,other,New,124.1
+1043,I1043,other,$,other,New,97.5
+1044,I1044,other,$,other,New,84.1
+1045,I1045,other,$,other,New,67.06
+1046,I1046,other,$,other,Used,330.5
+1047,I1047,other,$,other,Used,711.0
+1048,I1048,other,$,other,New,35.2
+1049,I1049,other,$,other,Used,341.8
+1050,I1050,lg,$,other,New,90.2
+1051,I1051,other,$,other,New,28.44
+1052,I1052,other,$,other,New,92.7
+1053,I1053,other,$,other,New,50.75
+1054,I1054,dell,$,other,Used,470.5
+1055,I1055,dell,$,other,Used,280.0
+1056,I1056,other,$,other,Used,262.2
+1057,I1057,lenovo,$,other,Used,650.5
+1058,I1058,other,$,other,Seller refurbished,568.0
+1059,I1059,other,$,other,New,99.0
+1060,I1060,other,$,other,Used,863.5
+1061,I1061,dell,$,other,Used,331.0
+1062,I1062,other,$,other,New,232.1
+1063,I1063,other,$,black,Seller refurbished,266.2
+1064,I1064,other,$,other,New,47.1
+1065,I1065,other,$,other,Very Good - Refurbished,425.2
+1066,I1066,auo,$,other,New,81.6
+1067,I1067,other,$,other,Seller refurbished,932.5
+1068,I1068,other,$,other,Used,135.8
+1069,I1069,other,$,other,Seller refurbished,1002.5
+1070,I1070,lenovo,$,other,Used,533.5
+1071,I1071,dell,$,other,Used,303.8
+1072,I1072,other,$,other,Good - Refurbished,273.5
+1073,I1073,other,$,other,Seller refurbished,245.5
+1074,I1074,lenovo,$,black,Used,743.0
+1075,I1075,other,$,other,Used,280.2
+1076,I1076,other,$,other,Seller refurbished,724.5
+1077,I1077,other,$,other,New,151.9
+1078,I1078,other,$,black,Seller refurbished,463.5
+1079,I1079,other,$,other,Used,391.5
+1080,I1080,other,$,other,Seller refurbished,264.2
+1081,I1081,other,$,other,New,93.0
+1082,I1082,lenovo,$,gray,Used,726.0
+1083,I1083,other,$,other,New,59.28
+1084,I1084,other,$,other,New,90.06
+1085,I1085,other,$,other,Used,413.2
+1086,I1086,other,$,other,Seller refurbished,571.5
+1087,I1087,other,$,other,Seller refurbished,921.0
+1088,I1088,other,$,other,Seller refurbished,531.0
+1089,I1089,other,$,other,Seller refurbished,432.2
+1090,I1090,other,$,other,New,134.5
+1091,I1091,dell,$,black,Used,442.0
+1092,I1092,other,$,black,New,2280.0
+1093,I1093,dell,$,black,Used,1014.5
+1094,I1094,lenovo,$,black,Used,602.0
+1095,I1095,other,$,other,Seller refurbished,414.8
+1096,I1096,other,$,other,New,60.84
+1097,I1097,other,$,other,New,124.9
+1098,I1098,other,$,black,Seller refurbished,372.5
+1099,I1099,other,$,other,New,315.2
+1100,I1100,lenovo,$,black,Used,751.0
+1101,I1101,other,$,other,Seller refurbished,542.0
+1102,I1102,other,$,other,Seller refurbished,517.0
+1103,I1103,other,$,other,Seller refurbished,607.0
+1104,I1104,lenovo,$,other,Used,465.5
+1105,I1105,lenovo,$,black,Used,772.5
+1106,I1106,other,$,other,Undefined,168.1
+1107,I1107,dell,$,black,Used,462.8
+1108,I1108,other,$,other,Used,856.5
+1109,I1109,other,$,other,Used,805.5
+1110,I1110,other,$,other,Undefined,525.0
+1111,I1111,dell,$,other,Used,401.8
+1112,I1112,lenovo,$,other,Used,465.5
+1113,I1113,other,$,black,Seller refurbished,328.8
+1114,I1114,other,$,other,New,89.8
+1115,I1115,other,$,other,New,112.3
+1116,I1116,samsung,$,other,New,127.8
+1117,I1117,other,$,other,New,42.2
+1118,I1118,dell,$,other,Used,444.5
+1119,I1119,other,$,other,New,93.94
+1120,I1120,lenovo,$,other,Used,656.5
+1121,I1121,other,$,other,Used,334.0
+1122,I1122,other,$,other,New,205.1
+1123,I1123,other,$,other,New,141.5
+1124,I1124,other,$,other,Seller refurbished,707.5
+1125,I1125,other,$,other,Used,336.2
+1126,I1126,dell,$,black,For parts or not working,129.6
+1127,I1127,other,$,other,Undefined,58.97
+1128,I1128,dell,$,other,Seller refurbished,334.5
+1129,I1129,lg,$,other,New,94.0
+1130,I1130,lenovo,$,other,Used,323.0
+1131,I1131,dell,$,other,Used,280.0
+1132,I1132,hp,$,other,New,119.06
+1133,I1133,other,$,other,For parts or not working,22.0
+1134,I1134,lg,$,other,New,90.44
+1135,I1135,dell,$,other,Used,499.0
+1136,I1136,other,$,other,New,87.56
+1137,I1137,other,$,other,New,49.62
+1138,I1138,other,$,other,Undefined,82.2
+1139,I1139,auo,$,other,New,69.25
+1140,I1140,dell,$,other,Used,463.2
+1141,I1141,lg,$,other,New,95.3
+1142,I1142,lenovo,$,other,Used,427.2
+1143,I1143,other,$,other,New,104.6
+1144,I1144,other,$,other,Used,264.2
+1145,I1145,auo,$,other,New,75.2
+1146,I1146,other,$,other,Undefined,205.2
+1147,I1147,auo,$,other,New,61.12
+1148,I1148,dell,$,black,Used,451.5
+1149,I1149,dell,$,other,Used,339.8
+1150,I1150,acer,$,other,For parts or not working,27.77
+1151,I1151,other,$,other,Used,329.8
+1152,I1152,dell,$,other,Seller refurbished,469.0
+1153,I1153,other,$,other,Used,206.1
+1154,I1154,other,$,other,Good - Refurbished,258.2
+1155,I1155,dell,$,other,Used,444.5
+1156,I1156,lenovo,$,black,Used,636.5
+1157,I1157,other,$,other,Seller refurbished,226.9
+1158,I1158,other,$,other,Seller refurbished,628.0
+1159,I1159,lenovo,$,black,Undefined,584.5
+1160,I1160,other,$,other,Used,157.2
+1161,I1161,other,$,other,Undefined,105.0
+1162,I1162,other,$,black,Seller refurbished,341.5
+1163,I1163,other,$,other,Seller refurbished,523.5
+1164,I1164,other,$,other,New,475.8
+1165,I1165,other,$,other,Undefined,50.78
+1166,I1166,lenovo,$,black,Used,462.8
+1167,I1167,dell,$,other,Used,335.8
+1168,I1168,other,$,other,Seller refurbished,541.0
+1169,I1169,other,$,black,Used,473.8
+1170,I1170,other,$,other,New,100.0
+1171,I1171,lg,$,other,New,69.75
+1172,I1172,other,$,black,Seller refurbished,303.8
+1173,I1173,other,$,other,New,463.5
+1174,I1174,other,$,other,Seller refurbished,818.0
+1175,I1175,lenovo,$,other,Used,433.5
+1176,I1176,dell,$,other,Used,437.2
+1177,I1177,dell,$,black,Used,424.8
+1178,I1178,lg,$,other,New,93.44
+1179,I1179,dell,$,other,Used,423.5
+1180,I1180,other,$,black,Seller refurbished,355.0
+1181,I1181,lg,$,other,New,132.8
+1182,I1182,other,$,other,New,133.1
+1183,I1183,auo,$,other,New,74.56
+1184,I1184,lenovo,$,other,Used,454.0
+1185,I1185,other,$,other,New,131.6
+1186,I1186,other,$,other,New,109.9
+1187,I1187,other,$,other,New,71.25
+1188,I1188,dell,$,other,Used,427.0
+1189,I1189,other,$,other,Used,405.2
+1190,I1190,other,$,black,Used,564.5
+1191,I1191,other,$,other,Undefined,86.3
+1192,I1192,other,$,other,Used,346.2
+1193,I1193,other,$,black,Used,397.8
+1194,I1194,auo,$,other,New,71.44
+1195,I1195,lg,$,other,New,127.8
+1196,I1196,dell,$,other,Used,345.2
+1197,I1197,dell,$,other,Used,422.8
+1198,I1198,dell,$,other,New,72.0
+1199,I1199,other,$,black,Seller refurbished,591.0
+1200,I1200,other,$,other,New,86.75
+1201,I1201,other,$,other,Used,445.8
+1202,I1202,other,$,black,Seller refurbished,633.0
+1203,I1203,other,$,other,New,314.8
+1204,I1204,other,$,other,Seller refurbished,278.8
+1205,I1205,lenovo,$,black,Used,519.5
+1206,I1206,other,$,other,Seller refurbished,396.0
+1207,I1207,other,$,other,Seller refurbished,552.5
+1208,I1208,other,$,other,Used,10.85
+1209,I1209,other,$,gray,Used,412.0
+1210,I1210,other,$,other,Seller refurbished,458.8
+1211,I1211,lenovo,$,other,Used,497.2
+1212,I1212,dell,$,other,Seller refurbished,321.2
+1213,I1213,other,$,other,Seller refurbished,512.5
+1214,I1214,lenovo,$,black,Used,458.0
+1215,I1215,dell,$,gray,Used,462.8
+1216,I1216,dell,$,black,Used,378.5
+1217,I1217,other,$,other,New,378.5
+1218,I1218,other,$,other,Used,466.8
+1219,I1219,other,$,other,Used,204.5
+1220,I1220,dell,$,black,Used,379.2
+1221,I1221,other,$,other,Used,487.2
+1222,I1222,lenovo,$,gray,Used,538.5
+1223,I1223,other,$,other,Seller refurbished,2326.0
+1224,I1224,other,$,other,Used,571.5
+1225,I1225,other,$,other,New,90.75
+1226,I1226,lenovo,$,other,Undefined,453.8
+1227,I1227,other,$,other,Used,453.8
+1228,I1228,lenovo,$,black,Used,590.0
+1229,I1229,dell,$,black,Used,110.0
+1230,I1230,lenovo,$,black,Used,458.0
+1231,I1231,dell,$,black,Used,284.8
+1232,I1232,other,$,other,New,265.8
+1233,I1233,other,$,other,New,317.8
+1234,I1234,other,$,other,New,110.0
+1235,I1235,lenovo,$,other,Used,578.0
+1236,I1236,lenovo,$,black,Used,619.0
+1237,I1237,other,$,other,Undefined,121.6
+1238,I1238,other,$,other,New,78.1
+1239,I1239,other,$,other,Good - Refurbished,282.5
+1240,I1240,dell,$,other,Used,299.8
+1241,I1241,dell,$,black,Used,377.2
+1242,I1242,dell,$,black,Used,414.2
+1243,I1243,dell,$,other,Used,534.0
+1244,I1244,lenovo,$,black,Used,200.0
+1245,I1245,dell,$,silver,Used,775.5
+1246,I1246,other,$,other,Used,11.94
+1247,I1247,other,$,other,Seller refurbished,216.0
+1248,I1248,other,$,other,New,123.5
+1249,I1249,lenovo,$,other,Used,442.8
+1250,I1250,lenovo,$,black,Used,519.0
+1251,I1251,other,$,other,New,112.44
+1252,I1252,lg,$,other,Undefined,92.6
+1253,I1253,other,$,other,Used,304.5
+1254,I1254,dell,$,other,Used,282.8
+1255,I1255,lg,$,other,New,92.9
+1256,I1256,dell,$,other,Used,494.2
+1257,I1257,acer,$,other,For parts or not working,21.88
+1258,I1258,other,$,other,New,140.2
+1259,I1259,other,$,other,Undefined,163.5
+1260,I1260,lenovo,$,gray,Used,624.0
+1261,I1261,other,$,other,Used,473.8
+1262,I1262,other,$,other,Used,470.5
+1263,I1263,other,$,other,Seller refurbished,358.5
+1264,I1264,dell,$,other,Used,281.2
+1265,I1265,other,$,other,New,57.88
+1266,I1266,other,$,other,Very Good - Refurbished,319.0
+1267,I1267,acer,$,other,New,64.9
+1268,I1268,lenovo,$,gray,Used,565.0
+1269,I1269,other,$,other,Used,1717.0
+1270,I1270,other,$,other,Seller refurbished,960.0
+1271,I1271,acer,$,other,For parts or not working,21.64
+1272,I1272,other,$,other,Seller refurbished,996.5
+1273,I1273,dell,$,other,Used,390.0
+1274,I1274,other,$,other,Good - Refurbished,389.0
+1275,I1275,other,$,black,Used,307.0
+1276,I1276,dell,$,other,Used,396.8
+1277,I1277,auo,$,other,New,95.56
+1278,I1278,lenovo,$,other,Used,188.8
+1279,I1279,auo,$,other,New,114.5
+1280,I1280,other,$,other,Seller refurbished,242.5
+1281,I1281,other,$,other,Undefined,650.5
+1282,I1282,other,$,other,New,324.5
+1283,I1283,other,$,other,Seller refurbished,1758.0
+1284,I1284,other,$,other,Seller refurbished,394.8
+1285,I1285,other,$,other,New,161.9
+1286,I1286,other,$,other,Seller refurbished,461.8
+1287,I1287,other,$,other,Seller refurbished,506.8
+1288,I1288,dell,$,other,Used,80.0
+1289,I1289,acer,$,silver,Open box,60.0
+1290,I1290,samsung,$,black,Used,47.0
+1291,I1291,microsoft,$,other,Used,107.56
+1292,I1292,lenovo,$,black,Used,100.0
+1293,I1293,lenovo,$,black,Used,99.94
+1294,I1294,dell,$,other,Used,450.0
+1295,I1295,microsoft,$,silver,Used,175.0
+1296,I1296,other,$,other,Used,593.0
+1297,I1297,dell,$,black,Used,140.0
+1298,I1298,microsoft,$,other,For parts or not working,69.6
+1299,I1299,dell,$,black,Excellent - Refurbished,335.0
+1300,I1300,dell,$,other,Used,79.0
+1301,I1301,hp,$,other,For parts or not working,39.97
+1302,I1302,hp,$,grey,Used,49.0
+1303,I1303,dell,$,other,Used,73.0
+1304,I1304,dell,$,silver,Used,149.0
+1305,I1305,other,$,black,New,2378.0
+1306,I1306,dell,$,other,For parts or not working,22.55
+1307,I1307,lenovo,$,black,New,500.0
+1308,I1308,asus,$,black,Used,70.0
+1309,I1309,lg,$,black,Undefined,990.0
+1310,I1310,acer,$,gray,Used,230.0
+1311,I1311,acer,$,other,Used,118.1
+1312,I1312,lenovo,$,gray,Used,320.0
+1313,I1313,dell,$,other,Used,75.0
+1314,I1314,other,$,other,Used,100.0
+1315,I1315,hp,$,other,Used,75.0
+1316,I1316,other,$,other,Good - Refurbished,164.5
+1317,I1317,dell,$,gray,Undefined,350.0
+1318,I1318,dell,$,other,Used,399.0
+1319,I1319,hp,$,gray,Used,100.0
+1320,I1320,hp,$,silver,Undefined,200.0
+1321,I1321,dell,$,black,Used,115.0
+1322,I1322,dell,$,black,Used,399.0
+1323,I1323,microsoft,$,silver,Used,93.0
+1324,I1324,dell,$,other,For parts or not working,16.3
+1325,I1325,hp,$,black,Used,180.0
+1326,I1326,dell,$,gray,For parts or not working,70.0
+1327,I1327,microsoft,$,other,Very Good - Refurbished,725.0
+1328,I1328,dell,$,black,Used,29.89
+1329,I1329,acer,$,gray,Undefined,38.0
+1330,I1330,hp,$,other,Used,184.1
+1331,I1331,hp,$,purple,Used,157.8
+1332,I1332,other,$,other,Used,396.0
+1333,I1333,lenovo,$,other,New,74.3
+1334,I1334,asus,$,other,New,74.44
+1335,I1335,lg,$,other,New,109.9
+1336,I1336,other,$,other,Seller refurbished,574.5
+1337,I1337,auo,$,other,New,89.8
+1338,I1338,samsung,$,other,New,135.5
+1339,I1339,acer,$,other,For parts or not working,22.22
+1340,I1340,other,$,other,New,20.44
+1341,I1341,other,$,other,Used,204.5
+1342,I1342,lenovo,$,other,Used,376.0
+1343,I1343,other,$,other,Undefined,104.7
+1344,I1344,auo,$,other,New,93.9
+1345,I1345,dell,$,other,Used,433.0
+1346,I1346,other,$,other,New,254.2
+1347,I1347,samsung,$,other,Undefined,59.2
+1348,I1348,other,$,other,Used,184.5
+1349,I1349,other,$,gray,New,225.0
+1350,I1350,lenovo,$,other,Used,419.5
+1351,I1351,dell,$,other,Seller refurbished,334.0
+1352,I1352,other,$,other,New,56.56
+1353,I1353,other,$,other,Undefined,105.44
+1354,I1354,samsung,$,other,New,114.5
+1355,I1355,other,$,other,New,101.94
+1356,I1356,other,$,other,New,91.9
+1357,I1357,dell,$,other,Used,314.5
+1358,I1358,other,$,other,Undefined,107.6
+1359,I1359,other,$,black,Seller refurbished,2680.0
+1360,I1360,samsung,$,other,New,89.8
+1361,I1361,dell,$,black,Used,462.8
+1362,I1362,other,$,other,New,85.4
+1363,I1363,dell,$,other,Used,414.8
+1364,I1364,other,$,other,Seller refurbished,1533.0
+1365,I1365,other,$,other,Used,770.5
+1366,I1366,dell,$,other,Seller refurbished,580.5
+1367,I1367,dell,$,black,Used,339.5
+1368,I1368,other,$,other,Undefined,82.8
+1369,I1369,other,$,black,Seller refurbished,247.4
+1370,I1370,other,$,other,Used,548.5
+1371,I1371,other,$,black,Seller refurbished,494.8
+1372,I1372,other,$,other,Seller refurbished,511.2
+1373,I1373,other,$,other,Seller refurbished,227.8
+1374,I1374,dell,$,black,Used,511.8
+1375,I1375,other,$,other,New,113.6
+1376,I1376,other,$,other,Seller refurbished,375.8
+1377,I1377,lenovo,$,other,Used,483.0
+1378,I1378,other,$,other,New,43.25
+1379,I1379,other,$,other,Seller refurbished,778.5
+1380,I1380,other,$,other,Undefined,440.2
+1381,I1381,other,$,other,Used,429.0
+1382,I1382,dell,$,other,Used,444.2
+1383,I1383,other,$,other,Used,537.5
+1384,I1384,auo,$,other,New,115.7
+1385,I1385,lenovo,$,black,Used,572.0
+1386,I1386,lenovo,$,black,Used,571.0
+1387,I1387,other,$,other,Seller refurbished,777.5
+1388,I1388,dell,$,black,Used,377.2
+1389,I1389,other,$,other,New,589.0
+1390,I1390,other,$,black,New,225.0
+1391,I1391,other,$,other,Used,274.5
+1392,I1392,other,$,other,Used,442.8
+1393,I1393,other,$,other,Used,514.5
+1394,I1394,other,$,other,For parts or not working,21.88
+1395,I1395,other,$,black,Seller refurbished,536.5
+1396,I1396,lenovo,$,gray,Used,829.5
+1397,I1397,other,$,other,Seller refurbished,739.5
+1398,I1398,other,$,other,Used,158.6
+1399,I1399,dell,$,other,Used,370.5
+1400,I1400,other,$,other,Seller refurbished,842.5
+1401,I1401,other,$,other,New,203.0
+1402,I1402,other,$,other,Seller refurbished,968.0
+1403,I1403,other,$,other,New,203.1
+1404,I1404,other,$,other,Seller refurbished,1093.0
+1405,I1405,samsung,$,other,Undefined,114.5
+1406,I1406,dell,$,black,Used,545.0
+1407,I1407,other,$,other,Used,198.6
+1408,I1408,other,$,black,Seller refurbished,339.0
+1409,I1409,other,$,other,Used,360.5
+1410,I1410,other,$,black,Seller refurbished,593.0
+1411,I1411,other,$,other,Seller refurbished,303.8
+1412,I1412,lenovo,$,black,Used,613.5
+1413,I1413,other,$,black,Used,406.0
+1414,I1414,other,$,other,Used,371.8
+1415,I1415,other,$,other,Seller refurbished,559.0
+1416,I1416,other,$,other,New,766.5
+1417,I1417,dell,$,black,Used,313.8
+1418,I1418,dell,$,black,Used,451.5
+1419,I1419,other,$,other,Seller refurbished,335.8
+1420,I1420,other,$,other,Seller refurbished,463.5
+1421,I1421,dell,$,other,Used,641.5
+1422,I1422,other,$,other,Used,436.0
+1423,I1423,other,$,other,Seller refurbished,633.0
+1424,I1424,other,$,other,New,117.06
+1425,I1425,lenovo,$,other,Used,580.5
+1426,I1426,other,$,other,Seller refurbished,645.5
+1427,I1427,other,$,other,Seller refurbished,1666.0
+1428,I1428,other,$,other,Used,820.5
+1429,I1429,other,$,other,Used,845.5
+1430,I1430,other,$,other,Used,182.2
+1431,I1431,dell,$,other,Seller refurbished,439.0
+1432,I1432,other,$,other,Seller refurbished,341.5
+1433,I1433,other,$,other,Used,896.0
+1434,I1434,other,$,other,Undefined,98.4
+1435,I1435,other,$,other,Seller refurbished,1748.0
+1436,I1436,other,$,other,New,66.56
+1437,I1437,dell,$,black,Used,380.2
+1438,I1438,other,$,other,New,3860.0
+1439,I1439,other,$,silver,New,289.0
+1440,I1440,samsung,$,silver,Used,48.0
+1441,I1441,microsoft,$,other,Used,56.94
+1442,I1442,dell,$,black,Used,93.0
+1443,I1443,microsoft,$,silver,New,699.0
+1444,I1444,dell,$,black,Used,235.0
+1445,I1445,dell,$,black,Used,188.0
+1446,I1446,lenovo,$,black,Used,52.0
+1447,I1447,other,$,other,Used,152.2
+1448,I1448,hp,$,other,Used,55.0
+1449,I1449,lenovo,$,black,Used,420.0
+1450,I1450,samsung,$,black,Used,40.47
+1451,I1451,dell,$,silver,Used,89.0
+1452,I1452,hp,$,blue,Open box,100.0
+1453,I1453,hp,$,silver,Used,172.0
+1454,I1454,lenovo,$,black,Very Good - Refurbished,268.0
+1455,I1455,microsoft,$,silver,Used,259.8
+1456,I1456,dell,$,gray,Used,879.0
+1457,I1457,other,$,black,New,919.0
+1458,I1458,hp,$,silver,Open box,450.0
+1459,I1459,lenovo,$,gray,Used,60.0
+1460,I1460,dell,$,black,Used,885.0
+1461,I1461,dell,$,other,Open box,629.0
+1462,I1462,dell,$,black,Used,140.0
+1463,I1463,lenovo,$,black,Used,145.0
+1464,I1464,dell,$,other,Used,323.0
+1465,I1465,lenovo,$,black,Open box,210.0
+1466,I1466,hp,$,other,For parts or not working,120.0
+1467,I1467,dell,$,black,Excellent - Refurbished,240.0
+1468,I1468,dell,$,other,Used,190.8
+1469,I1469,lenovo,$,black,Used,230.0
+1470,I1470,lenovo,$,beige,Used,215.0
+1471,I1471,acer,$,other,Used,79.1
+1472,I1472,dell,$,black,New,599.0
+1473,I1473,other,$,black,New,320.0
+1474,I1474,hp,$,silver,Used,226.5
+1475,I1475,dell,$,other,Excellent - Refurbished,599.0
+1476,I1476,acer,$,other,Used,105.06
+1477,I1477,dell,$,black,For parts or not working,31.95
+1478,I1478,dell,$,silver,Used,75.0
+1479,I1479,lenovo,$,black,Used,189.0
+1480,I1480,dell,$,other,Very Good - Refurbished,180.5
+1481,I1481,lenovo,$,other,Good - Refurbished,198.0
+1482,I1482,hp,$,other,Undefined,686.0
+1483,I1483,lenovo,$,other,Used,164.2
+1484,I1484,acer,$,silver,Undefined,249.0
+1485,I1485,hp,$,gray,Used,50.0
+1486,I1486,hp,$,other,Used,48.0
+1487,I1487,acer,$,silver,Used,190.0
+1488,I1488,dell,$,other,Used,100.0
+1489,I1489,samsung,$,silver,Undefined,150.0
+1490,I1490,samsung,$,black,For parts or not working,20.97
+1491,I1491,lenovo,$,other,Used,198.0
+1492,I1492,dell,$,black,Very Good - Refurbished,1330.0
+1493,I1493,dell,$,black,Excellent - Refurbished,1050.0
+1494,I1494,lenovo,$,black,Undefined,135.9
+1495,I1495,dell,$,black,Used,140.0
+1496,I1496,other,$,other,Used,110.0
+1497,I1497,lenovo,$,other,Used,144.5
+1498,I1498,hp,$,other,Undefined,329.2
+1499,I1499,hp,$,silver,Used,153.0
+1500,I1500,dell,$,black,Undefined,399.0
+1501,I1501,dell,$,black,New,899.0
+1502,I1502,microsoft,$,black,Used,510.0
+1503,I1503,lenovo,$,black,Excellent - Refurbished,420.0
+1504,I1504,hp,$,other,Used,115.6
+1505,I1505,dell,$,other,Used,97.7
+1506,I1506,dell,$,black,Used,160.0
+1507,I1507,dell,$,black,Undefined,400.0
+1508,I1508,hp,$,silver,Undefined,399.0
+1509,I1509,acer,$,black,New,629.0
+1510,I1510,hp,$,silver,Excellent - Refurbished,839.5
+1511,I1511,dell,$,black,Used,130.0
+1512,I1512,lenovo,$,silver,Undefined,550.0
+1513,I1513,dell,$,gray,Used,350.0
+1514,I1514,hp,$,other,Used,85.0
+1515,I1515,other,$,other,Used,139.5
+1516,I1516,microsoft,$,other,Used,120.0
+1517,I1517,samsung,$,silver,Used,29.0
+1518,I1518,acer,$,black,Used,58.0
+1519,I1519,hp,$,silver,Undefined,548.0
+1520,I1520,hp,$,silver,Used,525.0
+1521,I1521,lenovo,$,grey,New,338.8
+1522,I1522,lenovo,$,black,Used,300.0
+1523,I1523,hp,$,pink,Used,167.8
+1524,I1524,microsoft,$,silver,Used,150.0
+1525,I1525,lenovo,$,black,Used,190.0
+1526,I1526,dell,$,black,Good - Refurbished,330.0
+1527,I1527,other,$,gray,Used,40.0
+1528,I1528,other,$,other,Used,77.0
+1529,I1529,acer,$,other,Used,37.0
+1530,I1530,dell,$,silver,Used,650.0
+1531,I1531,hp,$,other,Used,88.94
+1532,I1532,lenovo,$,black,Used,35.0
+1533,I1533,hp,$,other,Used,65.94
+1534,I1534,samsung,$,black,Used,53.0
+1535,I1535,dell,$,black,Undefined,10.99
+1536,I1536,hp,$,black,Used,37.94
+1537,I1537,lenovo,$,black,Used,125.0
+1538,I1538,dell,$,silver,Open box,325.0
+1539,I1539,lenovo,$,gray,Open box,616.5
+1540,I1540,dell,$,other,Good - Refurbished,95.0
+1541,I1541,dell,$,black,Excellent - Refurbished,280.0
+1542,I1542,hp,$,other,Undefined,184.1
+1543,I1543,samsung,$,silver,Undefined,25.9
+1544,I1544,dell,$,black,Excellent - Refurbished,240.0
+1545,I1545,dell,$,other,Used,97.0
+1546,I1546,hp,$,silver,New,780.0
+1547,I1547,asus,$,silver,New,699.0
+1548,I1548,lenovo,$,black,Undefined,16.0
+1549,I1549,dell,$,other,Good - Refurbished,119.0
+1550,I1550,dell,$,other,Used,190.0
+1551,I1551,other,$,other,Undefined,80.0
+1552,I1552,samsung,$,red,Used,350.0
+1553,I1553,hp,$,other,Used,89.0
+1554,I1554,hp,$,black,Used,45.88
+1555,I1555,lenovo,$,other,Used,109.0
+1556,I1556,other,$,other,Very Good - Refurbished,216.5
+1557,I1557,dell,$,black,Used,170.9
+1558,I1558,lenovo,$,blue,Undefined,190.0
+1559,I1559,lenovo,$,black,Very Good - Refurbished,339.0
+1560,I1560,acer,$,black,New,629.0
+1561,I1561,dell,$,black,New,300.0
+1562,I1562,asus,$,other,Used,130.0
+1563,I1563,dell,$,other,Very Good - Refurbished,131.2
+1564,I1564,other,$,black,Undefined,140.0
+1565,I1565,dell,$,black,Very Good - Refurbished,307.0
+1566,I1566,hp,$,black,Very Good - Refurbished,299.0
+1567,I1567,dell,$,silver,New,825.0
+1568,I1568,dell,$,black,Used,449.0
+1569,I1569,dell,$,other,Used,95.0
+1570,I1570,hp,$,silver,Very Good - Refurbished,198.0
+1571,I1571,dell,$,other,For parts or not working,49.94
+1572,I1572,dell,$,black,Good - Refurbished,135.0
+1573,I1573,lenovo,$,black,Used,299.0
+1574,I1574,dell,$,black,Used,363.0
+1575,I1575,dell,$,black,Used,200.0
+1576,I1576,dell,$,other,Used,140.0
+1577,I1577,dell,$,black,Good - Refurbished,297.0
+1578,I1578,lenovo,$,black,Very Good - Refurbished,282.0
+1579,I1579,lenovo,$,black,Good - Refurbished,225.0
+1580,I1580,hp,$,other,New,800.0
+1581,I1581,dell,$,black,Used,245.0
+1582,I1582,lenovo,$,black,Very Good - Refurbished,585.0
+1583,I1583,dell,$,other,Very Good - Refurbished,170.0
+1584,I1584,hp,$,other,Used,494.2
+1585,I1585,dell,$,black,Used,400.0
+1586,I1586,hp,$,silver,New,439.0
+1587,I1587,dell,$,black,Undefined,479.0
+1588,I1588,dell,$,black,Used,33.94
+1589,I1589,other,$,black,Used,250.0
+1590,I1590,dell,$,silver,Used,388.0
+1591,I1591,dell,$,other,New,410.0
+1592,I1592,other,$,white,Undefined,499.0
+1593,I1593,other,$,gray,New,300.0
+1594,I1594,hp,$,multicolor,Used,85.0
+1595,I1595,other,$,other,Used,461.2
+1596,I1596,hp,$,white,Used,110.94
+1597,I1597,dell,$,other,Used,56.0
+1598,I1598,hp,$,silver,Used,135.0
+1599,I1599,dell,$,other,Used,464.5
+1600,I1600,other,$,other,Excellent - Refurbished,195.6
+1601,I1601,lenovo,$,black,Used,170.0
+1602,I1602,other,$,other,Used,290.0
+1603,I1603,hp,$,other,Used,395.0
+1604,I1604,hp,$,gray,Used,49.94
+1605,I1605,other,$,other,For parts or not working,84.5
+1606,I1606,dell,$,black,New,930.0
+1607,I1607,dell,$,black,Very Good - Refurbished,171.0
+1608,I1608,lenovo,$,black,Used,35.0
+1609,I1609,hp,$,black,Certified - Refurbished,949.5
+1610,I1610,dell,$,other,Excellent - Refurbished,330.0
+1611,I1611,microsoft,$,black,Very Good - Refurbished,900.0
+1612,I1612,dell,$,black,Used,329.5
+1613,I1613,samsung,$,silver,Undefined,159.0
+1614,I1614,other,$,other,New,5.55
+1615,I1615,hp,$,silver,New,330.0
+1616,I1616,other,$,other,For parts or not working,32.53
+1617,I1617,dell,$,black,Used,225.0
+1618,I1618,lenovo,$,black,Used,200.0
+1619,I1619,lenovo,$,gray,Open box,616.5
+1620,I1620,other,$,gray,New,324.0
+1621,I1621,other,$,other,Used,162.0
+1622,I1622,lenovo,$,black,Used,154.0
+1623,I1623,hp,$,silver,Undefined,380.0
+1624,I1624,dell,$,multicolor,Used,80.0
+1625,I1625,dell,$,silver,Used,800.0
+1626,I1626,hp,$,silver,Undefined,170.0
+1627,I1627,dell,$,other,Used,245.0
+1628,I1628,lenovo,$,other,Used,39.94
+1629,I1629,hp,$,black,Used,58.0
+1630,I1630,lenovo,$,gray,Undefined,780.0
+1631,I1631,lenovo,$,black,Used,400.0
+1632,I1632,hp,$,black,Used,35.0
+1633,I1633,dell,$,black,Used,300.0
+1634,I1634,hp,$,silver,Undefined,139.0
+1635,I1635,dell,$,other,Excellent - Refurbished,400.0
+1636,I1636,hp,$,other,Very Good - Refurbished,239.5
+1637,I1637,other,$,other,Used,169.0
+1638,I1638,dell,$,black,Used,189.0
+1639,I1639,dell,$,black,Very Good - Refurbished,358.0
+1640,I1640,dell,$,black,Very Good - Refurbished,290.0
+1641,I1641,dell,$,black,Very Good - Refurbished,326.0
+1642,I1642,lenovo,$,other,Excellent - Refurbished,200.0
+1643,I1643,lenovo,$,blue,New,289.0
+1644,I1644,lenovo,$,black,Excellent - Refurbished,280.0
+1645,I1645,hp,$,silver,For parts or not working,180.0
+1646,I1646,dell,$,black,Used,49.5
+1647,I1647,dell,$,black,Very Good - Refurbished,325.0
+1648,I1648,microsoft,$,other,Undefined,388.8
+1649,I1649,lenovo,$,blue,Open box,594.5
+1650,I1650,dell,$,black,Very Good - Refurbished,325.0
+1651,I1651,other,$,gray,New,160.0
+1652,I1652,dell,$,black,Used,130.0
+1653,I1653,dell,$,black,Used,185.0
+1654,I1654,lenovo,$,black,Used,199.0
+1655,I1655,dell,$,silver,Certified - Refurbished,729.0
+1656,I1656,lenovo,$,black,Undefined,160.0
+1657,I1657,microsoft,$,silver,Undefined,230.0
+1658,I1658,lenovo,$,other,Good - Refurbished,62.5
+1659,I1659,dell,$,black,Very Good - Refurbished,325.0
+1660,I1660,lenovo,$,black,Used,48.0
+1661,I1661,hp,$,silver,Undefined,550.0
+1662,I1662,lenovo,$,other,Very Good - Refurbished,151.1
+1663,I1663,lenovo,$,black,For parts or not working,230.0
+1664,I1664,other,$,other,Used,151.8
+1665,I1665,hp,$,gray,Used,150.0
+1666,I1666,dell,$,black,Used,225.0
+1667,I1667,other,$,gray,New,202.5
+1668,I1668,hp,$,other,Used,62.0
+1669,I1669,dell,$,silver,Undefined,700.0
+1670,I1670,other,$,other,Used,230.0
+1671,I1671,lenovo,$,gray,Undefined,900.0
+1672,I1672,acer,$,silver,Undefined,53.0
+1673,I1673,other,$,other,Used,177.1
+1674,I1674,hp,$,other,For parts or not working,200.0
+1675,I1675,dell,$,black,Very Good - Refurbished,430.0
+1676,I1676,hp,$,other,Good - Refurbished,75.0
+1677,I1677,microsoft,$,other,Used,90.0
+1678,I1678,dell,$,other,Used,599.0
+1679,I1679,other,$,other,Undefined,525.0
+1680,I1680,asus,$,blue,Undefined,495.0
+1681,I1681,lenovo,$,black,Used,100.0
+1682,I1682,acer,$,black,Undefined,650.0
+1683,I1683,hp,$,silver,Very Good - Refurbished,365.0
+1684,I1684,dell,$,black,Very Good - Refurbished,455.0
+1685,I1685,dell,$,other,Very Good - Refurbished,210.5
+1686,I1686,microsoft,$,other,Used,400.0
+1687,I1687,other,$,black,New,362.5
+1688,I1688,dell,$,other,For parts or not working,36.88
+1689,I1689,dell,$,silver,Good - Refurbished,749.0
+1690,I1690,dell,$,black,Used,200.0
+1691,I1691,asus,$,other,Used,254.0
+1692,I1692,samsung,$,multicolor,Undefined,90.0
+1693,I1693,other,$,other,New,169.0
+1694,I1694,dell,$,gray,Used,40.0
+1695,I1695,other,$,other,Used,151.1
+1696,I1696,lenovo,$,black,Used,209.0
+1697,I1697,dell,$,silver,Used,124.9
+1698,I1698,dell,$,other,Good - Refurbished,89.9
+1699,I1699,lenovo,$,other,Used,219.0
+1700,I1700,other,$,other,Undefined,216.4
+1701,I1701,lenovo,$,gray,Undefined,700.0
+1702,I1702,samsung,$,silver,Used,28.16
+1703,I1703,hp,$,silver,New,699.0
+1704,I1704,other,$,other,Used,760.0
+1705,I1705,other,$,silver,Used,349.0
+1706,I1706,samsung,$,silver,Open box,264.0
+1707,I1707,lenovo,$,gray,Used,335.0
+1708,I1708,lenovo,$,black,New,379.0
+1709,I1709,other,$,other,Used,170.5
+1710,I1710,hp,$,silver,Used,135.0
+1711,I1711,lenovo,$,gray,Undefined,65.0
+1712,I1712,hp,$,silver,New,736.0
+1713,I1713,other,$,other,Used,685.0
+1714,I1714,other,$,other,For parts or not working,10.49
+1715,I1715,other,$,blue,Used,333.2
+1716,I1716,other,$,black,Used,250.0
+1717,I1717,dell,$,other,Excellent - Refurbished,689.0
+1718,I1718,hp,$,silver,Open box,350.0
+1719,I1719,dell,$,other,Used,120.9
+1720,I1720,lenovo,$,black,Used,149.0
+1721,I1721,hp,$,gray,Used,39.0
+1722,I1722,lenovo,$,black,Used,98.0
+1723,I1723,other,$,gray,New,193.0
+1724,I1724,other,$,other,Used,200.0
+1725,I1725,hp,$,silver,Used,645.0
+1726,I1726,dell,$,black,Used,440.0
+1727,I1727,microsoft,$,silver,Open box,563.0
+1728,I1728,lenovo,$,blue,Used,150.0
+1729,I1729,lenovo,$,other,Very Good - Refurbished,160.0
+1730,I1730,lenovo,$,gray,Undefined,259.0
+1731,I1731,other,$,silver,New,695.0
+1732,I1732,hp,$,other,Used,170.0
+1733,I1733,hp,$,silver,Good - Refurbished,265.5
+1734,I1734,lenovo,$,black,Used,249.0
+1735,I1735,lenovo,$,other,Excellent - Refurbished,380.0
+1736,I1736,other,$,green,Used,350.0
+1737,I1737,hp,$,other,Used,908.5
+1738,I1738,dell,$,black,Undefined,329.0
+1739,I1739,dell,$,black,Very Good - Refurbished,200.0
+1740,I1740,asus,$,blue,Open box,159.0
+1741,I1741,lenovo,$,blue,Undefined,220.0
+1742,I1742,dell,$,other,Used,75.0
+1743,I1743,dell,$,gray,Undefined,599.0
+1744,I1744,microsoft,$,brown,Undefined,529.0
+1745,I1745,asus,$,other,For parts or not working,275.0
+1746,I1746,dell,$,other,Excellent - Refurbished,679.0
+1747,I1747,dell,$,gray,Used,140.0
+1748,I1748,hp,$,silver,Very Good - Refurbished,495.0
+1749,I1749,dell,$,black,Undefined,110.0
+1750,I1750,lenovo,$,black,Undefined,45.0
+1751,I1751,hp,$,green,Certified - Refurbished,389.5
+1752,I1752,other,$,black,Used,893.0
+1753,I1753,microsoft,$,silver,Undefined,680.0
+1754,I1754,lenovo,$,blue,Open box,129.0
+1755,I1755,lenovo,$,other,Used,234.9
+1756,I1756,dell,$,other,Used,99.94
+1757,I1757,other,$,other,Used,100.0
+1758,I1758,dell,$,black,Used,265.0
+1759,I1759,lenovo,$,grey,New,330.0
+1760,I1760,lenovo,$,other,Used,164.2
+1761,I1761,lenovo,$,gray,Very Good - Refurbished,79.0
+1762,I1762,lenovo,$,other,Used,99.0
+1763,I1763,other,$,black,New,3900.0
+1764,I1764,lenovo,$,other,Used,229.0
+1765,I1765,lenovo,$,other,Very Good - Refurbished,197.2
+1766,I1766,other,$,other,Very Good - Refurbished,263.2
+1767,I1767,other,$,other,Good - Refurbished,113.9
+1768,I1768,lenovo,$,other,Very Good - Refurbished,160.0
+1769,I1769,other,$,other,Used,348.0
+1770,I1770,other,$,other,Very Good - Refurbished,130.5
+1771,I1771,other,$,other,Undefined,598.0
+1772,I1772,hp,$,other,Used,303.8
+1773,I1773,other,$,gray,New,400.0
+1774,I1774,other,$,other,Undefined,310.0
+1775,I1775,other,$,other,Used,119.6
+1776,I1776,other,$,silver,Used,130.0
+1777,I1777,other,$,other,Used,160.2
+1778,I1778,hp,$,gray,Used,130.0
+1779,I1779,other,$,other,Used,170.9
+1780,I1780,other,$,other,Used,94.94
+1781,I1781,other,$,other,Used,56.94
+1782,I1782,dell,$,other,New,599.0
+1783,I1783,lenovo,$,black,Used,80.0
+1784,I1784,hp,$,black,Used,1200.0
+1785,I1785,samsung,$,red,Used,350.0
+1786,I1786,dell,$,black,New,339.0
+1787,I1787,microsoft,$,silver,Used,175.0
+1788,I1788,dell,$,blue,Undefined,875.0
+1789,I1789,dell,$,black,Used,360.0
+1790,I1790,dell,$,other,For parts or not working,29.0
+1791,I1791,acer,$,other,Used,103.3
+1792,I1792,acer,$,silver,New,240.0
+1793,I1793,dell,$,other,New,2088.0
+1794,I1794,dell,$,black,Used,139.0
+1795,I1795,hp,$,gold,New,559.0
+1796,I1796,hp,$,gray,Good - Refurbished,380.0
+1797,I1797,lenovo,$,silver,Used,50.0
+1798,I1798,acer,$,other,Used,105.06
+1799,I1799,lenovo,$,black,Used,175.0
+1800,I1800,dell,$,black,Used,200.0
+1801,I1801,other,$,other,Undefined,75.75
+1802,I1802,hp,$,silver,Used,285.0
+1803,I1803,microsoft,$,black,Used,520.0
+1804,I1804,acer,$,other,Used,79.1
+1805,I1805,dell,$,other,Very Good - Refurbished,230.2
+1806,I1806,lenovo,$,black,Used,239.0
+1807,I1807,hp,$,silver,Used,153.0
+1808,I1808,dell,$,black,Used,140.0
+1809,I1809,dell,$,black,Used,160.0
+1810,I1810,lenovo,$,other,Good - Refurbished,198.0
+1811,I1811,hp,$,other,Open box,500.0
+1812,I1812,dell,$,other,Used,200.0
+1813,I1813,dell,$,black,For parts or not working,70.0
+1814,I1814,hp,$,silver,New,599.0
+1815,I1815,dell,$,black,Used,200.0
+1816,I1816,dell,$,silver,Excellent - Refurbished,1800.0
+1817,I1817,dell,$,other,Used,50.0
+1818,I1818,hp,$,blue,Undefined,180.0
+1819,I1819,other,$,other,New,119.0
+1820,I1820,lenovo,$,gray,Undefined,199.9
+1821,I1821,other,$,other,Very Good - Refurbished,916.0
+1822,I1822,dell,$,other,Used,49.0
+1823,I1823,lenovo,$,black,Undefined,1010.0
+1824,I1824,microsoft,$,silver,Undefined,119.94
+1825,I1825,other,$,other,Used,760.0
+1826,I1826,lenovo,$,black,For parts or not working,169.9
+1827,I1827,lenovo,$,black,Very Good - Refurbished,199.0
+1828,I1828,hp,$,silver,New,360.0
+1829,I1829,hp,$,other,Used,199.0
+1830,I1830,dell,$,black,Very Good - Refurbished,362.0
+1831,I1831,other,$,other,Used,544.0
+1832,I1832,lenovo,$,black,Used,149.0
+1833,I1833,lenovo,$,black,Undefined,140.0
+1834,I1834,asus,$,black,Used,380.0
+1835,I1835,hp,$,gray,Used,39.0
+1836,I1836,dell,$,black,Very Good - Refurbished,205.0
+1837,I1837,hp,$,other,Used,170.0
+1838,I1838,dell,$,silver,New,825.0
+1839,I1839,dell,$,black,Used,449.0
+1840,I1840,hp,$,silver,Very Good - Refurbished,198.0
+1841,I1841,dell,$,black,Good - Refurbished,135.0
+1842,I1842,hp,$,silver,Good - Refurbished,265.5
+1843,I1843,lenovo,$,black,Used,299.0
+1844,I1844,dell,$,black,Good - Refurbished,297.0
+1845,I1845,dell,$,black,Used,363.0
+1846,I1846,other,$,other,For parts or not working,50.0
+1847,I1847,lenovo,$,black,Very Good - Refurbished,585.0
+1848,I1848,dell,$,black,Used,150.0
+1849,I1849,hp,$,black,Excellent - Refurbished,350.0
+1850,I1850,hp,$,silver,Used,199.0
+1851,I1851,lenovo,$,other,Good - Refurbished,184.5
+1852,I1852,dell,$,black,Used,45.0
+1853,I1853,hp,$,silver,Undefined,680.0
+1854,I1854,other,$,multicolor,Used,50.0
+1855,I1855,lenovo,$,gray,Undefined,450.0
+1856,I1856,other,$,other,Used,326.2
+1857,I1857,acer,$,other,Used,89.94
+1858,I1858,dell,$,other,Used,137.0
+1859,I1859,lenovo,$,gray,Undefined,280.0
+1860,I1860,other,$,other,Used,208.8
+1861,I1861,dell,$,silver,Used,175.0
+1862,I1862,lenovo,$,black,Used,42.0
+1863,I1863,lenovo,$,silver,Used,123.0
+1864,I1864,dell,$,other,Used,100.0
+1865,I1865,dell,$,silver,Used,135.0
+1866,I1866,hp,$,white,Undefined,88.0
+1867,I1867,dell,$,other,New,160.0
+1868,I1868,dell,$,black,Used,68.0
+1869,I1869,hp,$,silver,Undefined,355.0
+1870,I1870,dell,$,black,New,999.0
+1871,I1871,lenovo,$,other,New,300.0
+1872,I1872,dell,$,black,For parts or not working,29.98
+1873,I1873,other,$,other,Used,380.8
+1874,I1874,other,$,other,Undefined,165.0
+1875,I1875,lenovo,$,gray,Undefined,535.0
+1876,I1876,lenovo,$,other,Used,24.98
+1877,I1877,hp,$,black,Used,50.0
+1878,I1878,lenovo,$,gray,Used,600.0
+1879,I1879,dell,$,black,Open box,980.0
+1880,I1880,lenovo,$,black,Used,180.0
+1881,I1881,hp,$,silver,Used,40.0
+1882,I1882,other,$,other,New,199.0
+1883,I1883,hp,$,silver,Used,199.9
+1884,I1884,other,$,black,Excellent - Refurbished,350.0
+1885,I1885,other,$,black,Undefined,550.0
+1886,I1886,lenovo,$,black,Good - Refurbished,69.0
+1887,I1887,dell,$,other,Used,250.0
+1888,I1888,dell,$,other,Used,169.0
+1889,I1889,lenovo,$,black,Used,100.0
+1890,I1890,hp,$,silver,Certified - Refurbished,629.5
+1891,I1891,dell,$,grey,Very Good - Refurbished,200.0
+1892,I1892,hp,$,black,Used,147.0
+1893,I1893,lenovo,$,other,Used,164.2
+1894,I1894,lenovo,$,black,Used,844.0
+1895,I1895,dell,$,black,Used,170.0
+1896,I1896,other,$,other,Used,135.0
+1897,I1897,hp,$,other,Used,580.0
+1898,I1898,lenovo,$,gray,Certified - Refurbished,200.0
+1899,I1899,hp,$,silver,Open box,377.5
+1900,I1900,dell,$,silver,Used,135.0
+1901,I1901,lenovo,$,black,Undefined,260.0
+1902,I1902,dell,$,gray,Used,237.5
+1903,I1903,other,$,other,Used,216.4
+1904,I1904,other,$,other,Used,221.8
+1905,I1905,lenovo,$,black,Used,176.0
+1906,I1906,other,$,silver,New,835.0
+1907,I1907,dell,$,black,Used,175.0
+1908,I1908,acer,$,other,Used,200.0
+1909,I1909,hp,$,blue,Undefined,15.88
+1910,I1910,dell,$,other,Used,263.2
+1911,I1911,microsoft,$,other,Used,478.5
+1912,I1912,acer,$,black,Used,55.0
+1913,I1913,acer,$,gray,Undefined,230.0
+1914,I1914,dell,$,gray,Excellent - Refurbished,800.0
+1915,I1915,lenovo,$,other,Used,176.0
+1916,I1916,dell,$,black,Undefined,75.0
+1917,I1917,dell,$,other,Used,140.0
+1918,I1918,other,$,other,For parts or not working,147.6
+1919,I1919,dell,$,other,Used,200.0
+1920,I1920,hp,$,silver,New,398.0
+1921,I1921,other,$,other,Very Good - Refurbished,164.2
+1922,I1922,lenovo,$,black,Used,50.0
+1923,I1923,lenovo,$,black,Used,145.0
+1924,I1924,asus,$,black,Used,172.0
+1925,I1925,lenovo,$,black,Used,190.0
+1926,I1926,lenovo,$,black,Excellent - Refurbished,66.5
+1927,I1927,hp,$,black,Excellent - Refurbished,950.0
+1928,I1928,hp,$,silver,Used,400.0
+1929,I1929,lenovo,$,black,Used,180.0
+1930,I1930,dell,$,other,Used,130.0
+1931,I1931,hp,$,silver,Used,300.0
+1932,I1932,hp,$,silver,Used,140.0
+1933,I1933,samsung,$,other,New,170.0
+1934,I1934,asus,$,other,Used,250.0
+1935,I1935,dell,$,other,Used,300.0
+1936,I1936,dell,$,black,Very Good - Refurbished,279.0
+1937,I1937,dell,$,other,Used,421.0
+1938,I1938,dell,$,silver,Used,475.0
+1939,I1939,lenovo,$,black,Used,58.0
+1940,I1940,hp,$,other,Very Good - Refurbished,276.5
+1941,I1941,lenovo,$,black,Used,39.94
+1942,I1942,dell,$,black,Used,155.0
+1943,I1943,other,$,other,Used,411.2
+1944,I1944,microsoft,$,other,Certified - Refurbished,469.0
+1945,I1945,hp,$,gray,New,650.0
+1946,I1946,other,$,other,Good - Refurbished,170.0
+1947,I1947,hp,$,white,Used,45.0
+1948,I1948,lenovo,$,black,Very Good - Refurbished,360.0
+1949,I1949,hp,$,silver,Used,250.0
+1950,I1950,other,$,black,Undefined,270.0
+1951,I1951,dell,$,black,Used,279.0
+1952,I1952,other,$,silver,New,198.0
+1953,I1953,asus,$,grey,New,200.0
+1954,I1954,lenovo,$,black,Used,51.0
+1955,I1955,dell,$,black,Excellent - Refurbished,1450.0
+1956,I1956,dell,$,other,Very Good - Refurbished,280.0
+1957,I1957,hp,$,yellow,Used,129.8
+1958,I1958,dell,$,orange,Used,159.8
+1959,I1959,hp,$,silver,New,330.0
+1960,I1960,lenovo,$,other,Open box,580.0
+1961,I1961,dell,$,other,New,168.6
+1962,I1962,dell,$,silver,Undefined,319.0
+1963,I1963,hp,$,silver,Excellent - Refurbished,570.0
+1964,I1964,dell,$,black,Used,41.0
+1965,I1965,dell,$,black,Used,141.0
+1966,I1966,dell,$,silver,New,960.0
+1967,I1967,hp,$,gray,Used,35.94
+1968,I1968,dell,$,black,Used,180.0
+1969,I1969,dell,$,other,Used,149.0
+1970,I1970,lenovo,$,black,Used,114.94
+1971,I1971,dell,$,other,Used,320.0
+1972,I1972,dell,$,other,Good - Refurbished,252.0
+1973,I1973,dell,$,other,Used,369.0
+1974,I1974,lenovo,$,other,Used,219.0
+1975,I1975,dell,$,black,For parts or not working,230.0
+1976,I1976,dell,$,gray,Good - Refurbished,220.0
+1977,I1977,lenovo,$,black,Very Good - Refurbished,370.0
+1978,I1978,dell,$,silver,Undefined,929.0
+1979,I1979,lenovo,$,other,Used,419.0
+1980,I1980,dell,$,black,Used,450.0
+1981,I1981,dell,$,other,Used,180.5
+1982,I1982,other,$,other,Used,467.8
+1983,I1983,lenovo,$,black,Used,200.0
+1984,I1984,lenovo,$,black,Used,130.0
+1985,I1985,lenovo,$,black,Undefined,300.0
+1986,I1986,microsoft,$,silver,Used,148.0
+1987,I1987,hp,$,black,Undefined,70.0
+1988,I1988,lenovo,$,black,Very Good - Refurbished,299.0
+1989,I1989,dell,$,black,Undefined,65.0
+1990,I1990,lenovo,$,multicolor,For parts or not working,87.0
+1991,I1991,lenovo,$,other,Used,82.44
+1992,I1992,other,$,other,Used,216.0
+1993,I1993,hp,$,gray,Used,99.94
+1994,I1994,lenovo,$,other,Good - Refurbished,184.5
+1995,I1995,lenovo,$,black,Used,225.0
+1996,I1996,lenovo,$,black,Undefined,37.0
+1997,I1997,dell,$,black,Used,290.0
+1998,I1998,other,$,other,New,438.0
+1999,I1999,samsung,$,gray,Undefined,400.0
+2000,I2000,dell,$,black,Used,170.9
+2001,I2001,hp,$,black,Used,250.0
+2002,I2002,lenovo,$,brown,Used,139.0
+2003,I2003,hp,$,black,Used,70.0
+2004,I2004,other,$,black,Undefined,540.0
+2005,I2005,hp,$,red,Undefined,170.0
+2006,I2006,lenovo,$,other,Used,189.0
+2007,I2007,dell,$,black,Undefined,100.0
+2008,I2008,lenovo,$,black,Used,55.0
+2009,I2009,hp,$,silver,Used,120.0
+2010,I2010,dell,$,silver,Used,89.0
+2011,I2011,lenovo,$,black,Used,204.0
+2012,I2012,other,$,silver,Used,253.1
+2013,I2013,other,$,gray,New,200.0
+2014,I2014,dell,$,black,Used,180.0
+2015,I2015,asus,$,blue,Undefined,520.0
+2016,I2016,acer,$,black,Very Good - Refurbished,60.0
+2017,I2017,acer,$,black,Undefined,60.0
+2018,I2018,dell,$,black,Undefined,159.0
+2019,I2019,samsung,$,silver,Undefined,89.94
+2020,I2020,dell,$,other,Used,118.0
+2021,I2021,hp,$,silver,Very Good - Refurbished,180.0
+2022,I2022,dell,$,black,Very Good - Refurbished,310.0
+2023,I2023,other,$,other,Used,126.0
+2024,I2024,lenovo,$,other,Undefined,727.5
+2025,I2025,other,$,other,Used,258.0
+2026,I2026,lg,$,gray,Undefined,649.0
+2027,I2027,hp,$,brown,Used,55.0
+2028,I2028,lenovo,$,black,Used,230.0
+2029,I2029,lenovo,$,black,Excellent - Refurbished,740.0
+2030,I2030,dell,$,other,Used,599.0
+2031,I2031,lenovo,$,black,Excellent - Refurbished,280.0
+2032,I2032,lenovo,$,gray,Undefined,655.0
+2033,I2033,other,$,gray,New,187.9
+2034,I2034,dell,$,other,Good - Refurbished,199.0
+2035,I2035,dell,$,multicolor,Good - Refurbished,95.0
+2036,I2036,dell,$,black,Used,150.0
+2037,I2037,hp,$,silver,New,370.0
+2038,I2038,dell,$,black,Used,80.0
+2039,I2039,lenovo,$,other,New,250.2
+2040,I2040,other,$,other,Used,177.1
+2041,I2041,acer,$,silver,New,399.0
+2042,I2042,hp,$,black,Used,59.94
+2043,I2043,hp,$,silver,Very Good - Refurbished,599.0
+2044,I2044,microsoft,$,platinum,Undefined,355.0
+2045,I2045,dell,$,black,Used,150.0
+2046,I2046,dell,$,black,Used,199.0
+2047,I2047,acer,$,black,Excellent - Refurbished,80.0
+2048,I2048,dell,$,black,Very Good - Refurbished,369.0
+2049,I2049,other,$,silver,Very Good - Refurbished,495.0
+2050,I2050,hp,$,black,Used,56.0
+2051,I2051,dell,$,gray,Used,284.0
+2052,I2052,hp,$,black,Used,120.0
+2053,I2053,dell,$,other,Very Good - Refurbished,280.0
+2054,I2054,lenovo,$,black,Used,105.0
+2055,I2055,other,$,multicolor,Used,380.0
+2056,I2056,dell,$,black,New,750.0
+2057,I2057,other,$,silver,New,300.0
+2058,I2058,samsung,$,silver,Used,50.0
+2059,I2059,dell,$,black,Undefined,98.0
+2060,I2060,other,$,other,Used,100.0
+2061,I2061,lenovo,$,other,Very Good - Refurbished,309.5
+2062,I2062,acer,$,black,Used,40.0
+2063,I2063,hp,$,black,Used,65.0
+2064,I2064,dell,$,black,Used,229.0
+2065,I2065,lenovo,$,black,Used,42.0
+2066,I2066,dell,$,black,Used,350.0
+2067,I2067,lenovo,$,other,New,660.0
+2068,I2068,dell,$,other,Very Good - Refurbished,368.0
+2069,I2069,other,$,other,Used,400.0
+2070,I2070,hp,$,other,Used,79.0
+2071,I2071,hp,$,black,Used,50.0
+2072,I2072,other,$,gray,Used,24.98
+2073,I2073,hp,$,gray,Used,200.0
+2074,I2074,dell,$,black,Undefined,230.0
+2075,I2075,lenovo,$,black,Open box,110.0
+2076,I2076,hp,$,other,Used,225.0
+2077,I2077,dell,$,black,Used,105.0
+2078,I2078,other,$,other,Used,80.0
+2079,I2079,acer,$,black,Used,35.0
+2080,I2080,dell,$,other,Used,170.9
+2081,I2081,hp,$,other,Used,48.47
+2082,I2082,lenovo,$,black,Used,85.0
+2083,I2083,samsung,$,black,Used,130.0
+2084,I2084,lenovo,$,other,Used,382.0
+2085,I2085,asus,$,blue,Undefined,349.0
+2086,I2086,hp,$,silver,Used,325.0
+2087,I2087,lenovo,$,black,Used,305.0
+2088,I2088,other,$,other,Open box,1414.0
+2089,I2089,dell,$,black,Used,103.4
+2090,I2090,lenovo,$,black,Used,299.0
+2091,I2091,lenovo,$,gray,Used,490.0
+2092,I2092,dell,$,gray,Used,234.5
+2093,I2093,dell,$,black,Used,480.0
+2094,I2094,other,$,other,Undefined,1413.0
+2095,I2095,lenovo,$,gray,Undefined,381.0
+2096,I2096,other,$,other,Used,139.5
+2097,I2097,acer,$,black,Used,72.0
+2098,I2098,dell,$,other,Used,307.2
+2099,I2099,dell,$,black,Used,300.0
+2100,I2100,other,$,other,For parts or not working,150.0
+2101,I2101,lenovo,$,black,Used,115.0
+2102,I2102,dell,$,black,Used,220.0
+2103,I2103,hp,$,silver,Undefined,281.0
+2104,I2104,dell,$,other,Used,307.2
+2105,I2105,lenovo,$,black,Used,51.0
+2106,I2106,hp,$,other,Used,89.0
+2107,I2107,acer,$,other,Used,199.0
+2108,I2108,dell,$,other,Used,129.0
+2109,I2109,dell,$,black,Used,56.0
+2110,I2110,other,$,other,Used,229.0
+2111,I2111,dell,$,black,Used,159.0
+2112,I2112,dell,$,black,Undefined,120.0
+2113,I2113,dell,$,other,Used,300.0
+2114,I2114,dell,$,other,Very Good - Refurbished,527.0
+2115,I2115,dell,$,gray,Used,549.0
+2116,I2116,hp,$,silver,Undefined,170.0
+2117,I2117,dell,$,black,Undefined,600.0
+2118,I2118,dell,$,black,Used,40.0
+2119,I2119,lenovo,$,other,Excellent - Refurbished,400.0
+2120,I2120,other,$,black,Used,276.2
+2121,I2121,hp,$,other,Used,107.56
+2122,I2122,other,$,silver,Used,300.0
+2123,I2123,microsoft,$,multicolor,Excellent - Refurbished,625.0
+2124,I2124,dell,$,silver,Used,469.0
+2125,I2125,dell,$,gray,Open box,229.6
+2126,I2126,asus,$,white,Used,27.98
+2127,I2127,lenovo,$,black,Used,155.0
+2128,I2128,dell,$,black,Used,160.0
+2129,I2129,dell,$,other,Used,80.0
+2130,I2130,dell,$,black,Used,280.0
+2131,I2131,dell,$,other,Used,260.0
+2132,I2132,dell,$,black,Undefined,399.0
+2133,I2133,microsoft,$,silver,Open box,799.0
+2134,I2134,asus,$,black,Used,90.0
+2135,I2135,acer,$,gray,Undefined,29.0
+2136,I2136,hp,$,black,Used,170.0
+2137,I2137,other,$,other,New,8.85
+2138,I2138,hp,$,black,Undefined,389.0
+2139,I2139,hp,$,other,Very Good - Refurbished,506.0
+2140,I2140,asus,$,black,Undefined,600.0
+2141,I2141,lenovo,$,black,Certified - Refurbished,320.5
+2142,I2142,other,$,other,New,11.38
+2143,I2143,acer,$,other,Used,199.0
+2144,I2144,dell,$,other,Used,286.8
+2145,I2145,lenovo,$,blue,Open box,550.0
+2146,I2146,samsung,$,silver,Used,99.0
+2147,I2147,dell,$,other,Used,125.0
+2148,I2148,other,$,other,For parts or not working,130.5
+2149,I2149,lenovo,$,other,Used,886.0
+2150,I2150,other,$,other,Used,173.0
+2151,I2151,lg,$,other,Used,675.0
+2152,I2152,dell,$,black,Used,90.0
+2153,I2153,dell,$,other,Very Good - Refurbished,126.5
+2154,I2154,other,$,other,Used,75.94
+2155,I2155,acer,$,black,Used,430.0
+2156,I2156,other,$,black,Used,650.0
+2157,I2157,lenovo,$,other,Used,126.56
+2158,I2158,hp,$,other,Used,283.8
+2159,I2159,lenovo,$,other,Certified - Refurbished,362.2
+2160,I2160,other,$,other,Used,50.62
+2161,I2161,other,$,black,Undefined,739.0
+2162,I2162,hp,$,other,Used,443.0
+2163,I2163,other,$,other,Used,34.8
+2164,I2164,acer,$,other,Used,506.2
+2165,I2165,other,$,other,Open box,519.5
+2166,I2166,lenovo,$,other,Excellent - Refurbished,400.0
+2167,I2167,lenovo,$,other,Undefined,151.8
+2168,I2168,hp,$,other,Used,239.1
+2169,I2169,other,$,other,Open box,1115.0
+2170,I2170,other,$,other,Used,54.38
+2171,I2171,other,$,other,Used,129.4
+2172,I2172,other,$,other,New,326.2
+2173,I2173,dell,$,other,Good - Refurbished,442.8
+2174,I2174,other,$,other,Very Good - Refurbished,872.0
+2175,I2175,dell,$,other,Used,300.2
+2176,I2176,lenovo,$,other,Used,246.8
+2177,I2177,dell,$,black,Used,20.0
+2178,I2178,dell,$,other,Used,340.0
+2179,I2179,samsung,$,black,Used,49.0
+2180,I2180,other,$,other,Used,163.1
+2181,I2181,other,$,other,New,456.8
+2182,I2182,other,$,silver,New,1035.0
+2183,I2183,dell,$,other,Used,300.0
+2184,I2184,dell,$,other,Used,258.5
+2185,I2185,other,$,other,Good - Refurbished,151.9
+2186,I2186,acer,$,gray,Used,54.0
+2187,I2187,other,$,other,Used,223.2
+2188,I2188,other,$,other,New,1087.0
+2189,I2189,asus,$,silver,For parts or not working,31.0
+2190,I2190,other,$,other,Used,108.75
+2191,I2191,other,$,silver,New,159.0
+2192,I2192,hp,$,other,Used,355.8
+2193,I2193,other,$,other,Used,187.2
+2194,I2194,hp,$,black,Used,8.99
+2195,I2195,other,$,other,Undefined,163.1
+2196,I2196,other,$,other,New,40.0
+2197,I2197,dell,$,other,Used,376.0
+2198,I2198,dell,$,gray,Open box,750.0
+2199,I2199,other,$,other,Used,130.5
+2200,I2200,acer,$,other,Used,49.5
+2201,I2201,other,$,other,Used,188.5
+2202,I2202,asus,$,other,New,3668.0
+2203,I2203,other,$,other,Certified - Refurbished,214.2
+2204,I2204,hp,$,other,Used,94.94
+2205,I2205,dell,$,other,Used,318.2
+2206,I2206,other,$,other,Used,761.5
+2207,I2207,other,$,other,Open box,934.0
+2208,I2208,hp,$,other,Used,593.5
+2209,I2209,hp,$,other,For parts or not working,227.8
+2210,I2210,acer,$,other,Used,63.25
+2211,I2211,other,$,other,Good - Refurbished,113.9
+2212,I2212,lenovo,$,other,Used,170.9
+2213,I2213,other,$,other,Used,443.0
+2214,I2214,lenovo,$,other,Used,67.5
+2215,I2215,dell,$,blue,Used,110.0
+2216,I2216,hp,$,purple,Used,50.0
+2217,I2217,dell,$,other,Used,109.94
+2218,I2218,dell,$,other,Used,150.0
+2219,I2219,hp,$,black,Used,114.94
+2220,I2220,lenovo,$,other,Used,139.2
+2221,I2221,lenovo,$,other,Used,50.0
+2222,I2222,dell,$,other,Used,99.0
+2223,I2223,asus,$,other,Used,229.0
+2224,I2224,dell,$,gray,Undefined,79.94
+2225,I2225,lenovo,$,gray,Used,179.5
+2226,I2226,dell,$,black,Used,44.97
+2227,I2227,lenovo,$,other,Very Good - Refurbished,400.0
+2228,I2228,hp,$,black,Open box,220.0
+2229,I2229,dell,$,other,Used,300.2
+2230,I2230,hp,$,other,New,300.0
+2231,I2231,lenovo,$,black,For parts or not working,45.0
+2232,I2232,dell,$,other,Used,150.0
+2233,I2233,acer,$,other,Used,280.0
+2234,I2234,microsoft,$,black,Undefined,599.0
+2235,I2235,dell,$,silver,Used,269.0
+2236,I2236,hp,$,silver,Undefined,300.0
+2237,I2237,lenovo,$,other,New,819.5
+2238,I2238,dell,$,other,Good - Refurbished,330.0
+2239,I2239,hp,$,other,Very Good - Refurbished,210.0
+2240,I2240,dell,$,black,Used,350.0
+2241,I2241,lenovo,$,black,Used,220.0
+2242,I2242,dell,$,black,Used,90.0
+2243,I2243,dell,$,gray,Used,248.5
+2244,I2244,hp,$,other,Used,727.0
+2245,I2245,hp,$,silver,Used,210.0
+2246,I2246,asus,$,blue,Undefined,806.0
+2247,I2247,lenovo,$,black,Excellent - Refurbished,699.0
+2248,I2248,hp,$,black,Used,99.0
+2249,I2249,dell,$,gray,Good - Refurbished,139.0
+2250,I2250,dell,$,black,Used,550.0
+2251,I2251,acer,$,black,Used,40.0
+2252,I2252,dell,$,black,For parts or not working,125.0
+2253,I2253,hp,$,gray,Used,140.0
+2254,I2254,lenovo,$,black,Used,45.0
+2255,I2255,samsung,$,silver,Excellent - Refurbished,119.5
+2256,I2256,dell,$,gray,Used,237.5
+2257,I2257,dell,$,other,Very Good - Refurbished,290.0
+2258,I2258,acer,$,other,Used,55.0
+2259,I2259,dell,$,black,Used,140.0
+2260,I2260,other,$,black,New,2340.0
+2261,I2261,dell,$,orange,Used,159.8
+2262,I2262,acer,$,silver,Undefined,249.9
+2263,I2263,other,$,other,Used,221.5
+2264,I2264,hp,$,black,Used,199.0
+2265,I2265,lenovo,$,blue,Open box,570.0
+2266,I2266,dell,$,other,Used,347.8
+2267,I2267,dell,$,other,Used,167.0
+2268,I2268,samsung,$,black,Used,38.0
+2269,I2269,asus,$,black,Undefined,1617.0
+2270,I2270,dell,$,black,Used,107.94
+2271,I2271,hp,$,black,Used,54.0
+2272,I2272,lenovo,$,other,Used,94.94
+2273,I2273,asus,$,gray,Used,295.0
+2274,I2274,other,$,other,New,205.6
+2275,I2275,hp,$,black,New,720.0
+2276,I2276,other,$,other,Used,400.0
+2277,I2277,dell,$,other,Used,190.0
+2278,I2278,other,$,black,Used,284.0
+2279,I2279,other,$,black,Used,40.0
+2280,I2280,lenovo,$,black,New,110.0
+2281,I2281,lenovo,$,black,Used,31.66
+2282,I2282,other,$,other,Used,348.0
+2283,I2283,microsoft,$,other,Used,24.98
+2284,I2284,hp,$,black,Undefined,650.0
+2285,I2285,dell,$,other,Used,368.8
+2286,I2286,dell,$,black,Undefined,90.0
+2287,I2287,other,$,other,Used,184.9
+2288,I2288,hp,$,other,Used,101.25
+2289,I2289,hp,$,silver,Very Good - Refurbished,300.0
+2290,I2290,asus,$,gray,Used,42.0
+2291,I2291,asus,$,gray,Undefined,25.0
+2292,I2292,microsoft,$,black,Undefined,739.0
+2293,I2293,hp,$,other,New,380.0
+2294,I2294,lenovo,$,black,Used,95.0
+2295,I2295,other,$,other,For parts or not working,95.7
+2296,I2296,other,$,other,Used,69.6
+2297,I2297,lenovo,$,gray,Certified - Refurbished,630.0
+2298,I2298,dell,$,black,Undefined,150.0
+2299,I2299,dell,$,black,Used,85.0
+2300,I2300,hp,$,blue,Very Good - Refurbished,699.5
+2301,I2301,dell,$,other,Used,87.0
+2302,I2302,lenovo,$,gray,Undefined,600.0
+2303,I2303,lenovo,$,black,Undefined,84.94
+2304,I2304,other,$,other,New,250.0
+2305,I2305,asus,$,other,Undefined,50.0
+2306,I2306,hp,$,blue,Open box,454.2
+2307,I2307,dell,$,silver,Very Good - Refurbished,489.0
+2308,I2308,dell,$,other,Used,291.0
+2309,I2309,dell,$,other,Used,370.8
+2310,I2310,other,$,black,Undefined,19.95
+2311,I2311,hp,$,black,Used,27.98
+2312,I2312,lenovo,$,black,Used,225.0
+2313,I2313,dell,$,other,Excellent - Refurbished,679.0
+2314,I2314,lenovo,$,other,Undefined,1012.5
+2315,I2315,lenovo,$,black,Used,150.0
+2316,I2316,asus,$,other,For parts or not working,600.0
+2317,I2317,asus,$,silver,Used,60.0
+2318,I2318,hp,$,other,Used,100.0
+2319,I2319,dell,$,black,Good - Refurbished,144.9
+2320,I2320,dell,$,black,Used,375.0
+2321,I2321,dell,$,black,Used,120.0
+2322,I2322,dell,$,black,Undefined,35.0
+2323,I2323,other,$,black,For parts or not working,147.0
+2324,I2324,lenovo,$,black,Used,65.0
+2325,I2325,dell,$,other,Used,99.94
+2326,I2326,dell,$,other,Used,313.5
+2327,I2327,dell,$,other,Used,302.8
+2328,I2328,dell,$,other,Used,375.0
+2329,I2329,acer,$,silver,Undefined,69.94
+2330,I2330,asus,$,other,Used,75.94
+2331,I2331,other,$,black,Used,400.0
+2332,I2332,other,$,other,Used,345.0
+2333,I2333,dell,$,other,Used,422.0
+2334,I2334,dell,$,black,Used,600.0
+2335,I2335,acer,$,other,Undefined,199.9
+2336,I2336,other,$,other,Open box,32.75
+2337,I2337,dell,$,other,Used,289.8
+2338,I2338,other,$,other,Used,284.2
+2339,I2339,dell,$,other,Very Good - Refurbished,420.0
+2340,I2340,dell,$,other,Undefined,100.0
+2341,I2341,dell,$,other,Used,327.8
+2342,I2342,other,$,black,Undefined,38.0
+2343,I2343,asus,$,pink,Undefined,172.8
+2344,I2344,dell,$,other,Used,345.0
+2345,I2345,lenovo,$,black,Used,188.0
+2346,I2346,hp,$,black,Used,100.0
+2347,I2347,dell,$,silver,Used,890.0
+2348,I2348,dell,$,black,Good - Refurbished,230.0
+2349,I2349,dell,$,black,Used,100.0
+2350,I2350,lenovo,$,black,Used,269.8
+2351,I2351,microsoft,$,silver,Used,225.5
+2352,I2352,other,$,other,Used,13.8
+2353,I2353,dell,$,other,Used,442.8
+2354,I2354,lenovo,$,other,Used,392.0
+2355,I2355,other,$,other,Undefined,289.8
+2356,I2356,lenovo,$,black,Open box,560.0
+2357,I2357,dell,$,other,Used,88.56
+2358,I2358,dell,$,bronze,Good - Refurbished,299.0
+2359,I2359,dell,$,white,Certified - Refurbished,749.0
+2360,I2360,dell,$,other,Used,249.0
+2361,I2361,dell,$,black,Used,157.5
+2362,I2362,other,$,other,New,173.0
+2363,I2363,other,$,other,Used,433.2
+2364,I2364,other,$,black,Undefined,700.0
+2365,I2365,lenovo,$,black,Undefined,911.0
+2366,I2366,dell,$,silver,Open box,799.0
+2367,I2367,acer,$,silver,Open box,273.0
+2368,I2368,lenovo,$,other,Used,350.0
+2369,I2369,lenovo,$,other,Undefined,160.0
+2370,I2370,dell,$,black,Used,90.0
+2371,I2371,samsung,$,silver,Open box,129.5
+2372,I2372,dell,$,other,Used,250.0
+2373,I2373,microsoft,$,other,Used,177.1
+2374,I2374,lenovo,$,black,Used,190.0
+2375,I2375,dell,$,black,Used,180.0
+2376,I2376,dell,$,black,Undefined,87.3
+2377,I2377,samsung,$,silver,Open box,247.0
+2378,I2378,dell,$,other,Used,80.0
+2379,I2379,lenovo,$,black,Used,90.0
+2380,I2380,hp,$,other,Used,48.0
+2381,I2381,dell,$,other,Very Good - Refurbished,220.0
+2382,I2382,hp,$,multicolor,Used,80.0
+2383,I2383,other,$,other,Used,258.0
+2384,I2384,dell,$,black,Undefined,32.94
+2385,I2385,lenovo,$,black,Used,23.0
+2386,I2386,hp,$,black,Undefined,29.0
+2387,I2387,hp,$,silver,New,370.0
+2388,I2388,hp,$,multicolor,Good - Refurbished,200.0
+2389,I2389,lenovo,$,other,Excellent - Refurbished,170.0
+2390,I2390,lenovo,$,black,Used,370.0
+2391,I2391,hp,$,silver,Excellent - Refurbished,300.0
+2392,I2392,hp,$,multicolor,Good - Refurbished,85.0
+2393,I2393,lenovo,$,multicolor,Good - Refurbished,75.0
+2394,I2394,microsoft,$,silver,Used,198.0
+2395,I2395,acer,$,black,Very Good - Refurbished,70.0
+2396,I2396,dell,$,other,Used,316.0
+2397,I2397,dell,$,other,Used,140.0
+2398,I2398,lg,$,black,Undefined,425.0
+2399,I2399,acer,$,gray,Good - Refurbished,50.0
+2400,I2400,lenovo,$,black,Used,150.0
+2401,I2401,microsoft,$,gray,Used,270.0
+2402,I2402,lg,$,black,Used,425.0
+2403,I2403,hp,$,black,Used,30.48
+2404,I2404,dell,$,silver,Used,440.0
+2405,I2405,lg,$,gray,Used,619.0
+2406,I2406,acer,$,silver,Used,60.0
+2407,I2407,lenovo,$,other,Used,393.2
+2408,I2408,dell,$,other,Used,327.8
+2409,I2409,dell,$,other,Used,279.5
+2410,I2410,lenovo,$,other,Used,200.0
+2411,I2411,samsung,$,black,Used,130.0
+2412,I2412,dell,$,black,Excellent - Refurbished,265.0
+2413,I2413,other,$,blue,Undefined,148.0
+2414,I2414,lenovo,$,black,Used,230.0
+2415,I2415,dell,$,other,Used,345.0
+2416,I2416,microsoft,$,black,Used,255.0
+2417,I2417,dell,$,other,Used,442.8
+2418,I2418,other,$,other,New,30.77
+2419,I2419,hp,$,multicolor,Used,490.0
+2420,I2420,asus,$,black,Used,780.5
+2421,I2421,lenovo,$,gray,Good - Refurbished,250.0
+2422,I2422,hp,$,other,Used,49.0
+2423,I2423,other,$,silver,Undefined,1295.0
+2424,I2424,dell,$,other,Used,312.0
+2425,I2425,acer,$,other,Used,126.56
+2426,I2426,hp,$,blue,Undefined,519.5
+2427,I2427,dell,$,blue,Very Good - Refurbished,349.0
+2428,I2428,hp,$,silver,Used,120.0
+2429,I2429,hp,$,white,Undefined,100.0
+2430,I2430,lg,$,white,Undefined,499.0
+2431,I2431,lenovo,$,other,Undefined,56.0
+2432,I2432,asus,$,other,Used,196.1
+2433,I2433,asus,$,other,For parts or not working,138.0
+2434,I2434,acer,$,black,Undefined,129.0
+2435,I2435,dell,$,black,Used,160.0
+2436,I2436,dell,$,other,Used,21.95
+2437,I2437,dell,$,silver,Used,199.0
+2438,I2438,hp,$,silver,Used,190.0
+2439,I2439,dell,$,blue,Undefined,200.0
+2440,I2440,dell,$,other,Used,324.0
+2441,I2441,microsoft,$,other,For parts or not working,75.0
+2442,I2442,other,$,other,Used,177.1
+2443,I2443,microsoft,$,black,Undefined,570.0
+2444,I2444,dell,$,black,Undefined,154.0
+2445,I2445,hp,$,other,Used,189.8
+2446,I2446,samsung,$,other,Used,63.25
+2447,I2447,dell,$,other,Used,292.2
+2448,I2448,other,$,black,Seller refurbished,332.8
+2449,I2449,lenovo,$,other,Used,391.0
+2450,I2450,lenovo,$,other,New,714.5
+2451,I2451,hp,$,other,Used,50.0
+2452,I2452,hp,$,silver,Certified - Refurbished,939.5
+2453,I2453,hp,$,black,For parts or not working,115.0
+2454,I2454,hp,$,other,Used,300.0
+2455,I2455,microsoft,$,silver,For parts or not working,60.0
+2456,I2456,lenovo,$,gray,Undefined,115.0
+2457,I2457,lenovo,$,silver,Used,300.0
+2458,I2458,dell,$,other,Used,279.5
+2459,I2459,other,$,other,Used,162.0
+2460,I2460,samsung,$,other,Used,46.0
+2461,I2461,dell,$,black,Used,119.0
+2462,I2462,hp,$,silver,Used,110.0
+2463,I2463,dell,$,other,Used,303.0
+2464,I2464,dell,$,black,Undefined,400.0
+2465,I2465,dell,$,gray,Open box,749.0
+2466,I2466,lenovo,$,black,Used,163.2
+2467,I2467,dell,$,black,Used,240.0
+2468,I2468,hp,$,other,Used,69.9
+2469,I2469,hp,$,gray,Certified - Refurbished,479.5
+2470,I2470,dell,$,black,Excellent - Refurbished,1900.0
+2471,I2471,lenovo,$,other,Used,393.2
+2472,I2472,dell,$,other,Used,300.2
+2473,I2473,lenovo,$,other,Open box,500.0
+2474,I2474,dell,$,multicolor,Certified - Refurbished,899.0
+2475,I2475,lenovo,$,other,Used,200.0
+2476,I2476,dell,$,gray,Excellent - Refurbished,360.0
+2477,I2477,hp,$,red,Undefined,259.0
+2478,I2478,hp,$,other,Used,179.0
+2479,I2479,lenovo,$,black,Used,231.0
+2480,I2480,dell,$,silver,Excellent - Refurbished,1050.0
+2481,I2481,microsoft,$,other,Undefined,158.1
+2482,I2482,dell,$,black,Used,200.0
+2483,I2483,dell,$,silver,Undefined,380.0
+2484,I2484,hp,$,black,Used,79.94
+2485,I2485,other,$,other,Used,299.0
+2486,I2486,hp,$,silver,New,325.0
+2487,I2487,dell,$,other,Used,298.8
+2488,I2488,dell,$,other,Used,352.0
+2489,I2489,dell,$,other,Used,294.0
+2490,I2490,hp,$,other,Used,44.0
+2491,I2491,acer,$,gray,Undefined,550.0
+2492,I2492,hp,$,silver,Used,300.0
+2493,I2493,samsung,$,silver,Undefined,175.0
+2494,I2494,lenovo,$,other,Used,309.2
+2495,I2495,other,$,other,Used,13.05
+2496,I2496,dell,$,other,Used,334.5
+2497,I2497,dell,$,other,Used,349.8
+2498,I2498,lenovo,$,other,Used,340.2
+2499,I2499,lenovo,$,black,Used,119.0
+2500,I2500,dell,$,other,Used,377.5
+2501,I2501,other,$,other,Used,521.0
+2502,I2502,dell,$,other,Used,260.8
+2503,I2503,hp,$,black,Certified - Refurbished,509.5
+2504,I2504,asus,$,black,Undefined,199.9
+2505,I2505,dell,$,black,Very Good - Refurbished,179.0
+2506,I2506,hp,$,other,Used,415.0
+2507,I2507,dell,$,other,Used,209.0
+2508,I2508,dell,$,other,Open box,750.0
+2509,I2509,dell,$,multicolor,Very Good - Refurbished,140.0
+2510,I2510,dell,$,black,Used,90.0
+2511,I2511,lg,$,white,Used,310.0
+2512,I2512,other,$,other,Used,413.2
+2513,I2513,other,$,other,Used,105.0
+2514,I2514,lenovo,$,other,Open box,899.0
+2515,I2515,dell,$,black,Used,45.0
+2516,I2516,asus,$,silver,Undefined,100.0
+2517,I2517,other,$,silver,New,1439.0
+2518,I2518,asus,$,gray,Undefined,105.0
+2519,I2519,dell,$,other,Used,458.5
+2520,I2520,other,$,other,Used,423.0
+2521,I2521,hp,$,silver,Certified - Refurbished,319.5
+2522,I2522,lenovo,$,black,Used,150.0
+2523,I2523,other,$,other,New,70.0
+2524,I2524,hp,$,gray,New,315.0
+2525,I2525,other,$,other,Undefined,146.5
+2526,I2526,other,$,gray,New,172.0
+2527,I2527,hp,$,black,Undefined,19.98
+2528,I2528,dell,$,other,Used,342.0
+2529,I2529,dell,$,other,Used,260.8
+2530,I2530,hp,$,gray,New,650.0
+2531,I2531,dell,$,other,Used,298.8
+2532,I2532,lenovo,$,silver,Certified - Refurbished,680.0
+2533,I2533,other,$,other,Used,412.2
+2534,I2534,other,$,other,Used,238.2
+2535,I2535,lenovo,$,other,Used,340.2
+2536,I2536,other,$,other,Used,327.8
+2537,I2537,dell,$,other,Used,45.0
+2538,I2538,dell,$,other,Undefined,198.0
+2539,I2539,dell,$,gray,Used,350.0
+2540,I2540,other,$,other,Used,87.0
+2541,I2541,other,$,blue,Used,333.2
+2542,I2542,dell,$,silver,Undefined,399.0
+2543,I2543,other,$,other,Used,40.0
+2544,I2544,other,$,silver,For parts or not working,24.98
+2545,I2545,other,$,other,Used,346.8
+2546,I2546,lenovo,$,black,Undefined,56.06
+2547,I2547,hp,$,other,Undefined,22.0
+2548,I2548,hp,$,silver,New,330.0
+2549,I2549,lenovo,$,black,New,699.0
+2550,I2550,dell,$,other,Used,365.8
+2551,I2551,other,$,other,Used,337.0
+2552,I2552,dell,$,other,Used,496.0
+2553,I2553,other,$,other,New,289.0
+2554,I2554,dell,$,silver,Used,699.0
+2555,I2555,other,$,other,Open box,500.0
+2556,I2556,dell,$,other,New,599.0
+2557,I2557,dell,$,other,Used,291.0
+2558,I2558,hp,$,silver,Used,110.0
+2559,I2559,dell,$,other,Excellent - Refurbished,600.0
+2560,I2560,hp,$,silver,Undefined,320.0
+2561,I2561,hp,$,multicolor,Used,490.0
+2562,I2562,hp,$,other,Used,130.0
+2563,I2563,hp,$,gray,Used,150.0
+2564,I2564,dell,$,gray,Used,425.0
+2565,I2565,dell,$,other,Used,318.2
+2566,I2566,dell,$,other,Used,396.0
+2567,I2567,dell,$,black,Very Good - Refurbished,53.0
+2568,I2568,other,$,other,Used,225.0
+2569,I2569,hp,$,silver,Used,243.0
+2570,I2570,dell,$,gray,Open box,740.0
+2571,I2571,hp,$,silver,Undefined,749.5
+2572,I2572,hp,$,other,Very Good - Refurbished,260.0
+2573,I2573,lenovo,$,black,Used,149.0
+2574,I2574,dell,$,other,Good - Refurbished,450.0
+2575,I2575,other,$,black,Undefined,70.0
+2576,I2576,hp,$,silver,Open box,670.0
+2577,I2577,dell,$,black,Undefined,140.0
+2578,I2578,dell,$,black,Very Good - Refurbished,199.0
+2579,I2579,other,$,gray,New,253.0
+2580,I2580,dell,$,other,Used,380.2
+2581,I2581,other,$,other,Used,477.5
+2582,I2582,other,$,other,New,4.42
+2583,I2583,dell,$,silver,Excellent - Refurbished,700.0
+2584,I2584,dell,$,black,Used,119.9
+2585,I2585,lenovo,$,other,Very Good - Refurbished,180.0
+2586,I2586,hp,$,other,Used,30.0
+2587,I2587,lenovo,$,other,New,565.0
+2588,I2588,dell,$,other,Good - Refurbished,189.0
+2589,I2589,hp,$,other,Used,50.0
+2590,I2590,dell,$,gray,Used,234.5
+2591,I2591,lg,$,blue,Undefined,850.0
+2592,I2592,dell,$,other,For parts or not working,29.95
+2593,I2593,acer,$,black,Used,435.0
+2594,I2594,dell,$,other,Used,398.0
+2595,I2595,dell,$,other,Used,328.5
+2596,I2596,lenovo,$,other,Used,325.2
+2597,I2597,dell,$,other,Used,588.5
+2598,I2598,dell,$,other,Used,360.5
+2599,I2599,lenovo,$,black,Excellent - Refurbished,530.0
+2600,I2600,dell,$,multicolor,Open box,575.0
+2601,I2601,microsoft,$,other,Used,219.5
+2602,I2602,hp,$,silver,Undefined,50.0
+2603,I2603,dell,$,other,Used,420.5
+2604,I2604,other,$,silver,Used,200.0
+2605,I2605,microsoft,$,black,Used,255.0
+2606,I2606,other,$,other,Used,19.58
+2607,I2607,dell,$,other,Used,384.0
+2608,I2608,dell,$,other,Used,21.95
+2609,I2609,dell,$,other,Used,384.0
+2610,I2610,dell,$,other,For parts or not working,19.0
+2611,I2611,lenovo,$,other,Used,399.8
+2612,I2612,hp,$,white,Used,150.4
+2613,I2613,acer,$,gray,New,399.0
+2614,I2614,hp,$,silver,Used,230.0
+2615,I2615,other,$,other,New,890.0
+2616,I2616,other,$,other,Used,412.2
+2617,I2617,lenovo,$,green,Undefined,800.0
+2618,I2618,dell,$,other,Used,449.8
+2619,I2619,dell,$,other,Used,489.5
+2620,I2620,dell,$,other,Good - Refurbished,216.0
+2621,I2621,lenovo,$,multicolor,Undefined,200.0
+2622,I2622,dell,$,gray,Used,300.0
+2623,I2623,other,$,beige,Used,52.0
+2624,I2624,hp,$,silver,Used,120.0
+2625,I2625,dell,$,other,Used,358.8
+2626,I2626,other,$,other,For parts or not working,65.25
+2627,I2627,microsoft,$,other,Used,220.0
+2628,I2628,dell,$,silver,Undefined,300.0
+2629,I2629,lenovo,$,black,Undefined,720.0
+2630,I2630,hp,$,other,Used,125.0
+2631,I2631,hp,$,other,New,90.0
+2632,I2632,dell,$,other,Used,313.5
+2633,I2633,dell,$,other,Used,302.8
+2634,I2634,other,$,other,Used,433.2
+2635,I2635,other,$,other,Used,194.8
+2636,I2636,dell,$,black,Used,103.4
+2637,I2637,dell,$,black,Used,80.0
+2638,I2638,other,$,silver,Used,285.0
+2639,I2639,lenovo,$,black,Used,112.5
+2640,I2640,other,$,multicolor,Used,325.0
+2641,I2641,lenovo,$,other,Used,500.0
+2642,I2642,dell,$,black,Excellent - Refurbished,400.0
+2643,I2643,dell,$,other,For parts or not working,55.0
+2644,I2644,microsoft,$,other,Used,150.0
+2645,I2645,dell,$,black,Undefined,363.0
+2646,I2646,samsung,$,silver,Undefined,95.0
+2647,I2647,other,$,black,Used,700.0
+2648,I2648,samsung,$,silver,Undefined,135.0
+2649,I2649,dell,$,black,For parts or not working,100.0
+2650,I2650,dell,$,black,Used,375.0
+2651,I2651,hp,$,other,New,250.0
+2652,I2652,other,$,other,Used,390.8
+2653,I2653,other,$,other,Used,208.9
+2654,I2654,hp,$,other,Used,88.56
+2655,I2655,hp,$,other,Used,139.2
+2656,I2656,other,$,other,Used,136.0
+2657,I2657,other,$,black,New,12.59
+2658,I2658,asus,$,other,Used,170.9
+2659,I2659,other,$,other,Used,462.0
+2660,I2660,other,$,gray,Used,38.0
+2661,I2661,microsoft,$,black,Open box,510.0
+2662,I2662,other,$,other,Used,113.9
+2663,I2663,hp,$,black,Open box,220.0
+2664,I2664,lenovo,$,other,Used,113.9
+2665,I2665,dell,$,other,Used,303.5
+2666,I2666,other,$,other,Used,260.0
+2667,I2667,hp,$,black,Used,100.0
+2668,I2668,dell,$,other,Used,312.0
+2669,I2669,other,$,other,Used,390.8
+2670,I2670,dell,$,other,Used,455.5
+2671,I2671,lenovo,$,other,Used,391.0
+2672,I2672,hp,$,silver,Undefined,325.0
+2673,I2673,hp,$,other,Used,355.8
+2674,I2674,lenovo,$,other,Used,391.0
+2675,I2675,other,$,other,Used,227.2
+2676,I2676,asus,$,other,New,3668.0
+2677,I2677,microsoft,$,other,Used,181.5
+2678,I2678,hp,$,other,For parts or not working,227.8
+2679,I2679,lenovo,$,other,Used,170.9
+2680,I2680,hp,$,other,Undefined,619.0
+2681,I2681,dell,$,other,Used,368.5
+2682,I2682,lenovo,$,other,Good - Refurbished,327.8
+2683,I2683,other,$,other,New,2718.0
+2684,I2684,other,$,other,Very Good - Refurbished,434.0
+2685,I2685,lenovo,$,gray,Used,100.0
+2686,I2686,lenovo,$,black,Excellent - Refurbished,445.0
+2687,I2687,other,$,other,Undefined,227.2
+2688,I2688,lenovo,$,other,Used,352.8
+2689,I2689,other,$,other,Good - Refurbished,330.0
+2690,I2690,microsoft,$,other,Used,191.1
+2691,I2691,other,$,other,Used,340.0
+2692,I2692,other,$,other,Used,151.9
+2693,I2693,other,$,other,Undefined,85.94
+2694,I2694,other,$,other,Open box,43.28
+2695,I2695,lg,$,silver,Undefined,649.0
+2696,I2696,other,$,other,Excellent - Refurbished,436.8
+2697,I2697,other,$,other,Used,164.5
+2698,I2698,acer,$,silver,Undefined,350.0
+2699,I2699,dell,$,black,Undefined,550.0
+2700,I2700,dell,$,other,Used,317.0
+2701,I2701,lenovo,$,other,Used,419.2
+2702,I2702,other,$,other,Used,451.2
+2703,I2703,acer,$,other,Used,1265.0
+2704,I2704,lenovo,$,other,Used,413.0
+2705,I2705,lenovo,$,gray,Undefined,200.0
+2706,I2706,dell,$,black,Undefined,360.0
+2707,I2707,dell,$,other,Used,199.0
+2708,I2708,lenovo,$,black,Good - Refurbished,125.94
+2709,I2709,dell,$,other,Undefined,119.0
+2710,I2710,acer,$,other,Used,75.94
+2711,I2711,dell,$,black,Open box,675.0
+2712,I2712,hp,$,black,Used,117.0
+2713,I2713,other,$,gold,Used,599.0
+2714,I2714,lenovo,$,gray,For parts or not working,160.0
+2715,I2715,dell,$,other,Used,321.2
+2716,I2716,other,$,black,Seller refurbished,248.0
+2717,I2717,lenovo,$,black,Undefined,30.0
+2718,I2718,lenovo,$,black,Undefined,490.0
+2719,I2719,hp,$,black,Used,70.0
+2720,I2720,dell,$,black,New,1483.0
+2721,I2721,other,$,other,New,128.4
+2722,I2722,dell,$,black,Used,129.0
+2723,I2723,hp,$,other,Used,126.5
+2724,I2724,other,$,other,Used,227.4
+2725,I2725,dell,$,other,Used,351.2
+2726,I2726,samsung,$,silver,Undefined,40.0
+2727,I2727,other,$,other,Used,126.5
+2728,I2728,hp,$,other,Used,111.25
+2729,I2729,dell,$,black,Used,250.0
+2730,I2730,other,$,other,New,1662.0
+2731,I2731,hp,$,black,Used,99.0
+2732,I2732,hp,$,silver,Undefined,145.0
+2733,I2733,dell,$,silver,Used,200.0
+2734,I2734,dell,$,other,Used,420.5
+2735,I2735,asus,$,other,Open box,25.31
+2736,I2736,other,$,other,Used,1087.0
+2737,I2737,microsoft,$,other,Used,118.1
+2738,I2738,microsoft,$,silver,For parts or not working,100.0
+2739,I2739,dell,$,other,Used,750.0
+2740,I2740,other,$,other,Used,238.2
+2741,I2741,dell,$,other,Used,253.1
+2742,I2742,other,$,silver,Used,165.0
+2743,I2743,other,$,other,Used,158.1
+2744,I2744,hp,$,silver,Undefined,260.0
+2745,I2745,other,$,silver,Used,600.0
+2746,I2746,other,$,other,Seller refurbished,129.4
+2747,I2747,hp,$,black,Used,62.94
+2748,I2748,other,$,other,Used,92.44
+2749,I2749,hp,$,other,Used,184.1
+2750,I2750,other,$,other,Used,815.5
+2751,I2751,other,$,other,Very Good - Refurbished,226.5
+2752,I2752,other,$,silver,New,159.0
+2753,I2753,lenovo,$,teal,Excellent - Refurbished,1454.0
+2754,I2754,other,$,other,Used,152.2
+2755,I2755,acer,$,black,Used,500.0
+2756,I2756,lenovo,$,other,Used,292.2
+2757,I2757,other,$,other,New,65.25
+2758,I2758,other,$,gray,New,287.0
+2759,I2759,hp,$,other,Used,443.0
+2760,I2760,lenovo,$,gray,Used,100.0
+2761,I2761,dell,$,gray,Undefined,550.0
+2762,I2762,lenovo,$,other,Used,75.94
+2763,I2763,dell,$,other,Certified - Refurbished,154.0
+2764,I2764,lenovo,$,other,Used,419.2
+2765,I2765,hp,$,other,Used,130.0
+2766,I2766,other,$,gray,New,256.5
+2767,I2767,hp,$,gray,Used,84.94
+2768,I2768,lenovo,$,other,Excellent - Refurbished,220.0
+2769,I2769,hp,$,silver,New,429.0
+2770,I2770,dell,$,black,Used,110.0
+2771,I2771,dell,$,gray,Open box,722.0
+2772,I2772,other,$,other,Used,119.0
+2773,I2773,dell,$,black,Used,45.0
+2774,I2774,hp,$,black,Good - Refurbished,164.5
+2775,I2775,lenovo,$,black,Used,100.0
+2776,I2776,dell,$,black,Undefined,409.8
+2777,I2777,hp,$,other,Used,39.0
+2778,I2778,dell,$,black,Used,235.0
+2779,I2779,hp,$,silver,Used,240.0
+2780,I2780,lenovo,$,black,Used,280.0
+2781,I2781,hp,$,other,Used,37.0
+2782,I2782,dell,$,other,Excellent - Refurbished,320.0
+2783,I2783,other,$,gray,New,134.0
+2784,I2784,hp,$,red,Open box,229.9
+2785,I2785,other,$,other,Used,250.1
+2786,I2786,asus,$,other,Used,78.6
+2787,I2787,other,$,other,Used,95.94
+2788,I2788,dell,$,black,Undefined,890.0
+2789,I2789,hp,$,silver,Used,229.0
+2790,I2790,acer,$,other,Used,39.9
+2791,I2791,lenovo,$,black,Used,89.0
+2792,I2792,lenovo,$,other,For parts or not working,51.0
+2793,I2793,lenovo,$,black,Used,31.95
+2794,I2794,acer,$,gray,Good - Refurbished,43.0
+2795,I2795,dell,$,black,Excellent - Refurbished,300.0
+2796,I2796,lenovo,$,black,Used,400.0
+2797,I2797,dell,$,black,Undefined,125.94
+2798,I2798,dell,$,black,Used,140.0
+2799,I2799,hp,$,other,New,495.0
+2800,I2800,dell,$,black,Used,130.0
+2801,I2801,other,$,silver,Excellent - Refurbished,669.0
+2802,I2802,other,$,other,Used,109.0
+2803,I2803,dell,$,other,Used,348.2
+2804,I2804,other,$,other,Used,340.0
+2805,I2805,other,$,other,Used,422.0
+2806,I2806,lenovo,$,other,Used,318.2
+2807,I2807,hp,$,brown,Used,175.0
+2808,I2808,other,$,other,Used,9.45
+2809,I2809,dell,$,gray,Excellent - Refurbished,710.0
+2810,I2810,microsoft,$,other,Used,449.0
+2811,I2811,other,$,other,Used,7.61
+2812,I2812,lenovo,$,other,Used,434.2
+2813,I2813,hp,$,other,Undefined,799.0
+2814,I2814,dell,$,black,Undefined,200.0
+2815,I2815,dell,$,other,Used,426.5
+2816,I2816,dell,$,other,Used,429.8
+2817,I2817,lenovo,$,black,Used,393.2
+2818,I2818,lenovo,$,black,Used,190.0
+2819,I2819,dell,$,black,Very Good - Refurbished,189.0
+2820,I2820,hp,$,silver,Undefined,816.0
+2821,I2821,dell,$,other,Used,135.0
+2822,I2822,other,$,other,New,91.5
+2823,I2823,dell,$,other,Used,115.9
+2824,I2824,lenovo,$,blue,Open box,299.0
+2825,I2825,acer,$,silver,Undefined,499.5
+2826,I2826,lg,$,other,New,899.0
+2827,I2827,other,$,other,Used,10.54
+2828,I2828,dell,$,other,Good - Refurbished,260.0
+2829,I2829,other,$,other,New,63.84
+2830,I2830,dell,$,other,Used,381.5
+2831,I2831,hp,$,gray,Undefined,100.0
+2832,I2832,acer,$,silver,Undefined,65.0
+2833,I2833,acer,$,other,New,349.0
+2834,I2834,samsung,$,black,Undefined,119.0
+2835,I2835,hp,$,silver,Used,160.0
+2836,I2836,dell,$,black,Used,49.0
+2837,I2837,dell,$,other,Used,386.5
+2838,I2838,dell,$,other,Used,292.2
+2839,I2839,other,$,other,Used,364.8
+2840,I2840,acer,$,silver,Undefined,100.0
+2841,I2841,other,$,other,For parts or not working,22.4
+2842,I2842,dell,$,blue,Used,65.0
+2843,I2843,other,$,black,Used,223.0
+2844,I2844,other,$,other,New,53.72
+2845,I2845,other,$,other,New,13.05
+2846,I2846,dell,$,multicolor,New,690.0
+2847,I2847,other,$,other,Used,10.88
+2848,I2848,lenovo,$,other,Used,348.2
+2849,I2849,other,$,gray,Used,200.0
+2850,I2850,dell,$,other,Used,284.8
+2851,I2851,other,$,other,Good - Refurbished,126.5
+2852,I2852,dell,$,other,For parts or not working,21.52
+2853,I2853,acer,$,gray,Undefined,2348.0
+2854,I2854,other,$,other,Used,198.0
+2855,I2855,other,$,other,Good - Refurbished,310.5
+2856,I2856,dell,$,black,Used,40.0
+2857,I2857,other,$,other,For parts or not working,37.94
+2858,I2858,dell,$,other,Very Good - Refurbished,163.2
+2859,I2859,dell,$,other,Used,310.8
+2860,I2860,dell,$,other,Used,271.2
+2861,I2861,other,$,other,Used,132.5
+2862,I2862,dell,$,other,Used,411.0
+2863,I2863,other,$,other,New,217.5
+2864,I2864,lenovo,$,black,Used,250.0
+2865,I2865,other,$,other,Used,407.8
+2866,I2866,other,$,other,Used,146.9
+2867,I2867,dell,$,black,Used,500.0
+2868,I2868,other,$,other,Used,75.94
+2869,I2869,other,$,other,Used,65.25
+2870,I2870,dell,$,other,Used,189.8
+2871,I2871,dell,$,other,Excellent - Refurbished,296.2
+2872,I2872,dell,$,other,Used,588.5
+2873,I2873,dell,$,other,Very Good - Refurbished,759.0
+2874,I2874,hp,$,black,Used,1200.0
+2875,I2875,other,$,other,Used,238.2
+2876,I2876,lenovo,$,other,Used,253.1
+2877,I2877,other,$,other,Seller refurbished,114.2
+2878,I2878,other,$,other,Used,177.1
+2879,I2879,other,$,other,Used,239.2
+2880,I2880,dell,$,other,New,125.25
+2881,I2881,other,$,other,Used,193.0
+2882,I2882,other,$,other,Good - Refurbished,190.4
+2883,I2883,other,$,other,Used,325.2
+2884,I2884,other,$,other,New,620.0
+2885,I2885,dell,$,black,For parts or not working,150.0
+2886,I2886,other,$,other,Excellent - Refurbished,147.4
+2887,I2887,dell,$,other,Used,396.0
+2888,I2888,dell,$,other,Used,396.0
+2889,I2889,lenovo,$,other,Used,348.2
+2890,I2890,asus,$,gray,Undefined,39.0
+2891,I2891,lenovo,$,black,Undefined,49.0
+2892,I2892,dell,$,gray,Certified - Refurbished,882.0
+2893,I2893,dell,$,other,Used,301.5
+2894,I2894,dell,$,other,Used,424.8
+2895,I2895,other,$,black,Seller refurbished,317.0
+2896,I2896,dell,$,silver,Used,400.0
+2897,I2897,hp,$,brown,Used,65.0
+2898,I2898,dell,$,black,Undefined,200.0
+2899,I2899,dell,$,gray,Used,98.7
+2900,I2900,dell,$,silver,Used,120.0
+2901,I2901,dell,$,black,Used,300.0
+2902,I2902,other,$,other,Used,13.05
+2903,I2903,dell,$,black,Undefined,199.0
+2904,I2904,lenovo,$,black,Used,230.0
+2905,I2905,other,$,gray,New,1149.0
+2906,I2906,lenovo,$,blue,Undefined,375.0
+2907,I2907,hp,$,other,Used,100.0
+2908,I2908,dell,$,black,Used,140.0
+2909,I2909,acer,$,gray,Undefined,52.0
+2910,I2910,other,$,other,New,80.0
+2911,I2911,dell,$,black,Used,99.0
+2912,I2912,hp,$,silver,Used,170.0
+2913,I2913,lenovo,$,other,Used,313.5
+2914,I2914,other,$,other,Used,435.0
+2915,I2915,other,$,other,New,1780.0
+2916,I2916,hp,$,blue,Undefined,174.0
+2917,I2917,hp,$,other,Used,415.0
+2918,I2918,dell,$,other,Used,426.2
+2919,I2919,asus,$,other,Open box,380.0
+2920,I2920,dell,$,black,Used,105.0
+2921,I2921,other,$,other,Used,75.06
+2922,I2922,other,$,other,Used,191.6
+2923,I2923,other,$,other,New,59.97
+2924,I2924,dell,$,black,Used,125.0
+2925,I2925,lenovo,$,blue,Undefined,419.0
+2926,I2926,dell,$,other,Used,331.8
+2927,I2927,acer,$,black,Undefined,40.0
+2928,I2928,dell,$,black,Used,100.0
+2929,I2929,other,$,grey,New,878.0
+2930,I2930,dell,$,gray,Undefined,670.0
+2931,I2931,hp,$,other,Used,164.5
+2932,I2932,hp,$,silver,Excellent - Refurbished,940.0
+2933,I2933,other,$,other,Used,333.8
+2934,I2934,other,$,other,Used,429.2
+2935,I2935,other,$,other,Open box,50.3
+2936,I2936,lenovo,$,other,Used,189.0
+2937,I2937,dell,$,black,Used,130.0
+2938,I2938,dell,$,other,Used,422.0
+2939,I2939,other,$,black,Used,335.5
+2940,I2940,hp,$,gray,Certified - Refurbished,479.5
+2941,I2941,microsoft,$,other,Used,70.0
+2942,I2942,other,$,other,Undefined,87.06
+2943,I2943,dell,$,black,Undefined,458.8
+2944,I2944,dell,$,other,Used,347.8
+2945,I2945,dell,$,other,Used,467.0
+2946,I2946,dell,$,other,Used,382.8
+2947,I2947,other,$,other,New,3408.0
+2948,I2948,other,$,other,Used,43.5
+2949,I2949,microsoft,$,other,Seller refurbished,1047.0
+2950,I2950,other,$,other,For parts or not working,22.14
+2951,I2951,dell,$,other,Used,331.8
+2952,I2952,other,$,other,Used,263.2
+2953,I2953,other,$,other,Seller refurbished,1030.0
+2954,I2954,other,$,other,New,116.5
+2955,I2955,dell,$,other,Used,281.8
+2956,I2956,other,$,other,Good - Refurbished,322.8
+2957,I2957,other,$,black,Used,478.8
+2958,I2958,other,$,other,New,82.06
+2959,I2959,other,$,other,Used,15.01
+2960,I2960,microsoft,$,other,Seller refurbished,1047.0
+2961,I2961,other,$,other,New,114.0
+2962,I2962,other,$,other,For parts or not working,21.66
+2963,I2963,acer,$,other,For parts or not working,27.1
+2964,I2964,other,$,other,Seller refurbished,2686.0
+2965,I2965,lenovo,$,other,Used,466.0
+2966,I2966,dell,$,other,Used,355.2
+2967,I2967,other,$,other,Used,200.4
+2968,I2968,dell,$,black,Used,226.2
+2969,I2969,other,$,other,For parts or not working,21.75
+2970,I2970,other,$,other,New,103.44
+2971,I2971,other,$,other,New,46.62
+2972,I2972,hp,$,other,New,120.0
+2973,I2973,other,$,other,Used,328.2
+2974,I2974,other,$,other,New,58.7
+2975,I2975,other,$,other,Used,10.54
+2976,I2976,hp,$,other,New,90.0
+2977,I2977,other,$,other,Undefined,105.25
+2978,I2978,other,$,other,Seller refurbished,2102.0
+2979,I2979,other,$,other,New,45.38
+2980,I2980,other,$,other,New,39.47
+2981,I2981,dell,$,other,Used,355.2
+2982,I2982,dell,$,other,Used,375.0
+2983,I2983,lenovo,$,other,Used,419.2
+2984,I2984,other,$,other,New,87.9
+2985,I2985,lg,$,other,New,92.06
+2986,I2986,other,$,other,Used,5.44
+2987,I2987,other,$,other,Used,371.0
+2988,I2988,other,$,other,Seller refurbished,2664.0
+2989,I2989,hp,$,other,Used,139.0
+2990,I2990,other,$,other,Used,333.8
+2991,I2991,dell,$,other,Used,484.0
+2992,I2992,other,$,other,Used,428.0
+2993,I2993,other,$,other,Used,385.5
+2994,I2994,other,$,other,Seller refurbished,2730.0
+2995,I2995,asus,$,black,Undefined,1500.0
+2996,I2996,dell,$,other,Good - Refurbished,234.1
+2997,I2997,other,$,other,Used,728.5
+2998,I2998,dell,$,other,Used,160.0
+2999,I2999,other,$,other,Seller refurbished,987.5
+3000,I3000,other,$,other,Used,21.75
+3001,I3001,other,$,other,Used,21.75
+3002,I3002,lenovo,$,other,Used,297.5
+3003,I3003,other,$,other,New,59.25
+3004,I3004,asus,$,silver,Undefined,164.5
+3005,I3005,hp,$,silver,Used,90.0
+3006,I3006,auo,$,other,New,69.94
+3007,I3007,other,$,other,New,109.0
+3008,I3008,hp,$,other,New,120.0
+3009,I3009,other,$,other,Good - Refurbished,298.5
+3010,I3010,other,$,other,Good - Refurbished,436.0
+3011,I3011,other,$,other,New,64.2
+3012,I3012,other,$,other,Used,6.53
+3013,I3013,other,$,black,Undefined,191.6
+3014,I3014,other,$,other,Undefined,39.2
+3015,I3015,other,$,other,New,26.22
+3016,I3016,other,$,other,Used,17.06
+3017,I3017,lenovo,$,other,Used,65.0
+3018,I3018,other,$,silver,Excellent - Refurbished,668.0
+3019,I3019,other,$,black,Seller refurbished,266.8
+3020,I3020,dell,$,black,Used,370.2
+3021,I3021,other,$,other,Used,331.2
+3022,I3022,other,$,other,Used,97.9
+3023,I3023,other,$,other,Used,19.58
+3024,I3024,dell,$,other,Used,312.8
+3025,I3025,other,$,other,Used,15.98
+3026,I3026,other,$,other,New,112.56
+3027,I3027,dell,$,other,Used,375.0
+3028,I3028,acer,$,other,Used,38.0
+3029,I3029,samsung,$,other,New,69.25
+3030,I3030,other,$,other,Used,347.0
+3031,I3031,other,$,other,Used,7.28
+3032,I3032,other,$,other,New,70.75
+3033,I3033,lenovo,$,black,Used,999.5
+3034,I3034,other,$,other,Undefined,61.03
+3035,I3035,other,$,other,New,29.94
+3036,I3036,other,$,other,New,20.48
+3037,I3037,other,$,other,New,92.06
+3038,I3038,auo,$,other,New,117.0
+3039,I3039,samsung,$,silver,Undefined,50.0
+3040,I3040,dell,$,other,Used,584.5
+3041,I3041,dell,$,other,Used,297.8
+3042,I3042,other,$,other,Undefined,27.66
+3043,I3043,other,$,other,New,20.67
+3044,I3044,lg,$,other,Undefined,73.44
+3045,I3045,dell,$,other,Used,165.0
+3046,I3046,other,$,other,Seller refurbished,1271.0
+3047,I3047,dell,$,other,Used,276.2
+3048,I3048,other,$,other,New,59.56
+3049,I3049,other,$,other,Seller refurbished,1022.0
+3050,I3050,other,$,other,Seller refurbished,2332.0
+3051,I3051,other,$,other,Seller refurbished,2274.0
+3052,I3052,other,$,other,Seller refurbished,2294.0
+3053,I3053,other,$,other,Seller refurbished,2114.0
+3054,I3054,dell,$,other,Used,584.5
+3055,I3055,other,$,other,Good - Refurbished,126.5
+3056,I3056,other,$,other,New,72.1
+3057,I3057,other,$,other,Seller refurbished,2084.0
+3058,I3058,other,$,other,Seller refurbished,2136.0
+3059,I3059,other,$,other,Used,331.2
+3060,I3060,microsoft,$,other,Seller refurbished,1047.0
+3061,I3061,dell,$,black,Used,254.8
+3062,I3062,other,$,other,New,92.8
+3063,I3063,dell,$,other,Used,149.0
+3064,I3064,other,$,other,Seller refurbished,2148.0
+3065,I3065,other,$,other,Used,13.05
+3066,I3066,lenovo,$,other,Used,446.8
+3067,I3067,lenovo,$,other,Used,324.2
+3068,I3068,other,$,black,Seller refurbished,2686.0
+3069,I3069,other,$,other,Used,10.88
+3070,I3070,other,$,other,New,112.44
+3071,I3071,other,$,other,Undefined,64.2
+3072,I3072,other,$,other,Seller refurbished,1281.0
+3073,I3073,other,$,other,Used,632.0
+3074,I3074,other,$,other,New,128.8
+3075,I3075,other,$,other,New,594.0
+3076,I3076,auo,$,other,New,70.4
+3077,I3077,other,$,other,Used,145.6
+3078,I3078,other,$,other,New,34.12
+3079,I3079,other,$,other,Used,23.94
+3080,I3080,microsoft,$,other,Seller refurbished,1302.0
+3081,I3081,dell,$,other,Used,442.8
+3082,I3082,lenovo,$,other,Used,349.5
+3083,I3083,other,$,other,Used,250.1
+3084,I3084,other,$,other,Used,422.0
+3085,I3085,hp,$,black,Certified - Refurbished,509.5
+3086,I3086,other,$,other,New,11.91
+3087,I3087,lenovo,$,black,Used,25.5
+3088,I3088,hp,$,silver,Undefined,35.0
+3089,I3089,dell,$,other,Used,484.0
+3090,I3090,dell,$,silver,New,889.0
+3091,I3091,dell,$,other,Used,150.0
+3092,I3092,other,$,silver,Excellent - Refurbished,668.0
+3093,I3093,asus,$,other,New,72.8
+3094,I3094,dell,$,other,Used,326.2
+3095,I3095,dell,$,other,Used,422.0
+3096,I3096,hp,$,pink,New,255.0
+3097,I3097,asus,$,other,Used,113.9
+3098,I3098,acer,$,silver,Used,55.0
+3099,I3099,dell,$,black,For parts or not working,35.0
+3100,I3100,other,$,other,Used,385.5
+3101,I3101,hp,$,other,Used,135.0
+3102,I3102,dell,$,black,Used,100.0
+3103,I3103,samsung,$,gray,Undefined,120.0
+3104,I3104,dell,$,multicolor,Open box,570.0
+3105,I3105,dell,$,other,Used,410.0
+3106,I3106,dell,$,other,Used,340.8
+3107,I3107,dell,$,other,Used,323.0
+3108,I3108,lenovo,$,other,Used,458.5
+3109,I3109,microsoft,$,other,Seller refurbished,1047.0
+3110,I3110,lg,$,other,Open box,292.5
+3111,I3111,other,$,other,Seller refurbished,2332.0
+3112,I3112,other,$,other,Seller refurbished,2148.0
+3113,I3113,dell,$,other,Used,344.0
+3114,I3114,dell,$,other,Used,379.8
+3115,I3115,other,$,other,Used,358.5
+3116,I3116,auo,$,other,New,94.44
+3117,I3117,other,$,other,New,82.6
+3118,I3118,other,$,black,Seller refurbished,329.5
+3119,I3119,other,$,other,Used,527.5
+3120,I3120,other,$,other,Seller refurbished,614.5
+3121,I3121,other,$,other,New,75.06
+3122,I3122,other,$,other,New,107.9
+3123,I3123,other,$,other,Used,1058.0
+3124,I3124,other,$,other,New,106.0
+3125,I3125,other,$,other,New,3364.0
+3126,I3126,dell,$,other,Used,447.2
+3127,I3127,other,$,other,New,109.3
+3128,I3128,other,$,other,Used,960.5
+3129,I3129,other,$,other,Seller refurbished,1000.0
+3130,I3130,other,$,other,Undefined,59.56
+3131,I3131,other,$,other,Seller refurbished,264.8
+3132,I3132,other,$,other,Seller refurbished,266.8
+3133,I3133,lenovo,$,multicolor,Good - Refurbished,75.0
+3134,I3134,other,$,other,Used,111.75
+3135,I3135,acer,$,gray,Undefined,50.0
+3136,I3136,acer,$,other,Good - Refurbished,63.0
+3137,I3137,other,$,black,Used,200.0
+3138,I3138,dell,$,black,Used,99.0
+3139,I3139,dell,$,other,Used,175.0
+3140,I3140,hp,$,silver,Certified - Refurbished,539.0
+3141,I3141,lenovo,$,black,Used,119.94
+3142,I3142,hp,$,black,Used,339.0
+3143,I3143,other,$,other,Used,250.0
+3144,I3144,microsoft,$,other,Used,149.0
+3145,I3145,lenovo,$,black,Undefined,530.0
+3146,I3146,microsoft,$,other,Used,150.0
+3147,I3147,dell,$,green,Undefined,575.0
+3148,I3148,lenovo,$,black,Used,190.0
+3149,I3149,other,$,other,Used,442.8
+3150,I3150,lenovo,$,other,Excellent - Refurbished,220.0
+3151,I3151,dell,$,black,Used,95.0
+3152,I3152,hp,$,black,Used,99.94
+3153,I3153,dell,$,other,Very Good - Refurbished,263.2
+3154,I3154,lenovo,$,black,Used,100.0
+3155,I3155,microsoft,$,platinum,Good - Refurbished,355.0
+3156,I3156,asus,$,gray,Used,29.98
+3157,I3157,dell,$,other,Used,319.0
+3158,I3158,dell,$,other,Used,324.0
+3159,I3159,dell,$,other,Used,389.5
+3160,I3160,other,$,other,Used,372.0
+3161,I3161,hp,$,other,Used,250.0
+3162,I3162,dell,$,other,Used,320.2
+3163,I3163,other,$,other,Used,225.2
+3164,I3164,other,$,other,New,3104.0
+3165,I3165,other,$,other,Undefined,72.2
+3166,I3166,other,$,gray,New,299.0
+3167,I3167,dell,$,black,Used,588.5
+3168,I3168,other,$,other,Excellent - Refurbished,589.5
+3169,I3169,other,$,gray,New,254.0
+3170,I3170,other,$,other,Used,156.1
+3171,I3171,other,$,other,New,31.55
+3172,I3172,dell,$,other,Used,329.8
+3173,I3173,other,$,other,New,33.66
+3174,I3174,other,$,other,Used,16.31
+3175,I3175,other,$,other,New,105.25
+3176,I3176,other,$,black,Seller refurbished,547.5
+3177,I3177,other,$,other,Used,488.2
+3178,I3178,lenovo,$,other,Used,323.5
+3179,I3179,dell,$,other,For parts or not working,90.0
+3180,I3180,other,$,other,New,36.97
+3181,I3181,dell,$,black,Used,325.8
+3182,I3182,other,$,other,Used,97.9
+3183,I3183,other,$,black,Seller refurbished,201.4
+3184,I3184,other,$,other,New,91.44
+3185,I3185,other,$,other,Used,15.23
+3186,I3186,hp,$,blue,Used,380.0
+3187,I3187,dell,$,other,Used,150.0
+3188,I3188,other,$,black,Seller refurbished,210.2
+3189,I3189,microsoft,$,black,Used,240.0
+3190,I3190,other,$,black,Undefined,180.0
+3191,I3191,other,$,other,Used,1235.0
+3192,I3192,other,$,gray,Undefined,700.0
+3193,I3193,dell,$,other,Used,40.0
+3194,I3194,dell,$,black,Excellent - Refurbished,1450.0
+3195,I3195,dell,$,other,Used,330.0
+3196,I3196,dell,$,other,Used,442.8
+3197,I3197,microsoft,$,silver,Used,250.0
+3198,I3198,hp,$,silver,New,820.0
+3199,I3199,other,$,other,Used,304.0
+3200,I3200,dell,$,other,Used,100.0
+3201,I3201,dell,$,multicolor,Used,170.0
+3202,I3202,other,$,other,Used,185.0
+3203,I3203,lenovo,$,black,Used,199.0
+3204,I3204,hp,$,black,Used,19.98
+3205,I3205,asus,$,blue,Undefined,197.0
+3206,I3206,other,$,silver,Good - Refurbished,530.0
+3207,I3207,other,$,other,Used,260.0
+3208,I3208,lenovo,$,other,Used,448.2
+3209,I3209,other,$,gray,For parts or not working,710.0
+3210,I3210,dell,$,other,Used,310.0
+3211,I3211,hp,$,silver,For parts or not working,160.0
+3212,I3212,lenovo,$,black,Used,250.0
+3213,I3213,other,$,other,Used,27.19
+3214,I3214,dell,$,black,Used,450.0
+3215,I3215,hp,$,other,Good - Refurbished,200.0
+3216,I3216,lenovo,$,gray,Undefined,115.0
+3217,I3217,dell,$,white,Certified - Refurbished,749.0
+3218,I3218,dell,$,other,Used,424.2
+3219,I3219,asus,$,other,New,83.6
+3220,I3220,dell,$,other,Used,344.8
+3221,I3221,other,$,other,Used,352.0
+3222,I3222,hp,$,silver,Used,190.0
+3223,I3223,lenovo,$,black,Used,50.0
+3224,I3224,lenovo,$,black,Used,269.8
+3225,I3225,lenovo,$,black,Undefined,500.0
+3226,I3226,microsoft,$,silver,Undefined,299.0
+3227,I3227,other,$,other,Used,369.2
+3228,I3228,other,$,black,Seller refurbished,229.1
+3229,I3229,dell,$,other,Used,375.8
+3230,I3230,microsoft,$,silver,For parts or not working,150.0
+3231,I3231,other,$,other,Used,215.0
+3232,I3232,dell,$,multicolor,Used,450.0
+3233,I3233,dell,$,other,Used,199.0
+3234,I3234,other,$,other,Used,398.5
+3235,I3235,other,$,other,Very Good - Refurbished,379.5
+3236,I3236,lenovo,$,other,Used,800.0
+3237,I3237,dell,$,silver,Used,860.0
+3238,I3238,dell,$,black,Undefined,169.0
+3239,I3239,acer,$,black,Undefined,375.2
+3240,I3240,dell,$,other,Used,467.5
+3241,I3241,lenovo,$,gray,Undefined,1019.0
+3242,I3242,dell,$,black,Used,180.0
+3243,I3243,acer,$,white,For parts or not working,40.0
+3244,I3244,other,$,other,New,93.2
+3245,I3245,other,$,other,New,637.5
+3246,I3246,lenovo,$,other,Used,295.0
+3247,I3247,dell,$,black,Undefined,400.0
+3248,I3248,hp,$,black,Undefined,218.9
+3249,I3249,dell,$,silver,Used,200.0
+3250,I3250,hp,$,other,Used,200.0
+3251,I3251,hp,$,silver,Used,90.0
+3252,I3252,lenovo,$,other,Used,175.0
+3253,I3253,acer,$,other,New,98.25
+3254,I3254,other,$,other,Good - Refurbished,288.2
+3255,I3255,other,$,other,New,130.6
+3256,I3256,dell,$,black,Used,314.2
+3257,I3257,other,$,other,Used,10.88
+3258,I3258,other,$,other,New,85.44
+3259,I3259,other,$,other,New,112.25
+3260,I3260,dell,$,black,Used,403.0
+3261,I3261,dell,$,black,Used,234.8
+3262,I3262,other,$,other,New,79.0
+3263,I3263,other,$,other,Used,426.5
+3264,I3264,dell,$,other,Used,375.8
+3265,I3265,dell,$,other,New,57.94
+3266,I3266,other,$,black,Undefined,204.2
+3267,I3267,other,$,black,Seller refurbished,227.8
+3268,I3268,other,$,other,Used,10.95
+3269,I3269,other,$,other,New,76.7
+3270,I3270,lenovo,$,other,Used,574.5
+3271,I3271,lg,$,other,New,93.9
+3272,I3272,other,$,other,Used,8.7
+3273,I3273,other,$,other,Used,9.79
+3274,I3274,other,$,other,Undefined,103.75
+3275,I3275,other,$,other,New,90.4
+3276,I3276,other,$,other,New,152.2
+3277,I3277,other,$,other,New,127.6
+3278,I3278,other,$,other,New,79.56
+3279,I3279,dell,$,other,Used,334.8
+3280,I3280,other,$,other,Used,337.8
+3281,I3281,auo,$,other,New,92.75
+3282,I3282,other,$,other,Used,337.5
+3283,I3283,dell,$,other,Used,324.0
+3284,I3284,other,$,other,New,131.5
+3285,I3285,other,$,other,New,121.06
+3286,I3286,other,$,other,New,206.4
+3287,I3287,other,$,other,Good - Refurbished,295.5
+3288,I3288,other,$,other,New,47.2
+3289,I3289,other,$,other,New,81.8
+3290,I3290,other,$,other,Seller refurbished,2730.0
+3291,I3291,other,$,black,Seller refurbished,292.0
+3292,I3292,other,$,black,Seller refurbished,342.2
+3293,I3293,auo,$,other,New,50.7
+3294,I3294,other,$,other,Seller refurbished,476.5
+3295,I3295,other,$,other,New,372.8
+3296,I3296,other,$,black,Seller refurbished,376.8
+3297,I3297,other,$,other,New,60.9
+3298,I3298,lg,$,other,New,93.1
+3299,I3299,other,$,other,Used,368.2
+3300,I3300,other,$,other,Good - Refurbished,304.5
+3301,I3301,other,$,other,Seller refurbished,2148.0
+3302,I3302,other,$,other,Seller refurbished,2332.0
+3303,I3303,dell,$,other,Used,400.0
+3304,I3304,auo,$,other,New,114.6
+3305,I3305,other,$,other,New,103.75
+3306,I3306,other,$,other,New,117.7
+3307,I3307,other,$,other,New,318.5
+3308,I3308,other,$,other,New,53.28
+3309,I3309,dell,$,silver,Undefined,329.0
+3310,I3310,microsoft,$,silver,Undefined,250.0
+3311,I3311,other,$,other,Used,195.8
+3312,I3312,dell,$,black,Used,89.0
+3313,I3313,dell,$,other,Used,281.8
+3314,I3314,other,$,blue,Undefined,80.0
+3315,I3315,dell,$,silver,Certified - Refurbished,695.0
+3316,I3316,dell,$,black,Used,350.0
+3317,I3317,dell,$,other,Used,374.5
+3318,I3318,other,$,other,Undefined,380.5
+3319,I3319,dell,$,silver,Used,125.0
+3320,I3320,other,$,other,Used,260.0
+3321,I3321,other,$,other,New,11.88
+3322,I3322,hp,$,silver,Undefined,24.98
+3323,I3323,lenovo,$,black,Used,119.0
+3324,I3324,acer,$,black,Good - Refurbished,49.0
+3325,I3325,other,$,blue,Used,539.0
+3326,I3326,lenovo,$,gray,Undefined,288.2
+3327,I3327,other,$,other,Used,225.0
+3328,I3328,acer,$,white,For parts or not working,120.0
+3329,I3329,lenovo,$,black,Undefined,45.0
+3330,I3330,asus,$,other,Used,86.0
+3331,I3331,asus,$,other,For parts or not working,28.5
+3332,I3332,acer,$,other,Used,89.94
+3333,I3333,dell,$,black,Very Good - Refurbished,1250.0
+3334,I3334,dell,$,other,Used,313.5
+3335,I3335,lenovo,$,other,Used,396.0
+3336,I3336,dell,$,other,Used,294.8
+3337,I3337,lenovo,$,other,Used,333.5
+3338,I3338,dell,$,black,Used,314.2
+3339,I3339,hp,$,silver,Undefined,569.0
+3340,I3340,dell,$,black,Excellent - Refurbished,820.0
+3341,I3341,hp,$,silver,For parts or not working,45.0
+3342,I3342,dell,$,black,Very Good - Refurbished,307.0
+3343,I3343,dell,$,silver,Used,200.0
+3344,I3344,other,$,black,Seller refurbished,364.2
+3345,I3345,hp,$,gray,Used,834.5
+3346,I3346,hp,$,silver,Used,450.0
+3347,I3347,other,$,other,Used,193.1
+3348,I3348,dell,$,other,Used,490.8
+3349,I3349,other,$,other,Used,205.6
+3350,I3350,lenovo,$,black,Used,171.5
+3351,I3351,lenovo,$,black,Open box,799.0
+3352,I3352,dell,$,other,Used,289.2
+3353,I3353,acer,$,black,Undefined,400.0
+3354,I3354,other,$,silver,Used,316.2
+3355,I3355,hp,$,silver,Undefined,300.0
+3356,I3356,hp,$,other,Used,230.0
+3357,I3357,dell,$,black,Used,500.0
+3358,I3358,dell,$,black,For parts or not working,60.0
+3359,I3359,hp,$,gray,For parts or not working,593.0
+3360,I3360,other,$,black,Used,70.0
+3361,I3361,dell,$,other,Used,169.0
+3362,I3362,dell,$,black,Undefined,49.0
+3363,I3363,dell,$,other,Used,383.0
+3364,I3364,dell,$,black,Very Good - Refurbished,249.0
+3365,I3365,lenovo,$,gray,Used,280.0
+3366,I3366,dell,$,other,Used,130.0
+3367,I3367,hp,$,silver,Used,389.0
+3368,I3368,lenovo,$,gray,New,490.0
+3369,I3369,dell,$,black,Undefined,40.0
+3370,I3370,other,$,other,New,12.5
+3371,I3371,hp,$,other,Used,96.94
+3372,I3372,lenovo,$,black,Used,325.8
+3373,I3373,other,$,other,Used,193.1
+3374,I3374,dell,$,black,Used,465.0
+3375,I3375,other,$,other,Used,174.0
+3376,I3376,lenovo,$,black,Used,1135.0
+3377,I3377,other,$,black,Seller refurbished,279.2
+3378,I3378,other,$,other,New,28.88
+3379,I3379,lenovo,$,other,New,45.38
+3380,I3380,lenovo,$,other,New,62.28
+3381,I3381,lenovo,$,other,Used,394.8
+3382,I3382,lg,$,other,New,112.5
+3383,I3383,dell,$,other,Used,472.2
+3384,I3384,other,$,other,Undefined,128.4
+3385,I3385,dell,$,other,Used,410.0
+3386,I3386,samsung,$,other,New,96.44
+3387,I3387,other,$,black,Seller refurbished,235.4
+3388,I3388,dell,$,other,Used,421.0
+3389,I3389,other,$,other,Seller refurbished,2186.0
+3390,I3390,other,$,other,Seller refurbished,348.0
+3391,I3391,other,$,other,New,311.2
+3392,I3392,dell,$,other,Used,324.0
+3393,I3393,lenovo,$,other,Used,396.0
+3394,I3394,samsung,$,other,New,134.5
+3395,I3395,auo,$,other,New,54.94
+3396,I3396,other,$,other,Used,11.96
+3397,I3397,dell,$,other,Used,303.0
+3398,I3398,other,$,gray,For parts or not working,55.0
+3399,I3399,lenovo,$,black,Very Good - Refurbished,400.0
+3400,I3400,samsung,$,silver,Undefined,25.0
+3401,I3401,other,$,gray,Used,549.0
+3402,I3402,asus,$,black,New,490.0
+3403,I3403,dell,$,other,Used,303.0
+3404,I3404,dell,$,other,Used,85.0
+3405,I3405,acer,$,silver,Used,50.0
+3406,I3406,dell,$,silver,Excellent - Refurbished,329.0
+3407,I3407,hp,$,other,Used,205.0
+3408,I3408,hp,$,silver,Undefined,360.0
+3409,I3409,other,$,other,New,627.5
+3410,I3410,dell,$,other,Used,656.5
+3411,I3411,samsung,$,black,Used,33.0
+3412,I3412,hp,$,silver,Used,184.2
+3413,I3413,samsung,$,other,Used,100.0
+3414,I3414,asus,$,black,New,1617.0
+3415,I3415,acer,$,white,Undefined,35.0
+3416,I3416,hp,$,other,For parts or not working,110.0
+3417,I3417,dell,$,blue,Used,140.0
+3418,I3418,microsoft,$,silver,Used,899.0
+3419,I3419,dell,$,black,Used,115.0
+3420,I3420,other,$,other,Used,423.5
+3421,I3421,dell,$,other,Used,442.8
+3422,I3422,lenovo,$,black,For parts or not working,88.0
+3423,I3423,dell,$,black,Used,165.0
+3424,I3424,lenovo,$,other,Used,219.0
+3425,I3425,other,$,other,Seller refurbished,152.2
+3426,I3426,dell,$,gray,Used,100.0
+3427,I3427,dell,$,silver,Used,296.8
+3428,I3428,dell,$,gray,Undefined,759.0
+3429,I3429,other,$,other,Used,409.2
+3430,I3430,other,$,gray,New,299.0
+3431,I3431,hp,$,black,Open box,700.0
+3432,I3432,acer,$,silver,Used,50.0
+3433,I3433,other,$,black,Used,264.0
+3434,I3434,dell,$,other,Used,199.0
+3435,I3435,dell,$,other,Used,249.0
+3436,I3436,dell,$,other,Used,239.0
+3437,I3437,acer,$,gray,Undefined,250.0
+3438,I3438,dell,$,other,Used,329.0
+3439,I3439,lenovo,$,black,For parts or not working,60.0
+3440,I3440,other,$,other,For parts or not working,120.2
+3441,I3441,hp,$,silver,Used,200.0
+3442,I3442,hp,$,other,For parts or not working,313.0
+3443,I3443,other,$,other,Used,16.02
+3444,I3444,lenovo,$,gray,Undefined,175.0
+3445,I3445,other,$,black,Used,284.0
+3446,I3446,hp,$,silver,Open box,444.0
+3447,I3447,other,$,other,Very Good - Refurbished,434.0
+3448,I3448,acer,$,silver,Used,55.0
+3449,I3449,asus,$,blue,Undefined,439.0
+3450,I3450,lenovo,$,black,Used,149.0
+3451,I3451,lenovo,$,other,Used,160.0
+3452,I3452,hp,$,silver,Very Good - Refurbished,365.0
+3453,I3453,hp,$,other,Used,106.94
+3454,I3454,asus,$,black,Open box,529.0
+3455,I3455,dell,$,silver,Undefined,239.0
+3456,I3456,samsung,$,silver,Undefined,203.8
+3457,I3457,hp,$,silver,Used,240.0
+3458,I3458,microsoft,$,black,Undefined,380.0
+3459,I3459,microsoft,$,other,Used,188.5
+3460,I3460,dell,$,black,Used,44.0
+3461,I3461,dell,$,other,Used,288.0
+3462,I3462,acer,$,blue,Very Good - Refurbished,65.0
+3463,I3463,dell,$,black,Used,825.0
+3464,I3464,dell,$,silver,Used,800.0
+3465,I3465,acer,$,gray,Undefined,41.0
+3466,I3466,microsoft,$,gray,Used,150.0
+3467,I3467,dell,$,black,Undefined,130.0
+3468,I3468,lenovo,$,black,Good - Refurbished,350.0
+3469,I3469,dell,$,black,Used,159.0
+3470,I3470,lenovo,$,black,Used,65.0
+3471,I3471,acer,$,other,Used,66.0
+3472,I3472,hp,$,black,New,155.0
+3473,I3473,lenovo,$,black,Used,90.0
+3474,I3474,dell,$,other,Used,90.0
+3475,I3475,microsoft,$,silver,Used,180.0
+3476,I3476,hp,$,multicolor,Good - Refurbished,200.0
+3477,I3477,lenovo,$,black,Used,95.0
+3478,I3478,lenovo,$,black,Used,220.0
+3479,I3479,lenovo,$,black,Used,114.94
+3480,I3480,dell,$,other,Used,82.0
+3481,I3481,lenovo,$,grey,New,338.8
+3482,I3482,other,$,other,New,205.8
+3483,I3483,other,$,other,Used,324.5
+3484,I3484,other,$,other,New,88.75
+3485,I3485,other,$,black,Used,203.5
+3486,I3486,other,$,other,For parts or not working,38.06
+3487,I3487,other,$,other,Used,337.5
+3488,I3488,other,$,other,Undefined,65.06
+3489,I3489,lg,$,other,New,97.7
+3490,I3490,lg,$,other,New,112.3
+3491,I3491,dell,$,other,Used,410.5
+3492,I3492,dell,$,other,Used,331.0
+3493,I3493,dell,$,other,Used,348.0
+3494,I3494,other,$,black,Undefined,107.2
+3495,I3495,other,$,other,Excellent - Refurbished,347.2
+3496,I3496,other,$,other,New,92.3
+3497,I3497,auo,$,other,New,91.75
+3498,I3498,other,$,other,New,28.52
+3499,I3499,other,$,other,Used,8.7
+3500,I3500,dell,$,other,Used,467.5
+3501,I3501,dell,$,other,Used,281.8
+3502,I3502,other,$,other,New,109.0
+3503,I3503,other,$,other,Undefined,102.9
+3504,I3504,other,$,other,Undefined,58.75
+3505,I3505,other,$,other,Seller refurbished,178.9
+3506,I3506,auo,$,other,Undefined,92.06
+3507,I3507,dell,$,other,Used,323.8
+3508,I3508,other,$,other,Used,423.5
+3509,I3509,other,$,other,New,85.94
+3510,I3510,samsung,$,other,New,69.94
+3511,I3511,other,$,other,Used,7.61
+3512,I3512,other,$,other,For parts or not working,21.94
+3513,I3513,other,$,black,Seller refurbished,304.5
+3514,I3514,other,$,other,Used,330.2
+3515,I3515,dell,$,other,Used,334.8
+3516,I3516,lenovo,$,other,New,68.0
+3517,I3517,lenovo,$,other,Used,330.0
+3518,I3518,hp,$,silver,Used,300.0
+3519,I3519,other,$,other,Used,107.7
+3520,I3520,dell,$,other,Used,375.0
+3521,I3521,dell,$,black,Used,175.0
+3522,I3522,other,$,black,New,1500.0
+3523,I3523,other,$,blue,Used,198.0
+3524,I3524,dell,$,gray,Used,160.0
+3525,I3525,dell,$,black,Undefined,599.0
+3526,I3526,dell,$,other,Used,135.0
+3527,I3527,lenovo,$,black,For parts or not working,40.0
+3528,I3528,hp,$,silver,Undefined,800.0
+3529,I3529,hp,$,other,Used,230.0
+3530,I3530,dell,$,black,Used,60.0
+3531,I3531,dell,$,black,Used,119.0
+3532,I3532,other,$,other,Used,400.8
+3533,I3533,dell,$,other,Good - Refurbished,260.0
+3534,I3534,asus,$,other,Undefined,70.1
+3535,I3535,asus,$,silver,Used,219.0
+3536,I3536,lenovo,$,gray,Undefined,149.0
+3537,I3537,lenovo,$,black,Used,129.0
+3538,I3538,other,$,other,Used,275.2
+3539,I3539,dell,$,other,Used,320.8
+3540,I3540,dell,$,other,Used,406.2
+3541,I3541,dell,$,other,Used,462.8
+3542,I3542,lenovo,$,other,Used,446.2
+3543,I3543,samsung,$,other,New,66.44
+3544,I3544,other,$,other,Undefined,82.44
+3545,I3545,other,$,other,Used,154.5
+3546,I3546,other,$,other,Used,326.2
+3547,I3547,lenovo,$,other,New,726.5
+3548,I3548,other,$,other,Used,336.8
+3549,I3549,other,$,other,Seller refurbished,2722.0
+3550,I3550,other,$,other,Used,6.51
+3551,I3551,other,$,other,Undefined,85.2
+3552,I3552,other,$,other,New,117.4
+3553,I3553,other,$,other,For parts or not working,21.6
+3554,I3554,other,$,other,New,316.5
+3555,I3555,other,$,other,New,130.2
+3556,I3556,acer,$,other,For parts or not working,32.4
+3557,I3557,other,$,other,Undefined,58.5
+3558,I3558,other,$,other,New,85.7
+3559,I3559,other,$,other,Excellent - Refurbished,419.2
+3560,I3560,other,$,other,Used,359.8
+3561,I3561,auo,$,other,New,92.56
+3562,I3562,other,$,other,New,130.4
+3563,I3563,lg,$,other,New,90.6
+3564,I3564,hp,$,other,For parts or not working,37.8
+3565,I3565,other,$,black,Seller refurbished,411.5
+3566,I3566,dell,$,other,Used,320.8
+3567,I3567,other,$,other,Good - Refurbished,294.8
+3568,I3568,hp,$,silver,Used,120.0
+3569,I3569,hp,$,other,Undefined,145.0
+3570,I3570,dell,$,green,Undefined,425.0
+3571,I3571,hp,$,gray,Very Good - Refurbished,290.0
+3572,I3572,hp,$,silver,Undefined,573.0
+3573,I3573,asus,$,other,For parts or not working,29.98
+3574,I3574,microsoft,$,silver,Used,485.0
+3575,I3575,other,$,other,Good - Refurbished,287.5
+3576,I3576,other,$,multicolor,Used,99.0
+3577,I3577,other,$,black,Seller refurbished,341.2
+3578,I3578,dell,$,other,Used,410.0
+3579,I3579,auo,$,other,New,59.84
+3580,I3580,dell,$,multicolor,Open box,775.0
+3581,I3581,asus,$,other,For parts or not working,70.0
+3582,I3582,dell,$,black,Used,400.0
+3583,I3583,lenovo,$,other,Undefined,170.9
+3584,I3584,dell,$,silver,Used,167.8
+3585,I3585,dell,$,silver,Certified - Refurbished,980.0
+3586,I3586,hp,$,other,Used,190.0
+3587,I3587,other,$,black,Seller refurbished,344.5
+3588,I3588,other,$,other,Used,69.6
+3589,I3589,other,$,black,Used,789.0
+3590,I3590,lenovo,$,black,Used,368.0
+3591,I3591,other,$,other,Undefined,1409.0
+3592,I3592,acer,$,silver,New,439.0
+3593,I3593,hp,$,white,Undefined,195.0
+3594,I3594,other,$,other,Used,367.2
+3595,I3595,hp,$,other,Used,49.0
+3596,I3596,dell,$,silver,Used,300.0
+3597,I3597,other,$,other,Used,94.94
+3598,I3598,dell,$,other,Used,360.0
+3599,I3599,other,$,other,Used,9.76
+3600,I3600,dell,$,other,Used,396.2
+3601,I3601,lenovo,$,other,New,61.62
+3602,I3602,other,$,other,New,41.7
+3603,I3603,other,$,other,Used,419.2
+3604,I3604,other,$,other,Seller refurbished,2144.0
+3605,I3605,dell,$,other,Used,372.8
+3606,I3606,other,$,black,Seller refurbished,632.5
+3607,I3607,lenovo,$,black,Used,522.5
+3608,I3608,lenovo,$,black,Used,573.0
+3609,I3609,dell,$,other,Used,299.8
+3610,I3610,other,$,other,New,58.6
+3611,I3611,auo,$,other,New,92.2
+3612,I3612,other,$,black,Seller refurbished,678.5
+3613,I3613,other,$,other,New,139.9
+3614,I3614,other,$,other,New,111.44
+3615,I3615,auo,$,other,New,127.9
+3616,I3616,samsung,$,other,New,135.0
+3617,I3617,other,$,other,Undefined,303.8
+3618,I3618,other,$,black,Undefined,571.5
+3619,I3619,dell,$,other,Used,485.8
+3620,I3620,dell,$,other,Used,406.2
+3621,I3621,lenovo,$,other,Used,452.5
+3622,I3622,other,$,other,Open box,747.5
+3623,I3623,other,$,other,New,51.0
+3624,I3624,lenovo,$,other,Used,422.0
+3625,I3625,dell,$,other,Seller refurbished,270.0
+3626,I3626,other,$,other,New,41.6
+3627,I3627,other,$,other,New,201.4
+3628,I3628,lg,$,other,New,95.56
+3629,I3629,other,$,other,New,47.38
+3630,I3630,dell,$,other,Used,489.5
+3631,I3631,asus,$,other,New,94.5
+3632,I3632,lg,$,other,New,99.7
+3633,I3633,other,$,other,Used,408.2
+3634,I3634,other,$,other,For parts or not working,21.98
+3635,I3635,acer,$,other,New,66.8
+3636,I3636,other,$,other,New,266.8
+3637,I3637,lg,$,other,New,124.6
+3638,I3638,other,$,other,New,31.33
+3639,I3639,other,$,other,Undefined,58.6
+3640,I3640,other,$,other,Used,380.5
+3641,I3641,dell,$,other,Used,331.2
+3642,I3642,other,$,other,Used,5.42
+3643,I3643,auo,$,other,New,71.6
+3644,I3644,dell,$,other,Used,331.2
+3645,I3645,lenovo,$,other,Used,326.5
+3646,I3646,other,$,other,Used,41.6
+3647,I3647,other,$,other,New,110.5
+3648,I3648,acer,$,other,New,46.12
+3649,I3649,lenovo,$,other,Used,339.5
+3650,I3650,other,$,other,Undefined,38.56
+3651,I3651,auo,$,other,New,81.4
+3652,I3652,dell,$,other,Used,316.2
+3653,I3653,other,$,other,Used,370.0
+3654,I3654,acer,$,other,New,91.1
+3655,I3655,other,$,other,Used,5.42
+3656,I3656,other,$,other,Used,19.19
+3657,I3657,other,$,other,New,78.8
+3658,I3658,other,$,other,Used,31.45
+3659,I3659,other,$,black,Undefined,764.5
+3660,I3660,dell,$,other,Used,348.2
+3661,I3661,other,$,other,Used,404.0
+3662,I3662,other,$,other,New,101.5
+3663,I3663,other,$,other,New,90.8
+3664,I3664,other,$,other,Seller refurbished,289.0
+3665,I3665,other,$,black,Seller refurbished,328.8
+3666,I3666,dell,$,other,Used,320.8
+3667,I3667,asus,$,other,New,83.1
+3668,I3668,other,$,other,Used,15.94
+3669,I3669,other,$,other,Used,8.68
+3670,I3670,other,$,other,Used,217.0
+3671,I3671,lg,$,other,New,78.25
+3672,I3672,acer,$,other,Undefined,95.1
+3673,I3673,lg,$,other,New,91.56
+3674,I3674,other,$,other,Used,125.0
+3675,I3675,other,$,black,Seller refurbished,228.5
+3676,I3676,hp,$,gray,Used,45.0
+3677,I3677,other,$,other,Used,23.88
+3678,I3678,other,$,other,Undefined,150.0
+3679,I3679,other,$,other,New,636.0
+3680,I3680,other,$,black,Used,285.0
+3681,I3681,other,$,silver,New,149.0
+3682,I3682,dell,$,black,Used,300.0
+3683,I3683,dell,$,other,Used,470.0
+3684,I3684,dell,$,black,Good - Refurbished,695.0
+3685,I3685,other,$,other,Used,94.94
+3686,I3686,other,$,other,Used,10.51
+3687,I3687,asus,$,blue,Used,70.0
+3688,I3688,other,$,other,Undefined,36.88
+3689,I3689,other,$,multicolor,Undefined,550.0
+3690,I3690,samsung,$,silver,Undefined,99.5
+3691,I3691,other,$,brown,Used,2374.0
+3692,I3692,acer,$,white,For parts or not working,40.0
+3693,I3693,lenovo,$,other,Used,318.0
+3694,I3694,lenovo,$,black,Used,695.0
+3695,I3695,hp,$,silver,Used,120.0
+3696,I3696,other,$,silver,Used,650.0
+3697,I3697,dell,$,black,For parts or not working,37.0
+3698,I3698,other,$,other,Used,354.2
+3699,I3699,other,$,other,Used,9.43
+3700,I3700,dell,$,silver,Good - Refurbished,630.0
+3701,I3701,lenovo,$,gray,Undefined,149.6
+3702,I3702,other,$,other,Used,348.5
+3703,I3703,other,$,black,Seller refurbished,353.8
+3704,I3704,other,$,other,Used,376.2
+3705,I3705,lenovo,$,other,New,44.9
+3706,I3706,other,$,other,New,114.44
+3707,I3707,dell,$,black,Used,239.8
+3708,I3708,samsung,$,other,New,50.25
+3709,I3709,dell,$,black,Used,463.8
+3710,I3710,other,$,other,Used,7.59
+3711,I3711,other,$,other,New,133.0
+3712,I3712,dell,$,other,Used,360.0
+3713,I3713,other,$,other,Excellent - Refurbished,340.0
+3714,I3714,lenovo,$,other,Used,323.2
+3715,I3715,other,$,other,Used,336.8
+3716,I3716,other,$,black,Seller refurbished,461.8
+3717,I3717,other,$,other,New,134.1
+3718,I3718,other,$,black,Used,433.8
+3719,I3719,lenovo,$,black,Used,603.5
+3720,I3720,other,$,other,New,806.5
+3721,I3721,other,$,other,Undefined,108.6
+3722,I3722,other,$,other,New,127.75
+3723,I3723,other,$,other,Undefined,203.6
+3724,I3724,lenovo,$,black,Used,551.0
+3725,I3725,auo,$,other,New,99.44
+3726,I3726,other,$,other,New,80.7
+3727,I3727,lenovo,$,black,Used,460.8
+3728,I3728,other,$,other,Seller refurbished,547.0
+3729,I3729,other,$,other,Used,5.42
+3730,I3730,dell,$,other,Used,108.0
+3731,I3731,hp,$,black,Used,29.0
+3732,I3732,lenovo,$,other,Used,56.0
+3733,I3733,hp,$,other,Used,125.0
+3734,I3734,acer,$,black,Used,64.94
+3735,I3735,lenovo,$,black,Used,550.0
+3736,I3736,lenovo,$,black,Used,90.0
+3737,I3737,lenovo,$,other,Used,600.0
+3738,I3738,dell,$,black,Used,50.0
+3739,I3739,lenovo,$,black,Used,46.0
+3740,I3740,hp,$,black,Used,120.0
+3741,I3741,lenovo,$,black,Used,110.0
+3742,I3742,hp,$,silver,New,193.0
+3743,I3743,microsoft,$,silver,Used,180.0
+3744,I3744,hp,$,other,Used,100.0
+3745,I3745,microsoft,$,other,Used,188.0
+3746,I3746,dell,$,other,Used,195.0
+3747,I3747,asus,$,green,Undefined,299.0
+3748,I3748,lenovo,$,black,Used,200.0
+3749,I3749,lenovo,$,gray,Undefined,150.0
+3750,I3750,lenovo,$,other,Undefined,404.0
+3751,I3751,lenovo,$,black,Undefined,30.0
+3752,I3752,dell,$,black,Used,159.0
+3753,I3753,dell,$,black,Used,57.0
+3754,I3754,samsung,$,silver,Undefined,550.0
+3755,I3755,dell,$,black,Used,168.0
+3756,I3756,other,$,other,Used,64.0
+3757,I3757,microsoft,$,silver,Used,124.0
+3758,I3758,dell,$,black,Used,130.0
+3759,I3759,hp,$,other,Used,130.0
+3760,I3760,lenovo,$,black,Used,300.0
+3761,I3761,lg,$,gray,For parts or not working,275.0
+3762,I3762,lenovo,$,black,Used,225.0
+3763,I3763,other,$,other,Used,80.0
+3764,I3764,dell,$,other,Used,405.8
+3765,I3765,other,$,other,Undefined,44.22
+3766,I3766,other,$,other,Used,40.0
+3767,I3767,other,$,other,New,53.75
+3768,I3768,dell,$,other,Used,411.0
+3769,I3769,other,$,other,Used,97.6
+3770,I3770,hp,$,silver,Undefined,579.0
+3771,I3771,other,$,other,Used,192.6
+3772,I3772,lenovo,$,other,Used,390.8
+3773,I3773,other,$,other,Undefined,20.61
+3774,I3774,other,$,other,Very Good - Refurbished,419.2
+3775,I3775,dell,$,black,Undefined,95.94
+3776,I3776,acer,$,other,New,97.25
+3777,I3777,dell,$,other,Used,286.0
+3778,I3778,other,$,other,Used,21.7
+3779,I3779,other,$,other,For parts or not working,21.8
+3780,I3780,other,$,other,New,101.8
+3781,I3781,dell,$,other,Used,416.8
+3782,I3782,dell,$,other,Used,280.8
+3783,I3783,hp,$,silver,Undefined,120.0
+3784,I3784,other,$,other,New,150.8
+3785,I3785,hp,$,red,Undefined,300.0
+3786,I3786,hp,$,silver,Used,130.0
+3787,I3787,other,$,other,New,92.2
+3788,I3788,other,$,other,Used,10.85
+3789,I3789,dell,$,other,Used,280.8
+3790,I3790,other,$,black,Seller refurbished,335.8
+3791,I3791,dell,$,black,Used,345.8
+3792,I3792,other,$,other,New,60.75
+3793,I3793,lenovo,$,other,Open box,95.0
+3794,I3794,other,$,black,Seller refurbished,370.2
+3795,I3795,other,$,other,Used,783.0
+3796,I3796,hp,$,other,New,90.56
+3797,I3797,other,$,other,Seller refurbished,434.5
+3798,I3798,other,$,other,Seller refurbished,1772.0
+3799,I3799,other,$,other,New,110.4
+3800,I3800,dell,$,other,Used,370.8
+3801,I3801,other,$,other,Used,435.2
+3802,I3802,other,$,other,New,59.53
+3803,I3803,other,$,other,New,160.2
+3804,I3804,dell,$,black,Used,814.5
+3805,I3805,other,$,other,Used,522.0
+3806,I3806,samsung,$,other,Used,29.84
+3807,I3807,dell,$,other,Used,431.2
+3808,I3808,other,$,other,New,65.0
+3809,I3809,other,$,other,New,52.72
+3810,I3810,other,$,other,Used,222.4
+3811,I3811,other,$,other,Seller refurbished,177.1
+3812,I3812,lenovo,$,other,Seller refurbished,714.0
+3813,I3813,other,$,other,Very Good - Refurbished,363.5
+3814,I3814,dell,$,other,Used,383.0
+3815,I3815,lenovo,$,other,Used,344.8
+3816,I3816,dell,$,other,Used,484.0
+3817,I3817,auo,$,other,New,97.1
+3818,I3818,other,$,other,Very Good - Refurbished,424.0
+3819,I3819,other,$,black,Used,573.0
+3820,I3820,other,$,other,New,26.7
+3821,I3821,samsung,$,other,New,58.75
+3822,I3822,other,$,other,Used,9.76
+3823,I3823,lenovo,$,other,Used,487.5
+3824,I3824,other,$,other,Used,84.2
+3825,I3825,other,$,other,New,166.1
+3826,I3826,dell,$,other,Used,375.5
+3827,I3827,other,$,other,Seller refurbished,647.0
+3828,I3828,other,$,other,Used,16.27
+3829,I3829,other,$,other,Used,404.0
+3830,I3830,other,$,other,Used,428.8
+3831,I3831,other,$,other,New,106.9
+3832,I3832,other,$,other,New,74.9
+3833,I3833,other,$,black,Used,530.0
+3834,I3834,lenovo,$,other,Seller refurbished,675.5
+3835,I3835,other,$,other,New,3060.0
+3836,I3836,lenovo,$,gray,Used,665.5
+3837,I3837,other,$,other,Used,489.5
+3838,I3838,other,$,other,New,45.6
+3839,I3839,other,$,other,Used,317.8
+3840,I3840,other,$,other,Used,10.85
+3841,I3841,other,$,other,New,33.56
+3842,I3842,other,$,other,New,230.0
+3843,I3843,dell,$,other,Used,331.0
+3844,I3844,other,$,other,Undefined,39.1
+3845,I3845,other,$,other,New,90.2
+3846,I3846,dell,$,other,Used,396.2
+3847,I3847,lenovo,$,other,New,687.0
+3848,I3848,other,$,other,Used,754.0
+3849,I3849,dell,$,gray,Certified - Refurbished,679.0
+3850,I3850,other,$,other,Undefined,81.9
+3851,I3851,other,$,other,Open box,379.8
+3852,I3852,other,$,other,Used,145.2
+3853,I3853,other,$,other,Used,54.75
+3854,I3854,dell,$,other,Used,500.5
+3855,I3855,other,$,other,Used,389.0
+3856,I3856,other,$,other,New,483.2
+3857,I3857,other,$,other,Used,19.53
+3858,I3858,other,$,black,Seller refurbished,338.2
+3859,I3859,other,$,other,Used,263.8
+3860,I3860,lenovo,$,other,Used,574.5
+3861,I3861,other,$,other,New,125.44
+3862,I3862,dell,$,other,Used,416.8
+3863,I3863,lenovo,$,black,Used,554.0
+3864,I3864,other,$,other,Used,466.2
+3865,I3865,other,$,other,New,41.8
+3866,I3866,dell,$,other,Used,281.8
+3867,I3867,other,$,black,Undefined,203.8
+3868,I3868,dell,$,black,Used,335.2
+3869,I3869,other,$,other,Used,22.34
+3870,I3870,other,$,other,Very Good - Refurbished,734.0
+3871,I3871,lenovo,$,black,Undefined,493.2
+3872,I3872,lenovo,$,black,Used,471.2
+3873,I3873,lg,$,other,New,110.4
+3874,I3874,other,$,other,New,165.0
+3875,I3875,samsung,$,other,Undefined,178.9
+3876,I3876,lg,$,other,New,92.25
+3877,I3877,samsung,$,other,Undefined,149.4
+3878,I3878,other,$,other,New,127.44
+3879,I3879,auo,$,other,New,116.3
+3880,I3880,dell,$,other,Used,391.5
+3881,I3881,dell,$,other,Used,431.2
+3882,I3882,other,$,other,New,303.8
+3883,I3883,lg,$,other,New,134.8
+3884,I3884,dell,$,other,Used,281.0
+3885,I3885,dell,$,other,Used,302.8
+3886,I3886,other,$,black,Seller refurbished,432.2
+3887,I3887,dell,$,other,Used,182.0
+3888,I3888,auo,$,other,New,91.0
+3889,I3889,hp,$,other,New,93.4
+3890,I3890,lg,$,other,New,92.2
+3891,I3891,lenovo,$,other,Used,387.0
+3892,I3892,other,$,other,Undefined,105.8
+3893,I3893,samsung,$,other,New,102.75
+3894,I3894,other,$,other,New,50.7
+3895,I3895,lg,$,other,New,116.5
+3896,I3896,auo,$,other,New,59.94
+3897,I3897,other,$,other,Seller refurbished,2108.0
+3898,I3898,samsung,$,other,New,112.4
+3899,I3899,other,$,other,New,45.25
+3900,I3900,other,$,other,Used,430.0
+3901,I3901,other,$,other,Used,177.2
+3902,I3902,auo,$,other,New,81.56
+3903,I3903,lg,$,other,New,89.9
+3904,I3904,dell,$,other,Used,413.0
+3905,I3905,samsung,$,other,New,171.1
+3906,I3906,samsung,$,other,New,94.5
+3907,I3907,other,$,other,Used,658.0
+3908,I3908,hp,$,other,New,60.62
+3909,I3909,dell,$,other,Seller refurbished,549.0
+3910,I3910,lenovo,$,other,Used,394.0
+3911,I3911,other,$,black,Used,431.8
+3912,I3912,other,$,black,Seller refurbished,341.2
+3913,I3913,dell,$,other,Used,421.0
+3914,I3914,other,$,black,Used,238.4
+3915,I3915,other,$,other,Used,444.0
+3916,I3916,dell,$,black,Used,462.5
+3917,I3917,other,$,other,Seller refurbished,732.5
+3918,I3918,lenovo,$,black,Undefined,521.5
+3919,I3919,other,$,other,Used,9.43
+3920,I3920,lenovo,$,gray,Used,607.0
+3921,I3921,other,$,other,Used,14.1
+3922,I3922,lg,$,other,New,115.94
+3923,I3923,dell,$,black,Used,226.6
+3924,I3924,dell,$,other,Seller refurbished,1363.0
+3925,I3925,other,$,other,New,162.5
+3926,I3926,other,$,black,Used,387.2
+3927,I3927,other,$,other,Used,16.12
+3928,I3928,auo,$,other,New,50.6
+3929,I3929,other,$,other,New,405.5
+3930,I3930,lenovo,$,black,Used,520.5
+3931,I3931,samsung,$,other,New,80.7
+3932,I3932,dell,$,other,Used,480.5
+3933,I3933,other,$,black,Seller refurbished,306.8
+3934,I3934,dell,$,other,Used,650.0
+3935,I3935,lenovo,$,gray,Used,565.0
+3936,I3936,other,$,other,Used,40.12
+3937,I3937,other,$,other,New,1051.0
+3938,I3938,dell,$,other,Used,485.8
+3939,I3939,other,$,black,Used,192.6
+3940,I3940,dell,$,black,Used,269.8
+3941,I3941,other,$,other,Seller refurbished,2288.0
+3942,I3942,auo,$,other,New,65.8
+3943,I3943,other,$,other,New,301.5
+3944,I3944,lenovo,$,other,Used,460.0
+3945,I3945,dell,$,black,Used,416.8
+3946,I3946,lenovo,$,black,Undefined,448.5
+3947,I3947,auo,$,other,New,59.0
+3948,I3948,other,$,other,Used,831.0
+3949,I3949,lenovo,$,other,Seller refurbished,538.5
+3950,I3950,lg,$,other,New,97.3
+3951,I3951,other,$,other,Seller refurbished,518.0
+3952,I3952,dell,$,other,Used,532.0
+3953,I3953,lg,$,other,New,109.5
+3954,I3954,lg,$,other,New,166.5
+3955,I3955,other,$,other,Seller refurbished,443.0
+3956,I3956,other,$,other,Seller refurbished,488.2
+3957,I3957,lenovo,$,other,Seller refurbished,525.5
+3958,I3958,other,$,black,Seller refurbished,488.5
+3959,I3959,dell,$,other,Used,304.0
+3960,I3960,other,$,other,For parts or not working,75.0
+3961,I3961,other,$,other,New,81.0
+3962,I3962,other,$,other,Seller refurbished,425.0
+3963,I3963,dell,$,black,Used,229.8
+3964,I3964,other,$,other,New,104.4
+3965,I3965,other,$,other,Used,278.2
+3966,I3966,other,$,other,New,120.44
+3967,I3967,other,$,other,Undefined,64.44
+3968,I3968,other,$,black,Seller refurbished,266.0
+3969,I3969,other,$,other,Used,43.4
+3970,I3970,other,$,other,Undefined,128.1
+3971,I3971,lenovo,$,other,New,72.75
+3972,I3972,microsoft,$,other,For parts or not working,69.6
+3973,I3973,hp,$,black,Used,70.0
+3974,I3974,lenovo,$,black,Used,218.5
+3975,I3975,dell,$,other,Good - Refurbished,328.0
+3976,I3976,lenovo,$,black,Good - Refurbished,230.0
+3977,I3977,other,$,black,Undefined,509.5
+3978,I3978,microsoft,$,silver,Used,124.0
+3979,I3979,microsoft,$,silver,Open box,409.0
+3980,I3980,dell,$,black,Very Good - Refurbished,125.94
+3981,I3981,lenovo,$,black,For parts or not working,60.0
+3982,I3982,other,$,silver,New,636.0
+3983,I3983,dell,$,other,New,190.0
+3984,I3984,hp,$,gray,Used,89.94
+3985,I3985,other,$,green,Used,333.2
+3986,I3986,lenovo,$,black,Used,89.0
+3987,I3987,lenovo,$,gray,Undefined,949.0
+3988,I3988,dell,$,black,Excellent - Refurbished,270.0
+3989,I3989,hp,$,silver,Used,180.0
+3990,I3990,dell,$,black,Used,399.0
+3991,I3991,lenovo,$,gray,New,649.5
+3992,I3992,hp,$,silver,New,780.0
+3993,I3993,asus,$,blue,New,609.0
+3994,I3994,lenovo,$,other,Used,255.0
+3995,I3995,microsoft,$,other,Used,188.0
+3996,I3996,other,$,black,Used,320.0
+3997,I3997,other,$,other,Used,260.0
+3998,I3998,samsung,$,blue,Undefined,450.0
+3999,I3999,dell,$,other,Used,401.5
+4000,I4000,dell,$,other,Used,396.2
+4001,I4001,other,$,other,Open box,921.0
+4002,I4002,lenovo,$,other,Used,156.1
+4003,I4003,dell,$,other,Used,414.8
+4004,I4004,other,$,black,Used,169.0
+4005,I4005,dell,$,other,Used,363.8
+4006,I4006,hp,$,silver,Used,350.0
+4007,I4007,other,$,other,Used,129.9
+4008,I4008,dell,$,other,Used,24.25
+4009,I4009,other,$,other,Good - Refurbished,151.9
+4010,I4010,hp,$,other,Undefined,758.0
+4011,I4011,dell,$,black,Undefined,388.0
+4012,I4012,other,$,black,Seller refurbished,374.2
+4013,I4013,other,$,black,Used,204.5
+4014,I4014,other,$,other,Excellent - Refurbished,435.8
+4015,I4015,dell,$,black,Used,190.0
+4016,I4016,hp,$,silver,New,390.0
+4017,I4017,other,$,other,Used,8.68
+4018,I4018,other,$,other,New,57.3
+4019,I4019,other,$,other,Used,332.0
+4020,I4020,dell,$,other,Used,388.5
+4021,I4021,dell,$,other,Used,502.2
+4022,I4022,other,$,other,New,315.2
+4023,I4023,lenovo,$,other,New,64.25
+4024,I4024,lenovo,$,other,Used,358.5
+4025,I4025,acer,$,other,New,49.6
+4026,I4026,dell,$,other,Used,286.8
+4027,I4027,other,$,other,Seller refurbished,2326.0
+4028,I4028,auo,$,other,New,50.72
+4029,I4029,other,$,other,Seller refurbished,399.0
+4030,I4030,lenovo,$,other,New,60.75
+4031,I4031,other,$,other,Used,10.51
+4032,I4032,lenovo,$,other,Used,321.0
+4033,I4033,other,$,other,Seller refurbished,2128.0
+4034,I4034,other,$,other,Seller refurbished,2144.0
+4035,I4035,dell,$,other,Used,492.5
+4036,I4036,auo,$,other,New,70.06
+4037,I4037,other,$,other,Seller refurbished,528.5
+4038,I4038,other,$,other,Seller refurbished,2092.0
+4039,I4039,dell,$,other,Used,416.8
+4040,I4040,other,$,other,New,385.2
+4041,I4041,dell,$,black,Used,335.2
+4042,I4042,other,$,other,Seller refurbished,2678.0
+4043,I4043,other,$,other,Seller refurbished,2144.0
+4044,I4044,other,$,other,New,127.56
+4045,I4045,auo,$,other,New,54.97
+4046,I4046,other,$,other,Seller refurbished,301.5
+4047,I4047,other,$,other,New,94.06
+4048,I4048,dell,$,other,Used,284.2
+4049,I4049,dell,$,other,Used,375.5
+4050,I4050,other,$,black,Seller refurbished,374.2
+4051,I4051,other,$,other,Very Good - Refurbished,395.0
+4052,I4052,other,$,black,Seller refurbished,515.5
+4053,I4053,other,$,other,Used,491.0
+4054,I4054,other,$,other,Seller refurbished,711.5
+4055,I4055,other,$,other,Used,1046.0
+4056,I4056,other,$,other,Good - Refurbished,270.2
+4057,I4057,other,$,black,Used,477.5
+4058,I4058,dell,$,other,Used,292.2
+4059,I4059,lenovo,$,other,Used,462.8
+4060,I4060,other,$,other,Used,313.8
+4061,I4061,lg,$,other,New,93.7
+4062,I4062,other,$,other,Seller refurbished,431.8
+4063,I4063,other,$,other,For parts or not working,21.6
+4064,I4064,lenovo,$,black,Used,502.5
+4065,I4065,other,$,other,Used,434.5
+4066,I4066,lenovo,$,other,Used,433.8
+4067,I4067,other,$,other,Seller refurbished,558.0
+4068,I4068,other,$,other,Excellent - Refurbished,474.0
+4069,I4069,dell,$,black,Used,331.0
+4070,I4070,other,$,other,New,59.84
+4071,I4071,samsung,$,other,New,141.4
+4072,I4072,lenovo,$,black,Undefined,626.0
+4073,I4073,other,$,black,Seller refurbished,349.8
+4074,I4074,auo,$,other,Undefined,93.94
+4075,I4075,other,$,other,New,125.9
+4076,I4076,other,$,other,Used,14.14
+4077,I4077,lenovo,$,other,Used,346.0
+4078,I4078,asus,$,other,New,84.1
+4079,I4079,other,$,other,New,316.8
+4080,I4080,lenovo,$,other,Used,322.2
+4081,I4081,dell,$,black,Used,345.8
+4082,I4082,other,$,black,Seller refurbished,307.0
+4083,I4083,acer,$,other,New,70.75
+4084,I4084,dell,$,black,Used,430.2
+4085,I4085,other,$,other,Used,201.4
+4086,I4086,other,$,other,Undefined,95.0
+4087,I4087,dell,$,other,Seller refurbished,321.2
+4088,I4088,other,$,other,New,70.0
+4089,I4089,other,$,other,Used,43.5
+4090,I4090,dell,$,black,Used,229.8
+4091,I4091,lenovo,$,other,Used,500.0
+4092,I4092,dell,$,black,Used,324.8
+4093,I4093,dell,$,other,Used,332.2
+4094,I4094,lg,$,other,New,94.7
+4095,I4095,other,$,other,For parts or not working,22.22
+4096,I4096,dell,$,black,Used,294.8
+4097,I4097,lenovo,$,other,Seller refurbished,676.0
+4098,I4098,lenovo,$,other,Used,489.2
+4099,I4099,other,$,other,New,124.56
+4100,I4100,other,$,other,Used,486.5
+4101,I4101,other,$,other,Used,446.2
+4102,I4102,dell,$,black,Used,100.0
+4103,I4103,other,$,other,New,371.8
+4104,I4104,other,$,other,Used,7.6
+4105,I4105,other,$,other,New,205.9
+4106,I4106,other,$,other,Very Good - Refurbished,593.5
+4107,I4107,auo,$,other,New,55.03
+4108,I4108,auo,$,other,New,116.5
+4109,I4109,other,$,other,Undefined,155.4
+4110,I4110,dell,$,black,Used,344.8
+4111,I4111,dell,$,other,Seller refurbished,431.8
+4112,I4112,other,$,other,Good - Refurbished,334.2
+4113,I4113,dell,$,black,Used,269.8
+4114,I4114,dell,$,other,Used,396.8
+4115,I4115,other,$,other,Used,294.5
+4116,I4116,dell,$,other,Used,384.5
+4117,I4117,other,$,other,Used,205.8
+4118,I4118,other,$,other,Used,245.2
+4119,I4119,other,$,other,Used,218.8
+4120,I4120,other,$,other,Good - Refurbished,270.5
+4121,I4121,samsung,$,other,New,69.3
+4122,I4122,hp,$,other,Used,147.5
+4123,I4123,other,$,other,New,109.5
+4124,I4124,other,$,other,New,105.5
+4125,I4125,other,$,black,Used,441.2
+4126,I4126,dell,$,black,Used,325.0
+4127,I4127,other,$,other,Used,152.0
+4128,I4128,asus,$,other,Used,101.4
+4129,I4129,other,$,other,New,42.12
+4130,I4130,asus,$,black,Undefined,840.0
+4131,I4131,other,$,other,For parts or not working,22.0
+4132,I4132,dell,$,black,Used,234.8
+4133,I4133,other,$,other,Seller refurbished,314.0
+4134,I4134,other,$,other,Good - Refurbished,571.0
+4135,I4135,other,$,other,Used,108.5
+4136,I4136,lenovo,$,other,Undefined,174.4
+4137,I4137,dell,$,black,Used,269.8
+4138,I4138,dell,$,other,Used,356.2
+4139,I4139,other,$,other,Used,392.8
+4140,I4140,other,$,other,New,312.2
+4141,I4141,other,$,black,Seller refurbished,364.8
+4142,I4142,other,$,other,Used,465.2
+4143,I4143,other,$,other,New,41.75
+4144,I4144,other,$,other,New,147.1
+4145,I4145,other,$,other,New,50.78
+4146,I4146,other,$,other,New,88.5
+4147,I4147,other,$,other,New,92.56
+4148,I4148,dell,$,black,Used,382.5
+4149,I4149,dell,$,other,Used,394.0
+4150,I4150,other,$,other,Seller refurbished,2182.0
+4151,I4151,other,$,other,Seller refurbished,1529.0
+4152,I4152,auo,$,other,New,93.75
+4153,I4153,other,$,black,Seller refurbished,300.5
+4154,I4154,other,$,white,Used,112.5
+4155,I4155,samsung,$,other,New,90.44
+4156,I4156,auo,$,other,New,55.4
+4157,I4157,other,$,other,Used,295.5
+4158,I4158,other,$,other,Used,304.2
+4159,I4159,other,$,other,Undefined,92.6
+4160,I4160,other,$,other,New,93.2
+4161,I4161,acer,$,other,For parts or not working,21.8
+4162,I4162,other,$,other,New,27.77
+4163,I4163,other,$,black,Seller refurbished,342.2
+4164,I4164,other,$,other,New,89.9
+4165,I4165,other,$,other,New,107.44
+4166,I4166,other,$,black,Seller refurbished,326.2
+4167,I4167,other,$,other,New,3156.0
+4168,I4168,other,$,other,Seller refurbished,608.0
+4169,I4169,other,$,other,Used,268.0
+4170,I4170,dell,$,black,Used,989.5
+4171,I4171,other,$,other,Seller refurbished,640.5
+4172,I4172,other,$,other,Seller refurbished,2182.0
+4173,I4173,lg,$,other,New,125.94
+4174,I4174,other,$,other,Good - Refurbished,319.0
+4175,I4175,dell,$,other,Seller refurbished,270.2
+4176,I4176,dell,$,black,Used,429.0
+4177,I4177,other,$,other,New,162.2
+4178,I4178,acer,$,other,New,93.25
+4179,I4179,dell,$,black,Used,424.8
+4180,I4180,hp,$,other,New,90.94
+4181,I4181,lenovo,$,black,Undefined,567.5
