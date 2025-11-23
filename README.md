@@ -11,6 +11,7 @@ are realistic and more preferable for buyers and additionally it helps to find t
 ## Objective
 - Making predictions on laptop sale price based on properties of a given laptop.
 - Building application on web environment where number of input features generate the predicted outcome
+- Building an interactive application where user can specify his or her preferences for a price based on his expected laptop specification
 
 ## Project Workflow: Machine Learning Pipeline
 
@@ -31,4 +32,5 @@ Phases that follows the machine learning Pipeline:
   **9. Frontend Development**
 
   
+
 
