@@ -72,3 +72,7 @@ class MultiFileSaver(DataSaver):
             # Display file saving process
             file_idx += 1
             print(f"File {file_idx}: dataset as {filename}.csv --> {self.folder_path} (Saving is successful")
+
+# Example code 
+if __name__ == "__main__":
+    pass 
