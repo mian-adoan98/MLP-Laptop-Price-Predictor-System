@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="price-displayer.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <title>Laptop Price Predictor</title>
+</head>
+
+<body>
+    <div class="webpage-title">
+        <h1>Laptop Price Predictor</h1>
+    </div>
+
+    <div class="lpp-form">
+        <form action="POST">
+
+            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">Brand name</label></div>
+                <input type="text" class="feature1">
+            </div>
+
+            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">Color</label></div>
+                <input type="text" class="feature1">
+            </div>
+
+            <!-- Input feature 1 (SELECTION BOX) ------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">Processor</label></div>
+                <input type="text" class="feature1">
+
+                <select name="selector1" id="selector_id">
+                    <option value="intel-i5">Intel i5</option>
+                    <option value="intel-i7">Intel i7</option>
+                    <option value="intel-i9">Intel i9</option>
+                    <option value="amd-ryzan-30">AMD Ryzan 3.0</option>
+                    <option value="amd-ryzan-60">AMD Ryzan 6.0</option>
+                </select>
+            </div>
+
+            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">RAM (GB)</label></div>
+                <input type="text" class="feature1">
+            </div>
+
+            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">SSD Capacity (GB)</label></div>
+                <input type="text" class="feature1">
+            </div>
+
+            <!-- Input feature 1 (SELECTION BOX)------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">Touchscreen (Y/N)</label></div>
+                <input type="text" class="feature1">
+
+                <select name="selector2" id="selector2_id">
+                    <option value="YES">YES</option>
+                    <option value="NO">NO</option>
+                </select>
+            </div>
+
+            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <div class="input-feature">
+                <div class="feature-label"><label for="feature">Resolution</label></div>
+                <input type="text" class="feature1" value="x position">
+                <input type="text" class="feature1" value="y position">
+            </div>
+        </form>
+    </div>
+   
+    </div>
+
+    <div class="price-displayer">
+        <p>Estimated Price: </p>
+        <p id="price-counter">$0.0</p>
+    </div>
+
+</body>
+
+</html>
