@@ -6,6 +6,9 @@ import pandas as pd
 import numpy as np 
 import os, sys
 
+# Variables
+project_path = "C:\Development\Projects\MachineLearning\Laptop-Price-Predictor-System\data"
+
 # Implement Data Ingestor class 
 class Ingestor(ABC):
     # Intialise variables: ingesting daa
