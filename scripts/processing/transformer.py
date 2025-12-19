@@ -72,19 +72,19 @@ class StatTransformer(DataTransformer):
 # Implement class ColumnTransformer (combining multiple dataframes)
 class ColumnTransformer(DataTransformer):
     # Initialise datasets
-    def __init__(self, dataset: pd.DataFrame):
-        self.dataset = dataset
+    def __init__(self):
+        self.dataset = pd.DataFrame()
 
     # Method 1: combine datasets
-    def combine(self, sel_dataset: pd.DataFrame) -> pd.DataFrame:
-        # Initialise new dataframe
-        # combined_df = pd.DataFrame()
+    def combine(self, container: list) -> pd.DataFrame:
+        # Identify number of datasets recorded in the dictionaries
+        number_datasets = len(container)
+        print(f"Number of datasets for Column Combination: {number_datasets}")
 
-        # Combine prepared dataframes into one single dataframe
-        container = [self.dataset, sel_dataset]
-        combined_df = pd.concat(container, axis=1)
-
-        return combined_df
+        # Perform combinations of datasets 
+        self.dataset = pd.concat(container, axis=1)
+        
+        return self.dataset
 
     # Method 2: transform datasets
     def transform(self):
