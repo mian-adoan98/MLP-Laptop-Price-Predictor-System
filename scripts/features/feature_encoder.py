@@ -73,8 +73,23 @@ class OrdinalEncoder(FeatureEncoder):
         return dataframe
     
     # Method 3: Visualise categorical features 
-    def visualise(self): 
-        pass 
+    def visualise(self, feature: str, 
+                  dataset: pd.DataFrame, 
+                  color: str): 
+        feature_data = dataset[feature].value_counts().to_frame(name="COUNTS").reset_index()
+        labels = [label.upper() for label in feature_data[feature].values]
+        counts = feature_data["COUNTS"].values
+
+        plt.figure(figsize=(14,8))
+        bars = plt.bar(labels, counts, color=color)
+
+        for bar in bars:
+            bar.set_alpha(0.80)
+
+        plt.xlabel(f"{feature}")
+        plt.ylabel("COUNTS")
+        plt.title(f"Feature Distribution ({feature.capitalize()})")
+        plt.show() 
 
 # Implement class NominalEncoder
 class NominalEncoder(FeatureEncoder):
