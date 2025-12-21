@@ -97,22 +97,23 @@ class ColumnTransformer(DataTransformer):
             # Check the feature dimension
             if len(feature_list) == 1:
                 # Delete a single feature
-                self.dataset1 = self.dataset1.drop(columns=feature_list, axis=1) 
+                self.dataset = self.dataset.drop(columns=feature_list, axis=1) 
             elif len(feature_list) > 1: 
                 # Delete a single feature
-                self.dataset1 = self.dataset1.drop(columns=feature_list, axis=1)
+                self.dataset = self.dataset.drop(columns=feature_list, axis=1)
         
         elif select_data == 2:
             # Check the feature dimension
             if len(feature_list) == 1:
                 # Delete a single feature
-                self.dataset1 = self.dataset1.drop(columns=feature_list, axis=1)
+                self.dataset = self.dataset.drop(columns=feature_list, axis=1)
             elif len(feature_list) > 1: 
                 # Delete a single feature
-                self.dataset1 = self.dataset1.drop(columns=feature_list, axis=1)
+                self.dataset = self.dataset.drop(columns=feature_list, axis=1)
 
         else:
             raise ValueError(f"Dataset type {select_data} is unknown. Please Specify the dataset")   
+
 # Example code 
 if __name__ == "__main__":
     
