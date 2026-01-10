@@ -23,7 +23,7 @@ class DataCollector(ABC):
 class DataLoader(DataCollector):
     # Initialise datafields 
     def __init__(self, filename: str, folder: str):
-        self.project_path = "C:\Development\Projects\MachineLearning\Laptop-Price-Predictor-System"
+        self.project_path = "C:\Development\Projects\MachineLearning\Laptop-Price-Predictor-System\data"
         self.filename = filename
         self.folder_path = os.path.join(self.project_path, folder)
         self.file = os.path.join(self.folder_path, filename)
