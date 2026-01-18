@@ -33,7 +33,7 @@ class FileIngestor(Ingestor):
     def __init__(self, folder, filename):
         self.path = "C:\Development\Projects\MachineLearning\Laptop-Price-Predictor-System\data"
         self.source_folder = os.path.join(self.path, folder)
-        self.source_filename = filename
+        self.source_filename = filename # specify the filanem with a csv extension: for example "laptop_price_data.csv"
 
     # Method 1: ingest data
     def ingest(self) -> pd.DataFrame:
@@ -41,7 +41,7 @@ class FileIngestor(Ingestor):
         format = self.source_filename.split(".")[-1]
 
         # Check which file is approved for ingestion
-        # Ingesting file with csv-extension
+        # Ingesting file with csv-extension & check if the file contains a csv-extension
         if self.source_filename.endswith(format):
             csv_file = os.path.join(self.source_folder, self.source_filename)
             data = pd.read_csv(csv_file, index_col=0)
