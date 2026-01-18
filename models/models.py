@@ -29,8 +29,9 @@ class MLModel(ABC):
 # Implement two classes: RegressModel, ClassModel 
 # Implement class model 1: RegressModel
 class RegressModel(MLModel):
-    def __init__(self, base_model, lr = 0.01):
+    def __init__(self, base_model,  name: str, lr: float = 0.01):
         self.base_model = base_model
+        self.model_name = name
         self.lr = lr 
         self.metrics = {}
 
@@ -60,6 +61,7 @@ class RegressModel(MLModel):
         self.metrics["Mean Squared Error"] = mse
         self.metrics["R2 Score"] = r2s
 
+        print(f"Model name: {self.model_name}")
         print(f"Mean Absolute Error: {mae}")
         print(f"Mean Squared Error: {mse}")
         print(f"R2 Score: {r2s} \n ")

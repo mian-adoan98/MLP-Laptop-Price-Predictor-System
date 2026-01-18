@@ -3,6 +3,7 @@
 import os 
 import numpy as np 
 import pandas as pd 
+import matplotlib.pyplot as plt 
 from sklearn.model_selection import train_test_split
 
 # Concept for applying functionalities for running machine learning pipeline
@@ -27,7 +28,7 @@ class Pipeline:
         self.dataset = data
         self.test_size = test_size
         self.system_metrics = self.model.metrics
-
+        self.validated_data = [] # contain training and testing set
 
     # Method: run the machine learning pipeline
     def run(self):
@@ -42,6 +43,38 @@ class Pipeline:
         self.model.build(xtrain, ytrain)
         predictions = self.model.predict(xtest)
         self.model.evaluate(xtest, ytest)
+
+        # Save validated data 
+        self.validated_data.append((xtrain, ytrain))
+        self.validated_data.append((xtest, ytest))
+
+    # Method: visualise model performance
+    def visualise(self, input_feature: str):
+         # Prepare data from testing set 
+        (xtrain, ytrain), (xtest, ytest) = self.validated_data
+        feature_train_data = xtrain[[input_feature]]
+        feature_test_data = xtest[[input_feature]]
+
+        # Build the model 
+        self.model.build(feature_train_data, ytrain)
+        predictions = self.model.predict(feature_test_data)
+
+        # Visualise relationship using scatterplot 
+        fig, axes = plt.subplots(1,2, figsize=(14,6))
+        axes[0].scatter(feature_test_data, ytest, color="blue")
+        axes[1].scatter(feature_test_data, ytest, color="purple")
+        axes[1].plot(feature_test_data, predictions, color="black")
+
+        # Plot 1: linear regression distribution before evaluation
+        axes[0].set_title("Model Performance: Before Evaluation")
+        axes[0].set_xlabel(f"{input_feature}")
+        axes[0].set_ylabel("Price range($)")
+        
+        # Plot 2: linear regression distribution after evaluation
+        axes[1].set_title("Model PerformanceAfter Evaluation")
+        axes[1].set_xlabel(f"{input_feature}")
+        axes[1].set_ylabel("Price range($)")
+        
 
 """Functionalities that need to move to script file model_dev.py: 
     - data_preparation()
