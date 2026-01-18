@@ -1,0 +1,22 @@
+File Structure
+
+Models:
+- model_run
+	- train1.ipynb
+	- train2.ipynb
+	- evaluation1.ipynb
+	- evaluation2.ipynb
+- model_registry
+	- model1.pkl
+	- model2.pkl
+- models.py
+- pipelines.py
+
+
+Content in folders and scripting files
+- model_run		contains notebooks that focuses on training models & evaluating model performance
+- model_registry	contains model artifacts essential for deployment in production (using FlaskAPI)
+- models.py		contains model blueprint for building regression or classification models
+- pipelines.py		contains pipeline blueprint for instantiating machine learning pipelines
+
+
