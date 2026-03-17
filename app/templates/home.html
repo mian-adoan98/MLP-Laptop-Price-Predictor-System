@@ -17,18 +17,18 @@
     </div>
 
     <div class="lpp-form">
-        <form action="POST">
+        <form method="POST" action="/predict">
 
-            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <!-- Input feature 1 ------------Brand name ------------------------------------------------------------------->
             <div class="input-feature">
                 <div class="feature-label"><label for="feature">Brand name</label></div>
-                <input type="text" class="feature1">
+                <input type="text" class="feature1" name="brand_name">
             </div>
 
-            <!-- Input feature 1 ------------------------------------------------------------------------------->
+            <!-- Input feature 1 -----------------------Color -------------------------------------------------------->
             <div class="input-feature">
                 <div class="feature-label"><label for="feature">Color</label></div>
-                <input type="text" class="feature1">
+                <input type="text" class="feature1" name="color">
             </div>
 
             <!-- Input feature 1 (SELECTION BOX) ------------------------------------------------------------------------------->
@@ -37,42 +37,42 @@
                 <input type="text" class="feature1">
 
                 <select name="selector1" id="selector_id">
-                    <option value="intel-i5">Intel i5</option>
-                    <option value="intel-i7">Intel i7</option>
-                    <option value="intel-i9">Intel i9</option>
-                    <option value="amd-ryzan-30">AMD Ryzan 3.0</option>
-                    <option value="amd-ryzan-60">AMD Ryzan 6.0</option>
+                    <option value="intel-i5" name="intel_i5">Intel i5</option>
+                    <option value="intel-i7" name="intel_i7">Intel i7</option>
+                    <option value="intel-i9" name="intel_i9">Intel i9</option>
+                    <option value="amd-ryzan-30" name="amd-ryzan-30">AMD Ryzan 3.0</option>
+                    <option value="amd-ryzan-60" name="amd-ryzan-60">AMD Ryzan 6.0</option>
                 </select>
             </div>
 
             <!-- Input feature 1 ------------------------------------------------------------------------------->
             <div class="input-feature">
                 <div class="feature-label"><label for="feature">RAM (GB)</label></div>
-                <input type="text" class="feature1">
+                <input type="text" class="feature1" name="ram">
             </div>
 
             <!-- Input feature 1 ------------------------------------------------------------------------------->
             <div class="input-feature">
                 <div class="feature-label"><label for="feature">SSD Capacity (GB)</label></div>
-                <input type="text" class="feature1">
+                <input type="text" class="feature1" name="ssd_capacity">
             </div>
 
             <!-- Input feature 1 (SELECTION BOX)------------------------------------------------------------------------------->
             <div class="input-feature">
                 <div class="feature-label"><label for="feature">Touchscreen (Y/N)</label></div>
-                <input type="text" class="feature1">
+                <input type="text" class="feature1" name="touchscreen">
 
                 <select name="selector2" id="selector2_id">
-                    <option value="YES">YES</option>
-                    <option value="NO">NO</option>
+                    <option value="YES" name="yes">YES</option>
+                    <option value="NO" name="no">NO</option>
                 </select>
             </div>
 
             <!-- Input feature 1 ------------------------------------------------------------------------------->
             <div class="input-feature">
                 <div class="feature-label"><label for="feature">Resolution</label></div>
-                <input type="text" class="feature1" value="x position">
-                <input type="text" class="feature1" value="y position">
+                <input type="text" class="feature1" value="x position" name="x_position">
+                <input type="text" class="feature1" value="y position" name="y_position">
             </div>
         </form>
     </div>
