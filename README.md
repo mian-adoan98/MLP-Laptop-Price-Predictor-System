@@ -1,4 +1,4 @@
-# Laptop Price Predictor
+# Laptop Price Predictor System
 
 ## Problem Statement
 
@@ -32,5 +32,6 @@ Phases that follows the machine learning Pipeline:
   **9. Frontend Development**
 
   
+
 
 
