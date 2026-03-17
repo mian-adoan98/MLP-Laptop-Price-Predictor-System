@@ -5,9 +5,13 @@ import pandas as pd
 import joblib as job
 import os 
 import sys 
+from typing import TypeVar
 
 # System Configuration
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
+
+# Type variable
+MODEL = TypeVar("MODEL")
 
 # Import functionalities: test the model packaging algorithm 
 from models.models import RegressModel
@@ -49,6 +53,22 @@ class ModelRegistor:
 
         print(f"Model {model_name}: packaging successful. File in path {register_folder}")
 
+# Model Loader: 
+class ModelLoader:
+    # Initialise attributes: 
+    def __init__(self):
+        self.model_path =  os.path.join(PROJECT_ROOT, "models\model_registry")
+
+    # Method 1: Load the model (only pkl-extension is allowed)
+    def load(self, filename: str) -> MODEL:
+        # Check if extension ends with .pkl 
+        if not filename.endswith(".pkl"): 
+            raise FileNotFoundError("Filename is not recognised. Please specify the filename ending with .pkl")
+        
+        # Load the model 
+        file_path = os.path.join(self.model_path, filename)
+        model = job.load(open(file_path, "rb"))
+        return model 
 
 # Example code (Test Environment)
 if __name__ == "__main__":
