@@ -30,41 +30,40 @@ class Ingestor(ABC):
 # Implement FileIngestor
 class FileIngestor(Ingestor):
     # Intialise variables: ingesting daa
-    def __init__(self, folder, filename):
+    def __init__(self, folder):
         self.path = "C:\Development\Projects\MachineLearning\Laptop-Price-Predictor-System\data"
         self.source_folder = os.path.join(self.path, folder)
-        self.source_filename = filename # specify the filanem with a csv extension: for example "laptop_price_data.csv"
 
     # Method 1: ingest data
-    def ingest(self) -> pd.DataFrame:
+    def ingest(self, filename) -> pd.DataFrame:
         # Extract format of the file
-        format = self.source_filename.split(".")[-1]
+        format = filename.split(".")[-1]
 
         # Check which file is approved for ingestion
         # Ingesting file with csv-extension & check if the file contains a csv-extension
-        if self.source_filename.endswith(format):
-            csv_file = os.path.join(self.source_folder, self.source_filename)
+        if filename.endswith(format):
+            csv_file = os.path.join(self.source_folder, filename)
             data = pd.read_csv(csv_file, index_col=0)
         
         # Ingesting file with sql-extension
-        elif format == ".sql" and self.source_filename.endswith(format):
-            sql_name = os.path.join(self.source_folder,self.source_filename)
+        elif format == ".sql" and filename.endswith(format):
+            sql_name = os.path.join(self.source_folder,filename)
             data = pd.read_sql(sql_name)
      
         # Ingesting file with html-extension
         return data
     
    # Method 2: Validate data
-    def validate_data(self, extension: str):
+    def validate_data(self, extension: str, filename: str):
         # if filename exist in folder 
-        if self.source_filename in self.source_folder:
-            print(f"File {self.source_filename} exists.")
+        if filename in self.source_folder:
+            print(f"File {filename} exists.")
         else:
-            print(f"Source file {self.source_filename} does not exist. Specify the filename correctly.")
+            print(f"Source file {filename} does not exist. Specify the filename correctly.")
         
         # check filename with correct format
         extensions = [".csv", ".txt", ".sql"]
-        file_extension = self.source_filename.split(".")[-1]
+        file_extension = filename.split(".")[-1]
         if file_extension in extensions:
             print(f"File extions is approved")
         else:
