@@ -8,15 +8,15 @@ Laptop_categorical_data.csv
 Laptop_complex_data.csv 
 Laptop_numerical_data.csv 
 
-loc. : processed
+loc. : external
 
 ## Target datasets for further process
 visual_property_data.csv -> visual_dataset
 network_property_data.csv -> network_dataset
 hardware_property_data.csv -> hardware_dataset
-descriptive_property_data.csv -> descriptive_dataset
+information_property_data.csv -> information_data
 
-loc. : external
+loc. : processed
 
 
 
