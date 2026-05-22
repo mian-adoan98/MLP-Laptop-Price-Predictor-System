@@ -82,8 +82,18 @@ class InconInspector(ABC):
         # return incons_list (correction/testing)
     
     # Method 2: detect inconsistent data for one feature 
-    def detect(self, feature_arr: np.ndarray) -> list: 
-        # Detect inconsistent data
+    def detect(self, feature_name: str) -> np.ndarray: 
+        """
+        Params:
+            - feature_name: a name of the feature
+            - ... 
+        Return:
+        an numpy array that only contains inconssitent data 
+        """
+        # Create an array that only contains values
+        feature_arr = self.dataset[feature_name].values
+        
+        # Initialise lists: store inconsistent & relevant data (= real data)
         incons_list = []
         real_list = []
         
@@ -101,6 +111,7 @@ class InconInspector(ABC):
                 incon_arr = np.array(incons_list)
         
         return incon_arr 
+
     
 # Example Code 
 if __name__ == "__main__": 
