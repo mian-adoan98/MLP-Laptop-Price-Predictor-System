@@ -53,6 +53,26 @@ class FileIngestor(Ingestor):
         # Ingesting file with html-extension
         return data
     
+    # Method 2: Update data after changes have been made to the dataset
+    def update(self, filename, dataset: pd.DataFrame):
+        # Extract format of the file
+        format = filename.split(".")[-1]
+
+        # Check which file is approved for ingestion
+        # Ingesting file with csv-extension & check if the file contains a csv-extension
+        if filename.endswith(format):
+            csv_file = os.path.join(self.source_folder, filename)
+            dataset.to_csv(csv_file, index=False)
+
+            print(f"File {filename} has been updated successfully.")
+            
+        # Ingesting file with sql-extension
+        elif format == ".sql" and filename.endswith(format):
+            sql_name = os.path.join(self.source_folder,filename)
+            dataset.to_sql(sql_name)
+
+            print(f"File {filename} has been updated successfully.")
+
    # Method 2: Validate data
     def validate_data(self, extension: str, filename: str):
         # if filename exist in folder 
