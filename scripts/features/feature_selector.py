@@ -32,7 +32,7 @@ class FeatureSelector(ABC):
         self.columns = dataset.columns.values 
 
     # Method 1
-    def select(self, feature_list: list) -> list:
+    def select(self, feature_list: list) -> pd.DataFrame:
         # Extract feature from the dataset
         feature_sel_df = self.dataset[feature_list]
 
@@ -40,6 +40,15 @@ class FeatureSelector(ABC):
         print(f"Number of features selected: {len(feature_list)}")
         return  feature_sel_df
 
+    # Method 2: exclude features that are redundant
+    def exclude(self, feature_list: list) -> pd.DataFrame:
+        # Extract feature from the dataset
+        feature_excl_df = self.dataset.drop(columns=feature_list)
+
+        # Pass the feature dataset 
+        print(f"Number of features excluded: {len(feature_list)}")
+        return  feature_excl_df
+        
 # Example code 
 if __name__ == "__main__":
     pass 
